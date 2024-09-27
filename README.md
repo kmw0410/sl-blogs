@@ -1,2 +1,1 @@
-# slu-blog
-blog and notices about seelen ui
+# Welcome to Seelen UI Blog & News

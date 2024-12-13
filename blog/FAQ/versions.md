@@ -66,6 +66,8 @@ For advanced users and developers who want access to the latest changes and expe
   - Updated daily or with every significant code change.
   - Only available as .exe on the Releases page.
 
+Read more about on [Seelen UI Nighly](./nightly.md)
+
 ## Recieving Updates on Setup.exe vs MSIX
 On msix updates are managed by the Microsoft Store, but on Setup.exe they are not, so an updater is included with the application this will show you a notification when an update is available.
 

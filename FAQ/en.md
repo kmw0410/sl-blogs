@@ -30,6 +30,16 @@ No, **it is not likely** that a standard Windows update will break Seelen UI. Ho
 
 ---
 
+### **Does Seelen UI require an internet connection to work?**
+
+No, **Seelen UI does not require an internet connection** to function. The app works perfectly fine offline once it is installed. However, you will need an internet connection to:  
+- Download new **widgets**, **plugins**, or **themes** from the official repository.  
+- Check for updates to the app or its components.  
+
+Beyond these activities, Seelen UI operates independently without needing an internet connection.  
+
+---
+
 ### **How to download Seelen UI?**
 You can download Seelen UI from the [official website](https://seelen.io).
 

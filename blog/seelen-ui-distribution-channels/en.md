@@ -1,4 +1,12 @@
-# **Seelen U : Installation Methods and Update Channels**
+---
+title: Seelen UI Distribution Channels
+description: Learn about the different distribution channels available for Seelen UI
+author: eythaann
+published: 13-02-2025
+lastRevision: 13-02-2025
+---
+
+# **Seelen UI: Installation Methods and Update Channels**
 
 ## **Installation Options**
 
@@ -71,6 +79,6 @@ Read more about on [Seelen UI Nighly](./nightly.md)
 ## **Recieving Updates on Setup.exe vs MSIX**
 On msix updates are managed by the Microsoft Store, but on Setup.exe they are not, so an updater is included with the application this will show you a notification when an update is available.
 
-![Seelen UI update notification on settings window](image.png)
+![Seelen UI update notification on settings window](https://github.com/Seelen-Inc/slu-blog/blob/master/blog/seelen-ui-distribution-channels/image.png?raw=true)
 
 If you click on the notification it will start downloading and installing the update, after which it will restart the application automatically.

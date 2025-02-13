@@ -1,8 +1,8 @@
-# Seelen U : Installation Methods and Update Channels
+# **Seelen U : Installation Methods and Update Channels**
 
-## Installation Options
+## **Installation Options**
 
-### Microsoft Store (MSIX)
+### **Microsoft Store (MSIX)**
 Download the latest version from the Microsoft Store. This is the most secure and user-friendly option, with automatic updates.  
 
 - Pros:
@@ -16,7 +16,7 @@ Download the latest version from the Microsoft Store. This is the most secure an
 
 ---
 
-### Winget (MSIX)
+### **Winget (MSIX)**
 Install the latest version using the following command:
 
 ```pwsh
@@ -26,7 +26,7 @@ Same pros and cons of Microsoft Store with the plus of a quick installation via 
 
 ---
 
-### .exe Installer  
+### **.exe Installer  **
 Download the setup.exe installer from the Releases page and run it.
 
 - Pros:  
@@ -36,11 +36,11 @@ Download the setup.exe installer from the Releases page and run it.
   - Not digitally signed, which may trigger antivirus warnings.
   - Less lightweight than the MSIX installer because this version includes debug symbols.
 
-## Update Channels
+## **Update Channels**
 > Indenpendent of the update channel all versions recieve automatic updates, also if your using a unstable update channel also will recieve updates of the more stable update channels, example:
 Nightly recieve updates from Nightly but also from Beta and Release
 
-### Release (Stable)
+### **Release (Stable)**
 The most secure and recommended channel for all users.
 
 - Features:
@@ -48,7 +48,7 @@ The most secure and recommended channel for all users.
   - Ideal for production and everyday use.
   - Available on Microsoft Store, Winget, .msix, and .exe.
 
-### Beta
+### **Beta**
 Aimed at users who want to try new features before they are officially released. This channel includes betas and release candidates.
 
 - Features:
@@ -57,7 +57,7 @@ Aimed at users who want to try new features before they are officially released.
   - More frequent updates than the stable release.
   - Available only as .exe on the releases page.
 
-### Nightly
+### **Nightly**
 For advanced users and developers who want access to the latest changes and experimental features.
 
 - Features:
@@ -68,7 +68,7 @@ For advanced users and developers who want access to the latest changes and expe
 
 Read more about on [Seelen UI Nighly](./nightly.md)
 
-## Recieving Updates on Setup.exe vs MSIX
+## **Recieving Updates on Setup.exe vs MSIX**
 On msix updates are managed by the Microsoft Store, but on Setup.exe they are not, so an updater is included with the application this will show you a notification when an update is available.
 
 ![Seelen UI update notification on settings window](image.png)

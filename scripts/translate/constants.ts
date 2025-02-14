@@ -1,4 +1,4 @@
-import { TargetLanguageCode } from 'deepl-node';
+import { TargetLanguageCode } from 'npm:deepl-node';
 
 export enum Translator {
   Google = 'Google',

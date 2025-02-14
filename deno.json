@@ -2,9 +2,5 @@
   "tasks": {
     "translate": "deno -A scripts/translate/mod.ts"
   },
-  "imports": {
-    "@seelen-ui/lib": "npm:@seelen-ui/lib@^2.1.8",
-    "deepl-node": "npm:deepl-node@^1.16.0",
-    "google-translate-api-x": "npm:google-translate-api-x@^10.7.2"
-  }
+  "imports": {}
 }

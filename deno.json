@@ -1,6 +1,8 @@
 {
   "tasks": {
-    "translate": "deno -A scripts/translate/mod.ts"
+    "translate": "deno -A scripts/translate.ts"
   },
-  "imports": {}
+  "imports": {
+    "@seelen/translation-toolkit": "jsr:@seelen/translation-toolkit@^1.0.1"
+  }
 }

@@ -27,7 +27,10 @@ jobs:
           mkdir -p ${{ github.event.inputs.locale }}
           mv /tmp/en.md ${{ github.event.inputs.locale }}
 
-      - run: deno task translate ${{ github.event.inputs.locale }}
+      - name: Translate
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+        run: deno task translate ${{ github.event.inputs.locale }}
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7

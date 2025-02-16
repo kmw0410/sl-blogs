@@ -1,0 +1,40 @@
+name: Tranlate
+
+on:
+  workflow_dispatch:
+    inputs:
+      locale:
+        description: "Relative path to the locales directory"
+        required: true
+        type: string
+      force:
+        description: "Force translation update"
+        required: false
+        type: boolean
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+
+      - name: Remove previous translations
+        if: ${{ github.event.inputs.force }}
+        run: |
+          mv ${{ github.event.inputs.locale }} /tmp/en.md
+          git rm -rf ${{ github.event.inputs.locale }}
+          mkdir -p ${{ github.event.inputs.locale }}
+          mv /tmp/en.md ${{ github.event.inputs.locale }}
+
+      - run: deno task translate ${{ github.event.inputs.locale }}
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          sign-commits: true
+          commit-message: "chore(lang): update translations"
+          branch: "workflow/translations"
+          title: "chore(lang): update translations"
+          body: "Update translations"
+          labels: "translations"

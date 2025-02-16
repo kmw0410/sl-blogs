@@ -9,7 +9,7 @@ on:
         type: string
       force:
         description: "Force translation update"
-        required: false
+        default: false
         type: boolean
 
 jobs:

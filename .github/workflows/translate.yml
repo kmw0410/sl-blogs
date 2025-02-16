@@ -22,10 +22,10 @@ jobs:
       - name: Remove previous translations
         if: ${{ github.event.inputs.force }}
         run: |
-          mv ${{ github.event.inputs.locale }} /tmp/en.md
+          mv ${{ github.event.inputs.locale }}/en.md /tmp/en.md
           git rm -rf ${{ github.event.inputs.locale }}
           mkdir -p ${{ github.event.inputs.locale }}
-          mv /tmp/en.md ${{ github.event.inputs.locale }}
+          mv /tmp/en.md ${{ github.event.inputs.locale }}/en.md
 
       - name: Translate
         env:

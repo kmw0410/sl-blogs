@@ -1,7 +1,7 @@
 {
   "version": "4",
   "specifiers": {
-    "jsr:@seelen/translation-toolkit@^1.0.6": "1.0.6",
+    "jsr:@seelen/translation-toolkit@^1.0.9": "1.0.9",
     "jsr:@std/fs@*": "1.0.11",
     "jsr:@std/path@^1.0.8": "1.0.8",
     "npm:@seelen-ui/lib@*": "2.1.8",
@@ -15,8 +15,8 @@
     "npm:rfdc@1.4.1": "1.4.1"
   },
   "jsr": {
-    "@seelen/translation-toolkit@1.0.6": {
-      "integrity": "9bf9a7e29b5f4ab80359cafdb8a0817e7d530082ea3c06255de79170dd81b4a7",
+    "@seelen/translation-toolkit@1.0.9": {
+      "integrity": "679fb34a1594f6c7b1fe4f7a04e0ef63afa1eb3477cbf370a776c082ef21a303",
       "dependencies": [
         "npm:deepl-node",
         "npm:google-translate-api-x",
@@ -898,7 +898,7 @@
   },
   "workspace": {
     "dependencies": [
-      "jsr:@seelen/translation-toolkit@^1.0.6"
+      "jsr:@seelen/translation-toolkit@^1.0.9"
     ]
   }
 }

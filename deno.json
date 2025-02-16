@@ -3,6 +3,6 @@
     "translate": "deno -A scripts/translate.ts"
   },
   "imports": {
-    "@seelen/translation-toolkit": "jsr:@seelen/translation-toolkit@^1.0.6"
+    "@seelen/translation-toolkit": "jsr:@seelen/translation-toolkit@^1.0.9"
   }
 }

@@ -1,7 +1,7 @@
 {
   "version": "4",
   "specifiers": {
-    "jsr:@seelen/translation-toolkit@^1.0.9": "1.0.9",
+    "jsr:@seelen/translation-toolkit@^1.1.5": "1.1.5",
     "jsr:@std/fs@*": "1.0.11",
     "jsr:@std/path@^1.0.8": "1.0.8",
     "npm:@seelen-ui/lib@*": "2.1.8",
@@ -12,16 +12,18 @@
     "npm:mdast@*": "3.0.0",
     "npm:remark@*": "15.0.1",
     "npm:remark@14.0.2": "14.0.2",
-    "npm:rfdc@1.4.1": "1.4.1"
+    "npm:rfdc@1.4.1": "1.4.1",
+    "npm:yaml@2.7.0": "2.7.0"
   },
   "jsr": {
-    "@seelen/translation-toolkit@1.0.9": {
-      "integrity": "679fb34a1594f6c7b1fe4f7a04e0ef63afa1eb3477cbf370a776c082ef21a303",
+    "@seelen/translation-toolkit@1.1.5": {
+      "integrity": "79d311c9e6536b4bfa037cf4de9fd1cc4f00ce2496180ee6aa636680123609d0",
       "dependencies": [
         "npm:deepl-node",
         "npm:google-translate-api-x",
         "npm:remark@14.0.2",
-        "npm:rfdc"
+        "npm:rfdc",
+        "npm:yaml"
       ]
     },
     "@std/fs@1.0.11": {
@@ -892,13 +894,16 @@
         "vfile-message@4.0.2"
       ]
     },
+    "yaml@2.7.0": {
+      "integrity": "sha512-+hSoy/QHluxmC9kCIJyL/uyFmLmc+e5CFR5Wa+bpIhIj85LVb9ZH2nVnqrHoSvKogwODv0ClqZkmiSSaIH5LTA=="
+    },
     "zwitch@2.0.4": {
       "integrity": "sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A=="
     }
   },
   "workspace": {
     "dependencies": [
-      "jsr:@seelen/translation-toolkit@^1.0.9"
+      "jsr:@seelen/translation-toolkit@^1.1.5"
     ]
   }
 }

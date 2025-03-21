@@ -1,7 +1,4 @@
-import {
-  AutoTranslator,
-  MarkdownTranslator,
-} from "@seelen/translation-toolkit";
+import { AutoTranslator, GoogleTranslator, MarkdownTranslator, YamlTranslator } from "@seelen/translation-toolkit";
 
 import * as fs from "jsr:@std/fs";
 import { SupportedLanguages } from "npm:@seelen-ui/lib";
@@ -13,17 +10,21 @@ if (!DEEPL_API_KEY) {
 }
 
 const targets = SupportedLanguages.filter((lang) => lang.value !== "en");
-const translator = new AutoTranslator({
+const translator = new GoogleTranslator({
   source: "en",
-  deeplApiKey: DEEPL_API_KEY,
 });
 
 async function completeTranslationsFor(localesDir: string) {
-  const enPath = `${localesDir}/en.md`;
-  const enMarkdown = await Deno.readTextFile(enPath);
-  console.info(`* ${enPath}`);
+  const enMarkdown = await Deno.readTextFile(`${localesDir}/en.md`);
+  console.info(`* translating: ${localesDir}`);
 
-  const fileTranlator = new MarkdownTranslator(enMarkdown, translator);
+  let ymlTranslator: YamlTranslator<string, string, GoogleTranslator> | null = null;
+  if (await fs.exists(`${localesDir}/en.yml`)) {
+    const enYaml = await Deno.readTextFile(`${localesDir}/en.yml`);
+    ymlTranslator = new YamlTranslator(enYaml, translator);
+  }
+
+  const mdTranslator = new MarkdownTranslator(enMarkdown, translator);
   const encoder = new TextEncoder();
 
   for (const lang of targets) {
@@ -32,17 +33,21 @@ async function completeTranslationsFor(localesDir: string) {
       console.info(`  - ${filePath} (${lang.enLabel}) - Skipped`);
       continue;
     }
-    const translatedMarkdown = await fileTranlator.translate_to(lang.value);
+
+    const translatedMarkdown = await mdTranslator.translate_to(lang.value);
     Deno.writeFileSync(filePath, encoder.encode(translatedMarkdown));
+
+    if (ymlTranslator) {
+      const translatedYaml = await ymlTranslator.translate_to(lang.value);
+      Deno.writeFileSync(`${localesDir}/${lang.value}.yml`, encoder.encode(translatedYaml));
+    }
   }
 
   console.info(); // newline on finish
 }
 
 if (Deno.args.length === 0) {
-  console.error(
-    "Missing locales directory, example: deno run scripts/translate/mod.ts locales",
-  );
+  console.error("Missing locales directory, example: deno run scripts/translate/mod.ts locales");
   Deno.exit(1);
 }
 

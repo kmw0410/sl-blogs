@@ -1,11 +1,3 @@
----
-title: Seelen UI Nighly
-description: Test the lastest changes of Seelen UI with the Nighly Update Channel!
-author: eythaann
-published: 13-02-2025
-lastRevision: 13-02-2025
----
-
 # **Seelen UI Nighly**
 
 ![Seelen UI Developer Edition](https://github.com/user-attachments/assets/76634b49-7b09-4ef2-9643-e93542309f5d)

@@ -1,5 +1,6 @@
 import {
   AutoTranslator,
+  GoogleTranslator,
   MarkdownTranslator,
   YamlTranslator,
 } from "@seelen/translation-toolkit";
@@ -14,7 +15,11 @@ if (!DEEPL_API_KEY) {
 }
 
 const targets = SupportedLanguages.filter((lang) => lang.value !== "en");
-const translator = new AutoTranslator({
+const googleTranslator = new GoogleTranslator({
+  source: "en",
+})
+
+const autoTranslator = new AutoTranslator({
   source: "en",
   deeplApiKey: DEEPL_API_KEY,
 });
@@ -27,10 +32,12 @@ async function completeTranslationsFor(localesDir: string) {
     null;
   if (await fs.exists(`${localesDir}/en.yml`)) {
     const enYaml = await Deno.readTextFile(`${localesDir}/en.yml`);
-    ymlTranslator = new YamlTranslator(enYaml, translator);
+    ymlTranslator = new YamlTranslator(enYaml, autoTranslator);
+    ymlTranslator.gap = 600;
   }
 
-  const mdTranslator = new MarkdownTranslator(enMarkdown, translator);
+  const mdTranslator = new MarkdownTranslator(enMarkdown, googleTranslator);
+  mdTranslator.gap = 300;
   const encoder = new TextEncoder();
 
   for (const lang of targets) {

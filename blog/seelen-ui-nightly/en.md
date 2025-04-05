@@ -1,6 +1,6 @@
 ---
-title: Seelen UI Nighly
-description: Test the lastest changes of Seelen UI with the Nighly Update Channel!
+title: Seelen UI Nightly
+description: Test the latest changes of Seelen UI with the Nightly Update Channel!
 author: eythaann
 published: 13-02-2025
 lastRevision: 13-02-2025

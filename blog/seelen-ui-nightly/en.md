@@ -1,51 +1,67 @@
-# **Seelen UI Nighly**
+---
+title: Seelen UI Nighly
+description: Test the lastest changes of Seelen UI with the Nighly Update Channel!
+author: eythaann
+published: 13-02-2025
+lastRevision: 13-02-2025
+---
+
+# Seelen UI Nightly
 
 ![Seelen UI Developer Edition](https://github.com/user-attachments/assets/76634b49-7b09-4ef2-9643-e93542309f5d)
 
-## **What is this?**
+## What is the Nightly Channel?
 
-The nightly release channel is a special build of our project that is
-automatically constructed every time a new commit is made to the `master`
-branch. This ensures that the nightly version always includes the latest
-changes, features, and bug fixes, even if they have not yet undergone thorough
-testing.
+The Nightly release channel is a specialized build of Seelen UI that is
+automatically generated with each new commit to the `master` branch. This
+ensures that the Nightly version always incorporates the latest changes,
+features, and bug fixes, even if they have not yet undergone extensive testing.
 
-## **Release Variants**
+## Release Variants
 
-Within the nightly releases, there are two variants available:
+Nightly releases include two distinct variants:
 
-1. **Normal Version:** This is the standard build of the application.
-2. **Debug Version:** Identified with the `-debug` prefix (e.g.,
-   `Seelen.UI_2.0.10+20241213134120_x64-setup-debug.exe`), this version is
-   specially tailored for developers and testers of themes, plugins, or widgets
-   that the application supports.
+1. **Standard Version** – The regular build of the application, suitable for
+   general testing.
+2. **Debug Version** – Identified by the `-debug` suffix (e.g.,
+   `Seelen.UI_2.0.10+20241213134120_x64-setup-debug.exe`), this variant is
+   optimized for developers and testers working on themes, plugins, or widgets
+   compatible with Seelen UI.
 
-## **enefits**
+## Benefits
 
-- **Early Feedback:** By using the nightly channel, you can test the latest
-  changes and provide feedback early in the development process.
-- **Rapid Iteration:** Allows the team to quickly identify and address issues
-  before they reach a wider audience in stable releases.
+- **Early Access to Features** – Test the latest improvements before they reach
+  stable releases.
+- **Proactive Issue Reporting** – Help identify and resolve bugs early in the
+  development cycle.
+- **Rapid Development Feedback** – Contribute to refining Seelen UI by providing
+  real-time insights.
 
-## **Limitations**
+## Limitations
 
-- **Potential Instability:** Nightly builds may contain incomplete features or
-  unresolved issues.
-- **Not Production-Ready:** These builds are intended for testing and feedback,
-  not for use in production environments.
+- **Potential Instability** – Nightly builds may include unfinished features or
+  unresolved bugs.
+- **Not Recommended for Production** – These builds are intended for testing
+  purposes only and should not be used in critical environments.
 
-## **How to Access the Nightly Release**
+## How to Enable the Nightly Channel
 
-To access the nightly builds, enable the nightly release channel in the
-application settings:
+To switch to the Nightly release channel:
 
-1. Navigate to **Settings** > **Extras** or **Information** > **Update
-   Channel**.
-2. Select the **Nightly** option.
+1. Open **Settings** > **Extras** or **Information** > **Update Channel**.
+2. Select **Nightly** from the available options.
 
-![Seelen UI How to Enable Nighly Channel](https://github.com/user-attachments/assets/ae88aeac-98cc-4424-a9e7-fb59740b694e)
+![Seelen UI How to Enable Nightly Channel](https://github.com/user-attachments/assets/ae88aeac-98cc-4424-a9e7-fb59740b694e)
 
-## **Links**
+## Additional Resources
 
-- [Nightly Releases](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
-- [Seelen UI Discord](https://discord.gg/ABfASx5ZAJ)
+- [Nightly Releases (GitHub)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
+- [Seelen UI Discord Community](https://discord.gg/ABfASx5ZAJ)
+- [Official Seelen Website](https://seelen.io)
+
+---
+
+**Note:** If you encounter any issues, please report them via
+[GitHub Issues](https://github.com/eythaann/Seelen-UI/issues) or the
+[Discord support channel](https://discord.gg/ABfASx5ZAJ). Your feedback helps
+improve Seelen UI!

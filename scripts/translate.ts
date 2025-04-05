@@ -1,4 +1,8 @@
-import { AutoTranslator, GoogleTranslator, MarkdownTranslator, YamlTranslator } from "@seelen/translation-toolkit";
+import {
+  AutoTranslator,
+  MarkdownTranslator,
+  YamlTranslator,
+} from "@seelen/translation-toolkit";
 
 import * as fs from "jsr:@std/fs";
 import { SupportedLanguages } from "npm:@seelen-ui/lib";
@@ -10,15 +14,17 @@ if (!DEEPL_API_KEY) {
 }
 
 const targets = SupportedLanguages.filter((lang) => lang.value !== "en");
-const translator = new GoogleTranslator({
+const translator = new AutoTranslator({
   source: "en",
+  deeplApiKey: DEEPL_API_KEY,
 });
 
 async function completeTranslationsFor(localesDir: string) {
   const enMarkdown = await Deno.readTextFile(`${localesDir}/en.md`);
   console.info(`* translating: ${localesDir}`);
 
-  let ymlTranslator: YamlTranslator<string, string, GoogleTranslator> | null = null;
+  let ymlTranslator: YamlTranslator<string, string, AutoTranslator> | null =
+    null;
   if (await fs.exists(`${localesDir}/en.yml`)) {
     const enYaml = await Deno.readTextFile(`${localesDir}/en.yml`);
     ymlTranslator = new YamlTranslator(enYaml, translator);
@@ -39,7 +45,10 @@ async function completeTranslationsFor(localesDir: string) {
 
     if (ymlTranslator) {
       const translatedYaml = await ymlTranslator.translate_to(lang.value);
-      Deno.writeFileSync(`${localesDir}/${lang.value}.yml`, encoder.encode(translatedYaml));
+      Deno.writeFileSync(
+        `${localesDir}/${lang.value}.yml`,
+        encoder.encode(translatedYaml),
+      );
     }
   }
 
@@ -47,7 +56,9 @@ async function completeTranslationsFor(localesDir: string) {
 }
 
 if (Deno.args.length === 0) {
-  console.error("Missing locales directory, example: deno run scripts/translate/mod.ts locales");
+  console.error(
+    "Missing locales directory, example: deno run scripts/translate/mod.ts locales",
+  );
   Deno.exit(1);
 }
 

@@ -1,96 +1,113 @@
-# **Seelen UI: Installation Methods and Update Channels**
+---
+title: Seelen UI Distribution Channels
+description: Learn about the different distribution channels available for Seelen UI
+author: eythaann
+published: 13-02-2025
+lastRevision: 13-02-2025
+---
 
-## **Installation Options**
+# Seelen UI: Installation Methods and Update Channels
 
-### **Microsoft Store (MSIX)**
+## Installation Options
 
-Download the latest version from the Microsoft Store. This is the most secure
-and user-friendly option, with automatic updates.
+### Microsoft Store (MSIX)
 
-- Pros:
-  - Automatic updates.
-  - Verified and approved by Microsoft.
-  - High security and reliability.
-  - Lightweighter version than .exe installer because this version doesn't
-    includes debug symbols.
-- Cons:
-  - Updates may take 1-3 business days to be approved.
-  - Harder to debug and report issues.
+Download the latest version from the
+[Microsoft Store](https://www.microsoft.com/store). This is the most secure and
+user-friendly option, with automatic updates.
+
+**Pros:**
+
+- Automatic updates
+- Verified and approved by Microsoft
+- High security and reliability
+- Lighter version than .exe installer (no debug symbols included)
+
+**Cons:**
+
+- Updates may take 1-3 business days for Microsoft approval
+- More difficult to debug and report issues
 
 ---
 
-### **Winget (MSIX)**
+### Winget (MSIX)
 
 Install the latest version using the following command:
 
-```pwsh
-winget install --id Seelen.SeelenUI
-```
+> winget install --id Seelen.SeelenUI
 
-Same pros and cons of Microsoft Store with the plus of a quick installation via
-command line.
+Offers the same benefits as the Microsoft Store version with the added
+convenience of command-line installation.
 
 ---
 
-### **.exe Installer **
+### .exe Installer
 
-Download the setup.exe installer from the Releases page and run it.
+Download the setup.exe installer from the
+[Releases page](https://github.com/eythaann/Seelen-UI/releases) and run it.
 
-- Pros:
-  - Faster installation with immediate updates.
-  - Receives notifications for new releases as soon as they are available.
-- Cons:
-  - Not digitally signed, which may trigger antivirus warnings.
-  - Less lightweight than the MSIX installer because this version includes debug
-    symbols.
+**Pros:**
 
-## **Update Channels**
+- Immediate updates available
+- Receives update notifications as soon as new versions are released
+- Better for debugging purposes
 
-> Indenpendent of the update channel all versions recieve automatic updates,
-> also if your using a unstable update channel also will recieve updates of the
-> more stable update channels, example: Nightly recieve updates from Nightly but
-> also from Beta and Release
+**Cons:**
 
-### **Release (Stable)**
+- May trigger antivirus warnings (not digitally signed)
+- Larger file size (includes debug symbols)
+
+## Update Channels
+
+> Regardless of your chosen update channel, all versions receive automatic
+> updates. Unstable channels also receive updates from more stable channels
+> (e.g., Nightly receives updates from both Nightly and Beta/Release).
+
+### Release (Stable)
 
 The most secure and recommended channel for all users.
 
-- Features:
-  - Thoroughly tested with no critical bugs.
-  - Ideal for production and everyday use.
-  - Available on Microsoft Store, Winget, .msix, and .exe.
+**Features:**
 
-### **Beta**
+- Thoroughly tested with no critical bugs
+- Ideal for production and everyday use
+- Available on Microsoft Store, Winget (.msix), and as .exe installer
 
-Aimed at users who want to try new features before they are officially released.
-This channel includes betas and release candidates.
+### Beta
 
-- Features:
-  - Contains new features under testing.
-  - Might have minor bugs.
-  - More frequent updates than the stable release.
-  - Available only as .exe on the releases page.
+For users who want early access to new features before official release.
 
-### **Nightly**
+**Features:**
 
-For advanced users and developers who want access to the latest changes and
-experimental features.
+- Includes upcoming features under testing
+- May contain minor bugs
+- More frequent updates than Stable
+- Available only as .exe installer
 
-- Features:
-  - Includes the most recent changes, but not thoroughly tested.
-  - May contain bugs or unfinished features.
-  - Updated daily or with every significant code change.
-  - Only available as .exe on the Releases page.
+### Nightly
 
-Read more about on [Seelen UI Nighly](./nightly.md)
+For advanced users and developers wanting the latest changes.
 
-## **Recieving Updates on Setup.exe vs MSIX**
+**Features:**
 
-On msix updates are managed by the Microsoft Store, but on Setup.exe they are
-not, so an updater is included with the application this will show you a
-notification when an update is available.
+- Contains most recent, untested changes
+- May include bugs or incomplete features
+- Updated daily or with each significant code change
+- Available only as .exe installer
 
-![Seelen UI update notification on settings window](https://github.com/Seelen-Inc/slu-blog/blob/master/blog/seelen-ui-distribution-channels/image.png?raw=true)
+Learn more about the Nightly channel in our
+[Seelen UI Nightly](https://seelen.io/blog/nightly) documentation.
 
-If you click on the notification it will start downloading and installing the
-update, after which it will restart the application automatically.
+## Update Mechanism: Setup.exe vs MSIX
+
+- **MSIX:** Updates managed automatically by Microsoft Store
+- **Setup.exe:** Includes built-in updater that notifies you when updates are
+  available
+
+![Seelen UI update notification](https://github.com/Seelen-Inc/slu-blog/blob/master/blog/seelen-ui-distribution-channels/image.png?raw=true)
+
+When an update is available:
+
+1. Click the notification
+2. The updater will download and install the update
+3. Application will restart automatically

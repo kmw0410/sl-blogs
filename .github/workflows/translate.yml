@@ -20,7 +20,7 @@ jobs:
       - uses: denoland/setup-deno@v2
 
       - name: Remove previous translations
-        if: ${{ github.event.inputs.force }}
+        if: ${{ github.event.inputs.force == 'true' }}
         run: |
           mv ${{ github.event.inputs.locale }}/en.md /tmp/en.md
           git rm -rf ${{ github.event.inputs.locale }}

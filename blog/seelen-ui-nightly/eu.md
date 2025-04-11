@@ -4,7 +4,6 @@ author: eythaann
 description: Probatu Seelen UIren azken aldaketak gaueko eguneratze kanalarekin!
 published: 2012-02-13
 lastRevision: 2012-02-13
-
 ---
 
 # Seelen Ui Gaueko
@@ -13,37 +12,38 @@ lastRevision: 2012-02-13
 
 ## Zein da gaueko kanala?
 
-Gaueko kaleratze kanala Seelen UIren eraikuntza espezializatua da
- automatikoki sortutako konpromiso berri bakoitzarekin `master` Bulegoa. Hau
- Gaueko bertsioak azken aldaketak biltzen dituela ziurtatzen du beti,
- Ezaugarriak eta akatsak konpontzen dira, nahiz eta proba handiak jasan ez badituzte ere.
+Gaueko kaleratze kanala Seelen UIren eraikuntza espezializatua da automatikoki
+sortutako konpromiso berri bakoitzarekin `master` Bulegoa. Hau Gaueko bertsioak
+azken aldaketak biltzen dituela ziurtatzen du beti, Ezaugarriak eta akatsak
+konpontzen dira, nahiz eta proba handiak jasan ez badituzte ere.
 
 ## Askatu aldaerak
 
 Gaueko kaleratzeak bi aldaera desberdin daude:
 
-1. **Bertsio estandarra** - Aplikazioaren ohiko eraikuntza egokia da
-    Proba orokorrak.
+1. **Bertsio estandarra** - Aplikazioaren ohiko eraikuntza egokia da Proba
+   orokorrak.
 2. **Arazketa bertsioa** - identifikatuta `-debug` atzizkia (e.g.,
    `Seelen.UI_2.0.10+20241213134120_x64-setup-debug.exe`), aldaera hau da
-    Garatzaileei, pluginetan edo widgetan lan egiten duten garatzaile eta probatzaileentzat optimizatua
-    Bateragarria Seelen UI-rekin.
+   Garatzaileei, pluginetan edo widgetan lan egiten duten garatzaile eta
+   probatzaileentzat optimizatua Bateragarria Seelen UI-rekin.
 
 ## Abantailak
 
-* **Ezaugarrietarako sarbide goiztiarra** - Probatu azken hobekuntzak iritsi aurretik
-   kaleratze egonkorrak.
-* **Ale Proaktiboen Txostena** - Laguntza identifikatu eta konpontzen hasieran akatsak
-   Garapen zikloa.
-* **Garapen azkarraren iritzia** - Seelen UI fintzen lagunduz, emanez
-   denbora errealeko ikuspegi.
+- **Ezaugarrietarako sarbide goiztiarra** - Probatu azken hobekuntzak iritsi
+  aurretik kaleratze egonkorrak.
+- **Ale Proaktiboen Txostena** - Laguntza identifikatu eta konpontzen hasieran
+  akatsak Garapen zikloa.
+- **Garapen azkarraren iritzia** - Seelen UI fintzen lagunduz, emanez denbora
+  errealeko ikuspegi.
 
 ## Mugak
 
-* **Balizko ezegonkortasuna** - Gaueko eraikuntzak bukatu gabeko ezaugarriak edo
-   konpondu gabeko akatsak.
-* **Ez da gomendagarria produkziorako** - Eraikuntza horiek probetarako pentsatuta daude
-   helburuak bakarrik eta ez dira ingurune kritikoetan erabili behar.
+- **Balizko ezegonkortasuna** - Gaueko eraikuntzak bukatu gabeko ezaugarriak edo
+  konpondu gabeko akatsak.
+- **Ez da gomendagarria produkziorako** - Eraikuntza horiek probetarako
+  pentsatuta daude helburuak bakarrik eta ez dira ingurune kritikoetan erabili
+  behar.
 
 ## Gaueko kanala nola gaitu
 
@@ -56,13 +56,13 @@ Gaueko askapen kanalera aldatzeko:
 
 ## Baliabide osagarriak
 
-* [Gaueko kaleratuak (GitHub)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
-* [Seelen UI Discord Community](https://discord.gg/ABfASx5ZAJ)
-* [Seelen webgune ofiziala](https://seelen.io)
+- [Gaueko kaleratuak (GitHub)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
+- [Seelen UI Discord Community](https://discord.gg/ABfASx5ZAJ)
+- [Seelen webgune ofiziala](https://seelen.io)
 
-***
+---
 
 **Oharra:** Arazorik topatzen baduzu, jakinarazi itzazu
 [GitHub gaiak](https://github.com/eythaann/Seelen-UI/issues) edo
-[Discord laguntza kanala](https://discord.gg/ABfASx5ZAJ). Zure iritziak laguntzen du
- Hobetu Seelen UI!
+[Discord laguntza kanala](https://discord.gg/ABfASx5ZAJ). Zure iritziak
+laguntzen du Hobetu Seelen UI!

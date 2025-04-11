@@ -5,7 +5,6 @@ description: Dozviete sa viac o rôznych distribučných kanáloch dostupných p
 author: eythaann
 published: 13-02-2025
 lastRevision: 13-02-2025
-
 ---
 
 # Seelen UI: Metódy inštalácie a aktualizačné kanály
@@ -20,17 +19,17 @@ Užívateľsky prívetivá možnosť s automatickými aktualizáciami.
 
 **Plusy:**
 
-* Automatické aktualizácie
-* Overené a schválené spoločnosťou Microsoft
-* Vysoká bezpečnosť a spoľahlivosť
-* Ľahšia verzia ako inštalačný program .exe (nezahrnuté žiadne symboly ladenia)
+- Automatické aktualizácie
+- Overené a schválené spoločnosťou Microsoft
+- Vysoká bezpečnosť a spoľahlivosť
+- Ľahšia verzia ako inštalačný program .exe (nezahrnuté žiadne symboly ladenia)
 
 **Nevýhody:**
 
-* Aktualizácie môžu trvať 1-3 pracovné dni na schválenie spoločnosti Microsoft
-* Ťažšie laditeľné a hlásenie problémov
+- Aktualizácie môžu trvať 1-3 pracovné dni na schválenie spoločnosti Microsoft
+- Ťažšie laditeľné a hlásenie problémov
 
-***
+---
 
 ### Krídlo (MSIX)
 
@@ -38,10 +37,10 @@ Nainštalujte najnovšiu verziu pomocou nasledujúceho príkazu:
 
 > inštalácia krídla --id seelen.selenui
 
-Ponúka rovnaké výhody ako verzia Microsoft Store s pridanou
-Pohodlie inštalácie príkazového riadku.
+Ponúka rovnaké výhody ako verzia Microsoft Store s pridanou Pohodlie inštalácie
+príkazového riadku.
 
-***
+---
 
 ### .exe inštalátor
 
@@ -50,20 +49,21 @@ Stiahnite si inštalátor setup.exe z
 
 **Plusy:**
 
-* K dispozícii sú okamžité aktualizácie
-* Prijíma upozornenia na aktualizáciu hneď po vydaní nových verzií
-* Lepšie pre účely ladenia
+- K dispozícii sú okamžité aktualizácie
+- Prijíma upozornenia na aktualizáciu hneď po vydaní nových verzií
+- Lepšie pre účely ladenia
 
 **Nevýhody:**
 
-* Môže spustiť antivírusové varovania (nie digitálne podpísané)
-* Väčšia veľkosť súboru (obsahuje symboly ladenia)
+- Môže spustiť antivírusové varovania (nie digitálne podpísané)
+- Väčšia veľkosť súboru (obsahuje symboly ladenia)
 
 ## Kanály aktualizácie
 
-> Bez ohľadu na váš zvolený aktualizačný kanál, všetky verzie dostávajú automatické
-> Aktualizácie. Nestabilné kanály tiež prijímajú aktualizácie zo stabilnejších kanálov
-> (napr. Nightly prijíma aktualizácie z nočných aj beta/vydania).
+> Bez ohľadu na váš zvolený aktualizačný kanál, všetky verzie dostávajú
+> automatické Aktualizácie. Nestabilné kanály tiež prijímajú aktualizácie zo
+> stabilnejších kanálov (napr. Nightly prijíma aktualizácie z nočných aj
+> beta/vydania).
 
 ### Uvoľnenie (stabilné)
 
@@ -71,20 +71,21 @@ Najbezpečnejší a odporúčaný kanál pre všetkých používateľov.
 
 **Vlastnosti:**
 
-* Dôkladne testované bez kritických chýb
-* Ideálne na výrobu a každodenné použitie
-* K dispozícii v obchode Microsoft Store, Winget (.MSIX) a ako inštalátor .exe
+- Dôkladne testované bez kritických chýb
+- Ideálne na výrobu a každodenné použitie
+- K dispozícii v obchode Microsoft Store, Winget (.MSIX) a ako inštalátor .exe
 
 ### Beta
 
-Pre používateľov, ktorí chcú predčasný prístup k novým funkciám pred oficiálnym vydaním.
+Pre používateľov, ktorí chcú predčasný prístup k novým funkciám pred oficiálnym
+vydaním.
 
 **Vlastnosti:**
 
-* Zahŕňa nadchádzajúce funkcie, ktoré sú predmetom testovania
-* Môže obsahovať menšie chyby
-* Častejšie aktualizácie ako stabilné
-* K dispozícii iba ako inštalátor .exe
+- Zahŕňa nadchádzajúce funkcie, ktoré sú predmetom testovania
+- Môže obsahovať menšie chyby
+- Častejšie aktualizácie ako stabilné
+- K dispozícii iba ako inštalátor .exe
 
 ### Nočný
 
@@ -92,19 +93,19 @@ Pre pokročilých používateľov a vývojárov, ktorí chcú najnovšie zmeny.
 
 **Vlastnosti:**
 
-* Obsahuje najnovšie, netestované zmeny
-* Môže obsahovať chyby alebo neúplné funkcie
-* Aktualizované denne alebo pri každej významnej zmene kódu
-* K dispozícii iba ako inštalátor .exe
+- Obsahuje najnovšie, netestované zmeny
+- Môže obsahovať chyby alebo neúplné funkcie
+- Aktualizované denne alebo pri každej významnej zmene kódu
+- K dispozícii iba ako inštalátor .exe
 
 Dozviete sa viac o nočnom kanáli v našom
 [Seelen Ui Nightly](https://seelen.io/blog/nightly) dokumentácia.
 
 ## Mechanizmus aktualizácie: setup.exe vs MSIX
 
-* **MSIX:** Aktualizácie spravované automaticky spoločnosťou Microsoft Store
-* **Setup.exe:** Zahŕňa vstavaný aktualizátor, ktorý vás upozorňuje, keď sú aktualizácie
-  dostupný
+- **MSIX:** Aktualizácie spravované automaticky spoločnosťou Microsoft Store
+- **Setup.exe:** Zahŕňa vstavaný aktualizátor, ktorý vás upozorňuje, keď sú
+  aktualizácie dostupný
 
 ![Seelen UI update notification](https://github.com/Seelen-Inc/slu-blog/blob/master/blog/seelen-ui-distribution-channels/image.png?raw=true)
 

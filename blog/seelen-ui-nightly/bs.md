@@ -4,7 +4,6 @@ description: Testirajte najnovije promjene Seelen UI sa noćnim ažuriranjem kan
 author: Eythaann
 published: 13-02-2025
 lastRevision: 13-02-2025
-
 ---
 
 # Seelen ui noću
@@ -14,36 +13,36 @@ lastRevision: 13-02-2025
 ## Koji je noćni kanal?
 
 Noćni kanal za oslobađanje je specijalizirana izgradnja Seelena Ui koji je
- automatski generirani sa svakom novom obvezu `master` Podružnica. Ovo
- osigurava da noćna verzija uvijek uključuje najnovije promjene,
- Značajke i ispravke grešaka, čak i ako još nisu pretrpjeli opsežno testiranje.
+automatski generirani sa svakom novom obvezu `master` Podružnica. Ovo osigurava
+da noćna verzija uvijek uključuje najnovije promjene, Značajke i ispravke
+grešaka, čak i ako još nisu pretrpjeli opsežno testiranje.
 
 ## Izdanje varijante
 
 Noćna izdanja uključuju dvije različite varijante:
 
-1. **Standardna verzija** - Redovna izgradnja aplikacije, pogodna za
-    Opće testiranje.
-2. **Verzija za uklanjanje pogrešaka** - identifikovan od strane `-debug` sufiks (npr.
-   `Seelen.UI_2.0.10+20241213134120_x64-setup-debug.exe`), ova varijanta je
-    Optimiziran za programere i testere koji rade na temama, dodacima ili widgetima
-    Kompatibilan je sa Seelen Ui.
+1. **Standardna verzija** - Redovna izgradnja aplikacije, pogodna za Opće
+   testiranje.
+2. **Verzija za uklanjanje pogrešaka** - identifikovan od strane `-debug` sufiks
+   (npr. `Seelen.UI_2.0.10+20241213134120_x64-setup-debug.exe`), ova varijanta
+   je Optimiziran za programere i testere koji rade na temama, dodacima ili
+   widgetima Kompatibilan je sa Seelen Ui.
 
 ## Prednosti
 
-* **Rani pristup značajkama** - Testirajte najnovija poboljšanja prije nego što stignu
-   Stabilna izdanja.
-* **Proaktivno izvještavanje o izdavanju** - pomoći u prepoznavanju i rešavanju grešaka rano u
-   Razvojni ciklus.
-* **Povratne informacije o brzom razvoju** - Doprinosite rafiniranju Seelen UI pružanjem
-   uvid u stvarnog vremena.
+- **Rani pristup značajkama** - Testirajte najnovija poboljšanja prije nego što
+  stignu Stabilna izdanja.
+- **Proaktivno izvještavanje o izdavanju** - pomoći u prepoznavanju i rešavanju
+  grešaka rano u Razvojni ciklus.
+- **Povratne informacije o brzom razvoju** - Doprinosite rafiniranju Seelen UI
+  pružanjem uvid u stvarnog vremena.
 
 ## Ograničenja
 
-* **Potencijalna nestabilnost** - Noćne grade mogu uključivati ​​nedovršene karakteristike ili
-   Nerešene bube.
-* **Ne preporučuje se za proizvodnju** - ove su građevine namijenjene testiranju
-   Samo se svrhe i ne treba koristiti u kritičnim okruženjima.
+- **Potencijalna nestabilnost** - Noćne grade mogu uključivati ​​nedovršene
+  karakteristike ili Nerešene bube.
+- **Ne preporučuje se za proizvodnju** - ove su građevine namijenjene testiranju
+  Samo se svrhe i ne treba koristiti u kritičnim okruženjima.
 
 ## Kako omogućiti noćni kanal
 
@@ -56,13 +55,13 @@ Da biste se prebacili na noćni izdanje kanala:
 
 ## Dodatni resursi
 
-* [Noćna izdanja (GitHub)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
-* [Seelen ui Discord zajednica](https://discord.gg/ABfASx5ZAJ)
-* [Službena web stranica za Seelen](https://seelen.io)
+- [Noćna izdanja (GitHub)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
+- [Seelen ui Discord zajednica](https://discord.gg/ABfASx5ZAJ)
+- [Službena web stranica za Seelen](https://seelen.io)
 
-***
+---
 
 **Napomena:** Ako naiđete na bilo kakva pitanja, prijavite ih putem
 [GitHub izdanja](https://github.com/eythaann/Seelen-UI/issues) ili
-[Discord Channel podrške](https://discord.gg/ABfASx5ZAJ). Vaša povratna informacija pomaže
- Poboljšajte Seelen Ui!
+[Discord Channel podrške](https://discord.gg/ABfASx5ZAJ). Vaša povratna
+informacija pomaže Poboljšajte Seelen Ui!

@@ -4,7 +4,6 @@ description: Guhertinên herî dawî yên Seelen UI bi kanala nûvekirina şevê
 author: ehthaann
 published: 13-02-2025
 lastRevision: 13-02-2025
-
 ---
 
 # SEELEN UI Nightly
@@ -13,37 +12,37 @@ lastRevision: 13-02-2025
 
 ## Kanala şevê çi ye?
 
-Kanala serbestberdana şevê, avahiyek taybetî ya ku ji Seelen Ui heye
- bixweber bi her commîtek nû ve hatî çêkirin `master` gûlî. Ev
- misoger dike ku guhertoya şevê her gav guhartinên herî dawî pêk tîne,
- Taybetmendiyên, û rastkirina bug, hetta ew hîn jî ceribandinên berfireh nebin.
+Kanala serbestberdana şevê, avahiyek taybetî ya ku ji Seelen Ui heye bixweber bi
+her commîtek nû ve hatî çêkirin `master` gûlî. Ev misoger dike ku guhertoya şevê
+her gav guhartinên herî dawî pêk tîne, Taybetmendiyên, û rastkirina bug, hetta
+ew hîn jî ceribandinên berfireh nebin.
 
 ## Variantên berdanê
 
 Releasesevê şevê du vebijarkên diyar hene:
 
 1. **Guhertoya Standard** - Karê birêkûpêk a serlêdanê, ji bo minasib
-    ceribandina gelemperî.
+   ceribandina gelemperî.
 2. **Guhertoya Debug** - ji hêla `-debug` Suffix (mînak.,
-   `Seelen.UI_2.0.10+20241213134120_x64-setup-debug.exe`), ev varyant e
-    ji bo pêşvebiran û ceribandinên ku li ser mijar, pêvek, an widgets dixebitin optîm kirin
-    lihevhatî bi Seelen Ui.
+   `Seelen.UI_2.0.10+20241213134120_x64-setup-debug.exe`), ev varyant e ji bo
+   pêşvebiran û ceribandinên ku li ser mijar, pêvek, an widgets dixebitin optîm
+   kirin lihevhatî bi Seelen Ui.
 
 ## Berjewendî
 
-* **Destpêka Taybetmendiyên** - Berî ku ew bigihîjin başkirinên herî dawî ceribandin
-   berdanên aram.
-* **Raporkirina pirsgirêka proactive** - Alîkarî ji zû de nas bikin û çareser bikin
-   çerxa pêşveçûnê.
-* **Bersiva Pêşveçûna Rapid** - Bi pêşkêşkirina Seelen Ui ve beşdar bibin
-   Hişmendiyên rastîn.
+- **Destpêka Taybetmendiyên** - Berî ku ew bigihîjin başkirinên herî dawî
+  ceribandin berdanên aram.
+- **Raporkirina pirsgirêka proactive** - Alîkarî ji zû de nas bikin û çareser
+  bikin çerxa pêşveçûnê.
+- **Bersiva Pêşveçûna Rapid** - Bi pêşkêşkirina Seelen Ui ve beşdar bibin
+  Hişmendiyên rastîn.
 
 ## Sînorên
 
-* **Bêserûberiya potansiyel** - Dibe ku avakirina şevê dibe ku taybetmendiyên nehfandî an
-   şaşiyên nefrans.
-* **Ji bo hilberînê nayê pêşniyar kirin** - Van avahiyan ji bo ceribandinê têne armanc kirin
-   mebest tenê û divê di hawîrdora krîtîk de neyê bikar anîn.
+- **Bêserûberiya potansiyel** - Dibe ku avakirina şevê dibe ku taybetmendiyên
+  nehfandî an şaşiyên nefrans.
+- **Ji bo hilberînê nayê pêşniyar kirin** - Van avahiyan ji bo ceribandinê têne
+  armanc kirin mebest tenê û divê di hawîrdora krîtîk de neyê bikar anîn.
 
 ## Meriv çawa kanala şevê çalak bike
 
@@ -56,13 +55,13 @@ Ji bo veguheztina kanala serbestberdana şevê:
 
 ## Resourcesavkaniyên Zêde
 
-* [Releasesevê şevê (Github)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
-* [Civata Seelen Ui Discord](https://discord.gg/ABfASx5ZAJ)
-* [Malpera fermî ya Seelen](https://seelen.io)
+- [Releasesevê şevê (Github)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
+- [Civata Seelen Ui Discord](https://discord.gg/ABfASx5ZAJ)
+- [Malpera fermî ya Seelen](https://seelen.io)
 
-***
+---
 
 **Not:** Heke hûn pirsgirêkan rû didin, ji kerema xwe wan bi rêya xwe ragihînin
 [Pirsgirêkên Github](https://github.com/eythaann/Seelen-UI/issues) an
-[Kanala Piştgiriya Discord](https://discord.gg/ABfASx5ZAJ). Bersivên we alîkarî dike
- SEELEN UI baştir bikin!
+[Kanala Piştgiriya Discord](https://discord.gg/ABfASx5ZAJ). Bersivên we alîkarî
+dike SEELEN UI baştir bikin!

@@ -4,7 +4,6 @@ title: Seelen UI iltaisin
 published: 13-02-2025
 author: Eythaanann
 lastRevision: 13-02-2025
-
 ---
 
 # Seelen UI iltaisin
@@ -13,37 +12,37 @@ lastRevision: 13-02-2025
 
 ## Mikä on öinen kanava?
 
-Nightly Release Channel on Seelen UI: n erikoistunut rakennus, joka on
- luodaan automaattisesti jokaisen uuden sitoutumisen kanssa `master` haara. Tämä
- varmistaa, että öinen versio sisältää aina uusimmat muutokset,
- Ominaisuudet ja virhekorjaukset, vaikka ne eivät olisi vielä tehneet laajaa testausta.
+Nightly Release Channel on Seelen UI: n erikoistunut rakennus, joka on luodaan
+automaattisesti jokaisen uuden sitoutumisen kanssa `master` haara. Tämä
+varmistaa, että öinen versio sisältää aina uusimmat muutokset, Ominaisuudet ja
+virhekorjaukset, vaikka ne eivät olisi vielä tehneet laajaa testausta.
 
 ## Vapautusvariantit
 
 Yöpäivitykset sisältävät kaksi erillistä varianttia:
 
-1. **Vakioversio** - sovelluksen säännöllinen rakennus, joka sopii
-    Yleinen testaus.
+1. **Vakioversio** - sovelluksen säännöllinen rakennus, joka sopii Yleinen
+   testaus.
 2. **Debug -versio** - tunnistettu `-debug` jälkiliite (esim.
    `Seelen.UI_2.0.10+20241213134120_x64-setup-debug.exe`), tämä variantti on
-    Optimoitu kehittäjille ja testaajille, jotka työskentelevät teemoilla, laajennuksilla tai widgeteillä
-    Yhteensopiva Seelen UI: n kanssa.
+   Optimoitu kehittäjille ja testaajille, jotka työskentelevät teemoilla,
+   laajennuksilla tai widgeteillä Yhteensopiva Seelen UI: n kanssa.
 
 ## Hyöty
 
-* **Varhainen pääsy ominaisuuksiin** - Testaa viimeisimmät parannukset ennen niiden saavuttamista
-   Vakaat julkaisut.
-* **Ennakoiva kysymysraportointi** - Auta tunnistamaan ja ratkaisemaan virheet varhaisessa vaiheessa
-   kehitysjakso.
-* **Nopea kehityspalaute** - myötävaikuttaa Seelen -käyttöliittymän parantamiseen tarjoamalla
-   reaaliaikaiset oivallukset.
+- **Varhainen pääsy ominaisuuksiin** - Testaa viimeisimmät parannukset ennen
+  niiden saavuttamista Vakaat julkaisut.
+- **Ennakoiva kysymysraportointi** - Auta tunnistamaan ja ratkaisemaan virheet
+  varhaisessa vaiheessa kehitysjakso.
+- **Nopea kehityspalaute** - myötävaikuttaa Seelen -käyttöliittymän
+  parantamiseen tarjoamalla reaaliaikaiset oivallukset.
 
 ## Rajoitukset
 
-* **Mahdollinen epävakaus** - Yöiset rakennukset voivat sisältää keskeneräisiä ominaisuuksia tai
-   ratkaisemattomat virheet.
-* **Ei suositella tuotantoon** - Nämä rakennukset on tarkoitettu testaamiseen
-   vain tarkoituksia, eikä sitä pitäisi käyttää kriittisissä ympäristöissä.
+- **Mahdollinen epävakaus** - Yöiset rakennukset voivat sisältää keskeneräisiä
+  ominaisuuksia tai ratkaisemattomat virheet.
+- **Ei suositella tuotantoon** - Nämä rakennukset on tarkoitettu testaamiseen
+  vain tarkoituksia, eikä sitä pitäisi käyttää kriittisissä ympäristöissä.
 
 ## Kuinka yöun kanavoi otetaan käyttöön
 
@@ -56,13 +55,13 @@ Siirtyminen öiseen vapautuskanavaan:
 
 ## Lisäresurssit
 
-* [Öiset julkaisut (github)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
-* [Seelen UI Discord -yhteisö](https://discord.gg/ABfASx5ZAJ)
-* [Virallinen Seelen -verkkosivusto](https://seelen.io)
+- [Öiset julkaisut (github)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
+- [Seelen UI Discord -yhteisö](https://discord.gg/ABfASx5ZAJ)
+- [Virallinen Seelen -verkkosivusto](https://seelen.io)
 
-***
+---
 
 **Huomaa:** Jos kohtaat ongelmia, ilmoita niistä
 [GitHub -ongelmat](https://github.com/eythaann/Seelen-UI/issues) tai
-[Discord -tukikanava](https://discord.gg/ABfASx5ZAJ). Palaute auttaa
- Paranna Seelen UI: tä!
+[Discord -tukikanava](https://discord.gg/ABfASx5ZAJ). Palaute auttaa Paranna
+Seelen UI: tä!

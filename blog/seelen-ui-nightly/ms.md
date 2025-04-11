@@ -4,7 +4,6 @@ description: Uji perubahan terkini Seelen UI dengan saluran kemas kini malam!
 author: Eythaann
 published: 13-02-2025
 lastRevision: 13-02-2025
-
 ---
 
 # Seelen ui setiap malam
@@ -13,37 +12,36 @@ lastRevision: 13-02-2025
 
 ## Apakah saluran malam?
 
-Saluran pelepasan setiap malam adalah membina khusus seelen ui
- dihasilkan secara automatik dengan setiap komit baru untuk `master` cawangan. Ini
- memastikan bahawa versi setiap malam sentiasa menggabungkan perubahan terkini,
- Ciri -ciri, dan pembetulan pepijat, walaupun mereka belum menjalani ujian yang luas.
+Saluran pelepasan setiap malam adalah membina khusus seelen ui dihasilkan secara
+automatik dengan setiap komit baru untuk `master` cawangan. Ini memastikan
+bahawa versi setiap malam sentiasa menggabungkan perubahan terkini, Ciri -ciri,
+dan pembetulan pepijat, walaupun mereka belum menjalani ujian yang luas.
 
 ## Varian pelepasan
 
 Siaran setiap malam termasuk dua varian yang berbeza:
 
-1. **Versi standard** - membina aplikasi biasa, sesuai untuk
-    Ujian Umum.
+1. **Versi standard** - membina aplikasi biasa, sesuai untuk Ujian Umum.
 2. **Versi debug** - dikenal pasti oleh `-debug` akhiran (mis.,
    `Seelen.UI_2.0.10+20241213134120_x64-setup-debug.exe`), varian ini adalah
-    Dioptimumkan untuk pemaju dan penguji yang bekerja pada tema, plugin, atau widget
-    Sesuai dengan Seelen UI.
+   Dioptimumkan untuk pemaju dan penguji yang bekerja pada tema, plugin, atau
+   widget Sesuai dengan Seelen UI.
 
 ## Faedah
 
-* **Akses awal ke ciri** - Uji peningkatan terbaru sebelum mereka mencapai
-   siaran stabil.
-* **Pelaporan isu proaktif** - membantu mengenal pasti dan menyelesaikan pepijat di awal
-   kitaran pembangunan.
-* **Maklum balas pembangunan pesat** - menyumbang kepada penapisan Seelen UI dengan menyediakan
-   Wawasan masa nyata.
+- **Akses awal ke ciri** - Uji peningkatan terbaru sebelum mereka mencapai
+  siaran stabil.
+- **Pelaporan isu proaktif** - membantu mengenal pasti dan menyelesaikan pepijat
+  di awal kitaran pembangunan.
+- **Maklum balas pembangunan pesat** - menyumbang kepada penapisan Seelen UI
+  dengan menyediakan Wawasan masa nyata.
 
 ## Batasan
 
-* **Ketidakstabilan yang berpotensi** - Membina setiap malam mungkin termasuk ciri yang belum selesai atau
-   pepijat yang tidak dapat diselesaikan.
-* **Tidak disyorkan untuk pengeluaran** - Binaan ini bertujuan untuk ujian
-   Tujuan sahaja dan tidak boleh digunakan dalam persekitaran kritikal.
+- **Ketidakstabilan yang berpotensi** - Membina setiap malam mungkin termasuk
+  ciri yang belum selesai atau pepijat yang tidak dapat diselesaikan.
+- **Tidak disyorkan untuk pengeluaran** - Binaan ini bertujuan untuk ujian
+  Tujuan sahaja dan tidak boleh digunakan dalam persekitaran kritikal.
 
 ## Cara Membolehkan Saluran Malam
 
@@ -56,13 +54,13 @@ Untuk beralih ke saluran pelepasan setiap malam:
 
 ## Sumber tambahan
 
-* [Siaran Malam (GitHub)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
-* [Komuniti perselisihan seelen ui](https://discord.gg/ABfASx5ZAJ)
-* [Laman web rasmi Seelen](https://seelen.io)
+- [Siaran Malam (GitHub)](https://github.com/eythaann/Seelen-UI/releases/tag/nightly)
+- [Komuniti perselisihan seelen ui](https://discord.gg/ABfASx5ZAJ)
+- [Laman web rasmi Seelen](https://seelen.io)
 
-***
+---
 
-**Catatan:** Sekiranya anda menghadapi sebarang masalah, sila laporkannya melalui
-[Isu GitHub](https://github.com/eythaann/Seelen-UI/issues) atau yang
-[Saluran Sokongan Discord](https://discord.gg/ABfASx5ZAJ). Maklum balas anda membantu
- Tingkatkan Seelen UI!
+**Catatan:** Sekiranya anda menghadapi sebarang masalah, sila laporkannya
+melalui [Isu GitHub](https://github.com/eythaann/Seelen-UI/issues) atau yang
+[Saluran Sokongan Discord](https://discord.gg/ABfASx5ZAJ). Maklum balas anda
+membantu Tingkatkan Seelen UI!

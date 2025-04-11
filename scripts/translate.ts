@@ -17,7 +17,7 @@ if (!DEEPL_API_KEY) {
 const targets = SupportedLanguages.filter((lang) => lang.value !== "en");
 const googleTranslator = new GoogleTranslator({
   source: "en",
-})
+});
 
 const autoTranslator = new AutoTranslator({
   source: "en",

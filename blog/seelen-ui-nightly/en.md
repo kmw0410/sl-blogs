@@ -1,14 +1,6 @@
----
-title: Seelen UI Nightly
-description: Test the latest changes of Seelen UI with the Nightly Update Channel!
-author: eythaann
-published: 13-02-2025
-lastRevision: 13-02-2025
----
-
 # Seelen UI Nightly
 
-![Seelen UI Developer Edition](https://github.com/user-attachments/assets/76634b49-7b09-4ef2-9643-e93542309f5d)
+![Seelen UI Developer Edition](https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/blog/seelen-ui-nightly/image.png)
 
 ## What is the Nightly Channel?
 

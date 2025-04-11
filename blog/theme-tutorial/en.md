@@ -1,53 +1,75 @@
 # Seelen UI: Theme Basics Tutorial
 
-> **Warning:** Do not modify the files in the installation directory. These files are overwritten with each update. To make custom changes, please follow the next guide.
+![Customized desktop with Seelen UI and themes](https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/blog/theme-tutorial/image.png)
 
-In Seelen UI, themes are managed as layers, allowing multiple themes to be used simultaneously. Since themes are like CSS files, their order is crucial as it determines the cascade order.
+Want to give your Windows desktop a fresh new look? Seelen UI makes it easy with its powerful theme system. This guide will walk you through the basics of how themes work - no coding experience required!
 
-Themes can be either a single file or a folder following a file structure. The file should be a `.yml` file that adheres to the [theme schema](https://github.com/Seelen-Inc/slu-lib/blob/master/gen/schemas/theme.schema.json).
+## Understanding Theme Files
 
-For a folder, it follows the next structure:
+Think of Seelen UI themes like layers of paint. You can apply multiple themes at once, and just like painting, the order matters! Themes can change everything from colors to window styles.
 
+There are three ways themes can be packaged:
+
+1. **Single File Theme** (.yml file)
+2. **Theme Folder** (contains multiple files)
+3. **Compressed Theme** (.slu file - special Seelen UI format)
+
+### Where to Put Your Themes
+All themes go in this folder on your computer:
+```
+C:\Users{YOUR_USERNAME}\AppData\Roaming\com.seelen.seelen-ui\themes
+```
+
+### Theme Folder Structure
+Here's what a theme folder looks like inside:
 ```
 C:\Users\{USER}\AppData\Roaming\com.seelen.seelen-ui\themes
-└── YourThemeFolder             # the name of the folder doesn't matter
-    ├── theme.yml               # Theme metadata file
-    └── seelen                  # creator's username of widgets inside
-        ├── fancy-toolbar.css   # resource's name of widgets + css
-        └── window-manager.scss # resource's name of widgets + scss
+├── YourThemeFolder             # the name of the folder doesn't matter
+│   ├── theme.yml               # Theme metadata file
+│   └── seelen                  # creator's username of widgets inside
+│       ├── fancy-toolbar.css   # resource's name + css extension
+│       └── window-manager.scss # supports SCSS too!
+├── CompactTheme.yml            # Theme metadata file with styles inside
+└── CompressedTheme.slu         # Special file format used on Seelen UI
 ```
 
-## Examples
-You can use the default themes included in the executable as a guide. See the [bundled themes](https://github.com/eythaann/Seelen-UI/tree/master/static/themes) directory in the Seelen UI code as example.
+## Getting Inspired: Example Themes
 
-## System Colors
+Not sure where or how to start? Seelen UI comes with several built-in themes you can use as inspiration! Check out the [default themes collection](https://github.com/eythaann/Seelen-UI/tree/master/static/themes) to see how they're made.
 
-Seelen UI exposes system colors through CSS variables, such as:
 
-* `--config-accent-color`: This is a hex color without alpha, e.g., `#ffbbaa`.
-* `--config-accent-color-rgb`: This represents RGB color values, e.g., `255, 187, 170`. It can be used in CSS as `rgba(var(--config-accent-color-rgb), 0.5)`.
+## Working With Colors - It's Easier Than You Think!
 
-Complete list of system color variables:
+Seelen UI automatically picks up your Windows accent color and makes it available in different shades through simple color variables. 
 
-* `--config-accent-darkest-color`
-* `--config-accent-darkest-color-rgb`
-* `--config-accent-darker-color`
-* `--config-accent-darker-color-rgb`
-* `--config-accent-dark-color`
-* `--config-accent-dark-color-rgb`
-* `--config-accent-color`
-* `--config-accent-color-rgb`
-* `--config-accent-light-color`
-* `--config-accent-light-color-rgb`
-* `--config-accent-lighter-color`
-* `--config-accent-lighter-color-rgb`
-* `--config-accent-lightest-color`
-* `--config-accent-lightest-color-rgb`
+### Your Main Accent Color
+These variables use the color you set in Windows Settings:
+- `--config-accent-color`: The pure color (like #ffbbaa)
+- `--config-accent-color-rgb`: Same color in RGB format (255, 187, 170)
 
-All these are variants of the accent color set in your system settings.
+### The Complete Color Family
+Seelen UI creates a whole palette from your accent color:
 
-![Seelen UI System Colors Palette](https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/blog/theme-tutorial/colors.png)
+![Visual guide to Seelen UI's color palette](https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/blog/theme-tutorial/colors.png)
 
-## Other Colors
+Here's the full list of available colors:
+- Darkest version: `--config-accent-darkest-color`
+- Darker version: `--config-accent-darker-color`
+- Dark version: `--config-accent-dark-color`
+- Regular version: `--config-accent-color`
+- Light version: `--config-accent-light-color`
+- Lighter version: `--config-accent-lighter-color`
+- Lightest version: `--config-accent-lightest-color`
 
-All the colors listed in the following [Gist](https://gist.github.com/eythaann/cd9a3cda0206ce23a17f5ea00ec2ba06) are also exposed as CSS variables and can be used in your themes.
+Each color also has an RGB version (with -rgb at the end).
+This is useful for creating gradients and other color effects.
+
+As example settings a background color with opacity:
+```css
+background-color: rbga(var(--config-accent-darkest-color-rgb), 0.5);
+```
+
+### Even More Color Options
+Want more color choices? Seelen UI exposes dozens of additional system colors. Check out this [handy color reference](https://gist.github.com/eythaann/cd9a3cda0206ce23a17f5ea00ec2ba06) for all available options.
+
+Pro Tip: When your Windows accent color changes, your Seelen UI theme updates automatically!

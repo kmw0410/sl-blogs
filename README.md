@@ -3,4 +3,4 @@
 ### Images
 
 Any image should follow url tree blob, for example:
-`https://github.com/Seelen-Inc/slu-blog/blob/master/blog/seelen-ui-distribution-channels/image.png?raw=true`
+`https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/blog/theme-tutorial/image.png`

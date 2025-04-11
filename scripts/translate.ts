@@ -41,7 +41,7 @@ async function completeTranslationsFor(localesDir: string) {
   const encoder = new TextEncoder();
 
   for (const lang of targets) {
-    const filePath = `${localesDir}/${lang.value}.md`;
+    const filePath = `${localesDir}/translations/${lang.value}.md`;
     if (fs.existsSync(filePath)) {
       console.info(`  - ${filePath} (${lang.enLabel}) - Skipped`);
       continue;

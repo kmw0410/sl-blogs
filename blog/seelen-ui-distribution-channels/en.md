@@ -51,6 +51,8 @@ Download the setup.exe installer from the
 
 ## Update Channels
 
+![Seelen UI Update Channels](https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/blog/seelen-ui-distribution-channels/image.png)
+
 > Regardless of your chosen update channel, all versions receive automatic
 > updates. Unstable channels also receive updates from more stable channels
 > (e.g., Nightly receives updates from both Nightly and Beta/Release).
@@ -96,7 +98,7 @@ Learn more about the Nightly channel in our
 - **Setup.exe:** Includes built-in updater that notifies you when updates are
   available
 
-![Seelen UI update notification](https://github.com/Seelen-Inc/slu-blog/blob/master/blog/seelen-ui-distribution-channels/image.png?raw=true)
+![Seelen UI update notification](https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/blog/seelen-ui-distribution-channels/image.png)
 
 When an update is available:
 

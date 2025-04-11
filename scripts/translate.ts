@@ -42,7 +42,7 @@ async function completeTranslationsFor(localesDir: string) {
   }
 
   const mdTranslator = new MarkdownTranslator(enMarkdown, googleTranslator);
-  mdTranslator.gap = 300;
+  mdTranslator.gap = 600;
   const encoder = new TextEncoder();
 
   for (const lang of targets) {

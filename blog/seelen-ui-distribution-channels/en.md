@@ -98,7 +98,7 @@ Learn more about the Nightly channel in our
 - **Setup.exe:** Includes built-in updater that notifies you when updates are
   available
 
-![Seelen UI update notification](https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/blog/seelen-ui-distribution-channels/image.png)
+![Seelen UI update notification](https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/blog/seelen-ui-distribution-channels/update.png)
 
 When an update is available:
 

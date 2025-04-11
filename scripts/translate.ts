@@ -2,7 +2,7 @@ import {
   AutoTranslator,
   GoogleTranslator,
   MarkdownTranslator,
-  YamlTranslator,
+  ObjectTranslator,
 } from "@seelen/translation-toolkit";
 
 import * as fs from "jsr:@std/fs";
@@ -25,15 +25,20 @@ const autoTranslator = new AutoTranslator({
 });
 
 async function completeTranslationsFor(localesDir: string) {
+  localesDir = localesDir.replace("\\", "/");
+  if (localesDir.endsWith("/")) {
+    localesDir = localesDir.slice(0, -1);
+  }
   const enMarkdown = await Deno.readTextFile(`${localesDir}/en.md`);
   console.info(`* translating: ${localesDir}`);
 
-  let ymlTranslator: YamlTranslator<string, string, AutoTranslator> | null =
-    null;
-  if (await fs.exists(`${localesDir}/en.yml`)) {
-    const enYaml = await Deno.readTextFile(`${localesDir}/en.yml`);
-    ymlTranslator = new YamlTranslator(enYaml, autoTranslator);
-    ymlTranslator.gap = 600;
+  let jsonTranslator:
+    | ObjectTranslator<object, string, string, AutoTranslator>
+    | null = null;
+  if (await fs.exists(`${localesDir}/en.json`)) {
+    const json = JSON.parse(await Deno.readTextFile(`${localesDir}/en.json`));
+    jsonTranslator = new ObjectTranslator(json, autoTranslator);
+    jsonTranslator.gap = 600;
   }
 
   const mdTranslator = new MarkdownTranslator(enMarkdown, googleTranslator);
@@ -41,20 +46,25 @@ async function completeTranslationsFor(localesDir: string) {
   const encoder = new TextEncoder();
 
   for (const lang of targets) {
-    const filePath = `${localesDir}/translations/${lang.value}.md`;
-    if (fs.existsSync(filePath)) {
-      console.info(`  - ${filePath} (${lang.enLabel}) - Skipped`);
-      continue;
+    const markdownPath = `${localesDir}/translations/${lang.value}.md`;
+    const jsonMetadataPath = `${localesDir}/translations/${lang.value}.json`;
+
+    if (!fs.existsSync(markdownPath)) {
+      const translatedMarkdown = await mdTranslator.translate_to(lang.value);
+      Deno.writeFileSync(markdownPath, encoder.encode(translatedMarkdown));
     }
 
-    const translatedMarkdown = await mdTranslator.translate_to(lang.value);
-    Deno.writeFileSync(filePath, encoder.encode(translatedMarkdown));
-
-    if (ymlTranslator) {
-      const translatedYaml = await ymlTranslator.translate_to(lang.value);
+    if (jsonTranslator) {
+      const cached = fs.existsSync(jsonMetadataPath)
+        ? JSON.parse(await Deno.readTextFile(jsonMetadataPath))
+        : {};
+      const translatedObject = await jsonTranslator.translate_to(
+        lang.value,
+        cached,
+      );
       Deno.writeFileSync(
-        `${localesDir}/${lang.value}.yml`,
-        encoder.encode(translatedYaml),
+        jsonMetadataPath,
+        encoder.encode(JSON.stringify(translatedObject, null, 2)),
       );
     }
   }

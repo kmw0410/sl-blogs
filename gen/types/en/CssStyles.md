@@ -1,0 +1,2 @@
+# **CssStyles**
+{ [key: `string`]?: `string` }

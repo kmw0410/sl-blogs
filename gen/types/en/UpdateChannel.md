@@ -1,0 +1,2 @@
+# **UpdateChannel**
+`"Release"` | `"Beta"` | `"Nightly"`

@@ -1,0 +1,2 @@
+# **NoFallbackBehavior**
+`"Float"` | `"Unmanaged"`

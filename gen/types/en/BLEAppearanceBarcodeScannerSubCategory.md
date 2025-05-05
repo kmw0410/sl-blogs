@@ -1,0 +1,3 @@
+# **BLEAppearanceBarcodeScannerSubCategory**
+## **Properties**:
+### Reserved: `number`

@@ -1,0 +1,2 @@
+# **WegTemporalItemsVisibility**
+`"All"` | `"OnMonitor"`

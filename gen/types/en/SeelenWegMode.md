@@ -1,0 +1,2 @@
+# **SeelenWegMode**
+`"FullWidth"` | `"MinContent"`

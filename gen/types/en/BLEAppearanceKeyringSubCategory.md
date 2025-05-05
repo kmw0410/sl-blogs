@@ -1,0 +1,3 @@
+# **BLEAppearanceKeyringSubCategory**
+## **Properties**:
+### Reserved: `number`

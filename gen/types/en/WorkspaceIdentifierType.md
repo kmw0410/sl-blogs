@@ -1,0 +1,2 @@
+# **WorkspaceIdentifierType**
+`"Name"` | `"Index"`

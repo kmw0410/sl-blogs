@@ -1,0 +1,4 @@
+# **BLEAppearanceHeartRateSensorSubCategory**
+`"HeartRateBelt"` | {
+  Reserved: `number`
+}

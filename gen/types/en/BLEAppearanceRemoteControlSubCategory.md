@@ -1,0 +1,3 @@
+# **BLEAppearanceRemoteControlSubCategory**
+## **Properties**:
+### Reserved: `number`

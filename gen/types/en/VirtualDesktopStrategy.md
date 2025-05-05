@@ -1,0 +1,2 @@
+# **VirtualDesktopStrategy**
+`"Native"` | `"Seelen"`

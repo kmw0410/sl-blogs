@@ -1,0 +1,2 @@
+# **ToastImagePlacement**
+`"AppLogoOverride"` | `"Hero"` | `"Unknown"`

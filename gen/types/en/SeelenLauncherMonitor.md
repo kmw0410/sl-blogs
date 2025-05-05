@@ -1,0 +1,2 @@
+# **SeelenLauncherMonitor**
+`"Primary"` | `"MouseOver"`

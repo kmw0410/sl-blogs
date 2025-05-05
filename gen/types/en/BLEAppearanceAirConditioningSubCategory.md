@@ -1,0 +1,3 @@
+# **BLEAppearanceAirConditioningSubCategory**
+## **Properties**:
+### Reserved: `number`

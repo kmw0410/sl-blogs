@@ -1,0 +1,2 @@
+# **ToastImageCropType**
+`"Circle"` | `"Unknown"`

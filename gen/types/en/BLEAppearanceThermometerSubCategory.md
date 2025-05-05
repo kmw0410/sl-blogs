@@ -1,0 +1,4 @@
+# **BLEAppearanceThermometerSubCategory**
+`"EarThermometer"` | {
+  Reserved: `number`
+}

@@ -1,0 +1,2 @@
+# **WidgetId**
+[`ResourceId`](./ResourceId)

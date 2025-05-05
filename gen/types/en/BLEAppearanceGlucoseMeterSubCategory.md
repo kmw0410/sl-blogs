@@ -1,0 +1,3 @@
+# **BLEAppearanceGlucoseMeterSubCategory**
+## **Properties**:
+### Reserved: `number`

@@ -1,0 +1,3 @@
+# **BLEAppearanceMediaPlayerSubCategory**
+## **Properties**:
+### Reserved: `number`

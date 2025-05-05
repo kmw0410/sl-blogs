@@ -1,0 +1,3 @@
+# **BLEAppearanceWeightScaleSubCategory**
+## **Properties**:
+### Reserved: `number`

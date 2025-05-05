@@ -1,0 +1,3 @@
+# **BLEAppearancePhoneSubCategory**
+## **Properties**:
+### Reserved: `number`

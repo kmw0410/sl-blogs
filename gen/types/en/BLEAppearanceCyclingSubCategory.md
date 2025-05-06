@@ -1,14 +1,13 @@
 # **BLEAppearanceCyclingSubCategory**
+
 `"CyclingComputer"`
 
-|  `"SpeedSensor"`
+| `"SpeedSensor"`
 
-|  `"CadenceSensor"`
+| `"CadenceSensor"`
 
-|  `"PowerSensor"`
+| `"PowerSensor"`
 
-|  `"SpeedandCadenceSensor"`
+| `"SpeedandCadenceSensor"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

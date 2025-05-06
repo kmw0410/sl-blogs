@@ -1,18 +1,19 @@
 # **BluetoothNetworkMinor**
+
 3 bits
 
 `"FullyAvailable"`
 
-|  `"Used01To17Percent"`
+| `"Used01To17Percent"`
 
-|  `"Used17To33Percent"`
+| `"Used17To33Percent"`
 
-|  `"Used33To50Percent"`
+| `"Used33To50Percent"`
 
-|  `"Used50To67Percent"`
+| `"Used50To67Percent"`
 
-|  `"Used67To83Percent"`
+| `"Used67To83Percent"`
 
-|  `"Used83To99Percent"`
+| `"Used83To99Percent"`
 
-|  `"NoServiceAvailable"`
+| `"NoServiceAvailable"`

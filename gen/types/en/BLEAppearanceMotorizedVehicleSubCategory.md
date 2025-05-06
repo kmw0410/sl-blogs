@@ -1,34 +1,33 @@
 # **BLEAppearanceMotorizedVehicleSubCategory**
+
 `"Car"`
 
-|  `"LargeGoodsVehicle"`
+| `"LargeGoodsVehicle"`
 
-|  `"Vehicle2Wheels"`
+| `"Vehicle2Wheels"`
 
-|  `"Motorbike"`
+| `"Motorbike"`
 
-|  `"Scooter"`
+| `"Scooter"`
 
-|  `"Moped"`
+| `"Moped"`
 
-|  `"Vehicle3Wheels"`
+| `"Vehicle3Wheels"`
 
-|  `"LightVehicle"`
+| `"LightVehicle"`
 
-|  `"QuadBike"`
+| `"QuadBike"`
 
-|  `"Minibus"`
+| `"Minibus"`
 
-|  `"Bus"`
+| `"Bus"`
 
-|  `"Trolley"`
+| `"Trolley"`
 
-|  `"AgriculturalVehicle"`
+| `"AgriculturalVehicle"`
 
-|  `"CamperCaravan"`
+| `"CamperCaravan"`
 
-|  `"RecreationalVehicleMotorHome"`
+| `"RecreationalVehicleMotorHome"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

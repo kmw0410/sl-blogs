@@ -1,6 +1,4 @@
 # **ToastActionsEntry**
-{
-  input: [`ToastInput`](./ToastInput)
-} | {
-  action: [`ToastAction`](./ToastAction)
-}
+
+{ input: [`ToastInput`](./ToastInput) } | { action:
+[`ToastAction`](./ToastAction) }

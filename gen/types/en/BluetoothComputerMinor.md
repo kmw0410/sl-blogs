@@ -1,22 +1,21 @@
 # **BluetoothComputerMinor**
+
 6 bits
 
 `"Uncategorized"`
 
-|  `"Desktop"`
+| `"Desktop"`
 
-|  `"Server"`
+| `"Server"`
 
-|  `"Laptop"`
+| `"Laptop"`
 
-|  `"Handheld"`
+| `"Handheld"`
 
-|  `"PalmSize"`
+| `"PalmSize"`
 
-|  `"Wearable"`
+| `"Wearable"`
 
-|  `"Tablet"`
+| `"Tablet"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

@@ -1,6 +1,5 @@
 # **BluetoothNetworkSubMinor**
+
 3 bits
 
-`"Uncategorized"` | {
-  Reserved: `number`
-}
+`"Uncategorized"` | { Reserved: `number` }

@@ -1,44 +1,26 @@
 # **BluetoothMinorClass**
-{
-  Miscellaneous: {  unused: `number`}
-}
 
-|  {
-  Computer: [`BluetoothComputerMinor`](./BluetoothComputerMinor)
-}
+{ Miscellaneous: { unused: `number`} }
 
-|  {
-  Phone: [`BluetoothPhoneMinor`](./BluetoothPhoneMinor)
-}
+| { Computer: [`BluetoothComputerMinor`](./BluetoothComputerMinor) }
 
-|  {
-  NetworkAccessPoint: [[`BluetoothNetworkMinor`](./BluetoothNetworkMinor), [`BluetoothNetworkSubMinor`](./BluetoothNetworkSubMinor)]
-}
+| { Phone: [`BluetoothPhoneMinor`](./BluetoothPhoneMinor) }
 
-|  {
-  AudioVideo: [`BluetoothAudioVideoMinor`](./BluetoothAudioVideoMinor)
-}
+| { NetworkAccessPoint: [[`BluetoothNetworkMinor`](./BluetoothNetworkMinor),
+[`BluetoothNetworkSubMinor`](./BluetoothNetworkSubMinor)] }
 
-|  {
-  Peripheral: [[`BluetoothPeripheralMinor`](./BluetoothPeripheralMinor), [`BluetoothPeripheralSubMinor`](./BluetoothPeripheralSubMinor)]
-}
+| { AudioVideo: [`BluetoothAudioVideoMinor`](./BluetoothAudioVideoMinor) }
 
-|  {
-  Imaging: [`Array`<[`BluetoothImagingMinor`](./BluetoothImagingMinor)>, [`BluetoothImagingSubMinor`](./BluetoothImagingSubMinor)]
-}
+| { Peripheral: [[`BluetoothPeripheralMinor`](./BluetoothPeripheralMinor),
+[`BluetoothPeripheralSubMinor`](./BluetoothPeripheralSubMinor)] }
 
-|  {
-  Wearable: [`BluetoothWearableMinor`](./BluetoothWearableMinor)
-}
+| { Imaging: [`Array`<[`BluetoothImagingMinor`](./BluetoothImagingMinor)>,
+[`BluetoothImagingSubMinor`](./BluetoothImagingSubMinor)] }
 
-|  {
-  Toy: [`BluetoothToyMinor`](./BluetoothToyMinor)
-}
+| { Wearable: [`BluetoothWearableMinor`](./BluetoothWearableMinor) }
 
-|  {
-  Health: [`BluetoothHealthMinor`](./BluetoothHealthMinor)
-}
+| { Toy: [`BluetoothToyMinor`](./BluetoothToyMinor) }
 
-|  {
-  Uncategorized: {  unused: `number`}
-}
+| { Health: [`BluetoothHealthMinor`](./BluetoothHealthMinor) }
+
+| { Uncategorized: { unused: `number`} }

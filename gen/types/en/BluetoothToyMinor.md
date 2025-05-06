@@ -1,16 +1,15 @@
 # **BluetoothToyMinor**
+
 6 bits
 
 `"Robot"`
 
-|  `"Vehicle"`
+| `"Vehicle"`
 
-|  `"Doll"`
+| `"Doll"`
 
-|  `"Controller"`
+| `"Controller"`
 
-|  `"Game"`
+| `"Game"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

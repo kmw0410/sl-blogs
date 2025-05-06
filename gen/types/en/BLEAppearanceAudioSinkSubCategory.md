@@ -1,14 +1,13 @@
 # **BLEAppearanceAudioSinkSubCategory**
+
 `"StandaloneSpeaker"`
 
-|  `"Soundbar"`
+| `"Soundbar"`
 
-|  `"BookshelfSpeaker"`
+| `"BookshelfSpeaker"`
 
-|  `"StandmountedSpeaker"`
+| `"StandmountedSpeaker"`
 
-|  `"Speakerphone"`
+| `"Speakerphone"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

@@ -1,4 +1,3 @@
 # **BLEAppearanceDisplayEquipmentSubCategory**
-`"Television"` | `"Monitor"` | `"Projector"` | {
-  Reserved: `number`
-}
+
+`"Television"` | `"Monitor"` | `"Projector"` | { Reserved: `number` }

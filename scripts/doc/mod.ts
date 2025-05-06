@@ -1,6 +1,13 @@
-import type { DocNode, InterfacePropertyDef, TsTypeDef } from "jsr:@deno/doc@0.172.0";
+import type {
+  DocNode,
+  InterfacePropertyDef,
+  TsTypeDef,
+} from "jsr:@deno/doc@0.172.0";
 
-function processTypeDefinition(def: TsTypeDef, opt?: { isUnionMember?: boolean }): string[] {
+function processTypeDefinition(
+  def: TsTypeDef,
+  opt?: { isUnionMember?: boolean },
+): string[] {
   const { isUnionMember } = opt || {};
 
   if (def.kind === "union") {
@@ -34,7 +41,9 @@ function processTypeDefinition(def: TsTypeDef, opt?: { isUnionMember?: boolean }
       const prop = _prop as InterfacePropertyDef;
       const readonly = prop.readonly ? "readonly " : "";
       const optional = prop.optional ? "?" : "";
-      const value = prop.tsType ? processTypeDefinition(prop.tsType).join("") : "unknown";
+      const value = prop.tsType
+        ? processTypeDefinition(prop.tsType).join("")
+        : "unknown";
       md.push(`### ${readonly}${prop.name}${optional}: ${value}`);
 
       if (prop.jsDoc) {
@@ -74,12 +83,11 @@ function processTypeDefinition(def: TsTypeDef, opt?: { isUnionMember?: boolean }
     }
 
     if (ref.typeName === "Array") {
-      const params =
-        ref.typeParams
-          ?.map((param) => {
-            return processTypeDefinition(param).join("");
-          })
-          .join(", ") || "unknown";
+      const params = ref.typeParams
+        ?.map((param) => {
+          return processTypeDefinition(param).join("");
+        })
+        .join(", ") || "unknown";
       return [`\`Array\`<${params}>`];
     }
 
@@ -101,16 +109,21 @@ function processTypeDefinition(def: TsTypeDef, opt?: { isUnionMember?: boolean }
 
   if (def.kind === "mapped") {
     const key = def.mappedType.typeParam;
-    const keyConstraint = key.constraint ? processTypeDefinition(key.constraint).join("") : "any";
+    const keyConstraint = key.constraint
+      ? processTypeDefinition(key.constraint).join("")
+      : "any";
 
     const value = def.mappedType.tsType
-      ? processTypeDefinition(def.mappedType.tsType, { isUnionMember: true }).join("")
+      ? processTypeDefinition(def.mappedType.tsType, { isUnionMember: true })
+        .join("")
       : "unknown";
 
     const optional = def.mappedType.optional ? "?" : "";
     const readonly = def.mappedType.readonly ? "readonly " : "";
 
-    return [`{ ${readonly}[${key.name}: ${keyConstraint}]${optional}: ${value} }`];
+    return [
+      `{ ${readonly}[${key.name}: ${keyConstraint}]${optional}: ${value} }`,
+    ];
   }
 
   return [];
@@ -121,7 +134,7 @@ function processTypeDefinition(def: TsTypeDef, opt?: { isUnionMember?: boolean }
   Deno.mkdirSync("./gen/types/en", { recursive: true });
 
   const res = await fetch(
-    "https://raw.githubusercontent.com/Seelen-Inc/slu-lib/refs/heads/master/gen/doc-types.json"
+    "https://raw.githubusercontent.com/Seelen-Inc/slu-lib/refs/heads/master/gen/doc-types.json",
   );
   const docTypes = await res.json();
 

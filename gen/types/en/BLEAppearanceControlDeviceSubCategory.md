@@ -1,30 +1,29 @@
 # **BLEAppearanceControlDeviceSubCategory**
+
 `"Switch"`
 
-|  `"Multiswitch"`
+| `"Multiswitch"`
 
-|  `"Button"`
+| `"Button"`
 
-|  `"Slider"`
+| `"Slider"`
 
-|  `"RotarySwitch"`
+| `"RotarySwitch"`
 
-|  `"TouchPanel"`
+| `"TouchPanel"`
 
-|  `"SingleSwitch"`
+| `"SingleSwitch"`
 
-|  `"DoubleSwitch"`
+| `"DoubleSwitch"`
 
-|  `"TripleSwitch"`
+| `"TripleSwitch"`
 
-|  `"BatterySwitch"`
+| `"BatterySwitch"`
 
-|  `"EnergyHarvestingSwitch"`
+| `"EnergyHarvestingSwitch"`
 
-|  `"PushButton"`
+| `"PushButton"`
 
-|  `"Dial"`
+| `"Dial"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

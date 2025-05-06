@@ -1,24 +1,23 @@
 # **BLEAppearanceHumanInterfaceDeviceSubCategory**
+
 `"Keyboard"`
 
-|  `"Mouse"`
+| `"Mouse"`
 
-|  `"Joystick"`
+| `"Joystick"`
 
-|  `"Gamepad"`
+| `"Gamepad"`
 
-|  `"DigitizerTablet"`
+| `"DigitizerTablet"`
 
-|  `"CardReader"`
+| `"CardReader"`
 
-|  `"DigitalPen"`
+| `"DigitalPen"`
 
-|  `"BarcodeScanner"`
+| `"BarcodeScanner"`
 
-|  `"Touchpad"`
+| `"Touchpad"`
 
-|  `"PresentationRemote"`
+| `"PresentationRemote"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

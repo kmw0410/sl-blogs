@@ -29,6 +29,8 @@ async function completeTranslationsFor(localesDir: string) {
   if (localesDir.endsWith("/")) {
     localesDir = localesDir.slice(0, -1);
   }
+  Deno.mkdirSync(`${localesDir}/translations`, { recursive: true });
+
   const enMarkdown = await Deno.readTextFile(`${localesDir}/en.md`);
   console.info(`* translating: ${localesDir}`);
 

@@ -1,4 +1,3 @@
 # **BLEAppearanceWatchSubCategory**
-`"SportsWatch"` | `"Smartwatch"` | {
-  Reserved: `number`
-}
+
+`"SportsWatch"` | `"Smartwatch"` | { Reserved: `number` }

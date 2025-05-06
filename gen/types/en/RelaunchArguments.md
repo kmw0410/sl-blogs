@@ -1,2 +1,3 @@
 # **RelaunchArguments**
+
 `Array`<`string`> | `string`

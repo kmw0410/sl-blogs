@@ -1,16 +1,15 @@
 # **BLEAppearanceFanSubCategory**
+
 `"CeilingFan"`
 
-|  `"AxialFan"`
+| `"AxialFan"`
 
-|  `"ExhaustFan"`
+| `"ExhaustFan"`
 
-|  `"PedestalFan"`
+| `"PedestalFan"`
 
-|  `"DeskFan"`
+| `"DeskFan"`
 
-|  `"WallFan"`
+| `"WallFan"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

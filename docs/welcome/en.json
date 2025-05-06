@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Documentation",
+  "description": "Seelen applications documentation hub",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05",
+  "keywords": [
+    "seelen docs",
+    "seelen ui documentation",
+    "how to use seelen ui",
+    "seelen ui installation",
+    "seelen setup guide",
+    "seelen instructions"
+  ]
+}

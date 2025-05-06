@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "सीलेन डॉक्स",
+    "सेलेन यूआई प्रलेखन",
+    "सेलेन यूआई का उपयोग कैसे करें",
+    "सेलेन यूआई स्थापना",
+    "सेलेन सेटअप गाइड",
+    "सीलेन निर्देश"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "प्रलेखन",
+  "description": "सेलेन एप्लिकेशन प्रलेखन हब",
+  "author": "सीलेन",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "מסמכי Seelen",
+    "תיעוד ממשק המשתמש של Seelen",
+    "כיצד להשתמש בממשק המשתמש של Seelen",
+    "התקנת ממשק המשתמש של Seelen",
+    "מדריך הגדרת Seelen",
+    "הוראות SEELEN"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "תיעוד",
+  "author": "Seelen",
+  "description": "רכזת תיעוד יישומי Seelen",
+  "lastRevisionAt": "2025-05-05",
+  "publishedAt": "2025-05-05"
+}

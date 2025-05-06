@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "เอกสาร Seelen",
+    "เอกสาร SEELEN UI",
+    "วิธีใช้ SEELEN UI",
+    "การติดตั้ง Seelen UI",
+    "คู่มือการตั้งค่า Seelen",
+    "คำแนะนำ Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "เอกสาร",
+  "description": "ฮับเอกสารแอปพลิเคชัน SEELEN",
+  "publishedAt": "2025-05-05",
+  "author": "เซเล่น",
+  "lastRevisionAt": "2025-05-05"
+}

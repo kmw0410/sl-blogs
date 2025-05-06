@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "seelen docs",
+    "dokumentasi seelen ui",
+    "cara menggunakan seelen ui",
+    "instalasi seelen ui",
+    "panduan pengaturan seelen",
+    "instruksi seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Dokumentasi",
+  "description": "Pusat dokumentasi aplikasi Seelen",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

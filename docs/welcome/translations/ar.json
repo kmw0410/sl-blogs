@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "مستندات سيلين",
+    "وثائق واجهة المستخدم سيلين",
+    "كيفية استخدام واجهة المستخدم سيلين",
+    "تركيب واجهة المستخدم سيلين",
+    "دليل إعداد سيلين",
+    "تعليمات سيلين"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "التوثيق",
+  "description": "مركز توثيق تطبيقات سيلين للتطبيقات سيلين",
+  "author": "سيلين",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

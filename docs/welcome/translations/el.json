@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "seelen docs",
+    "seelen ui τεκμηρίωση",
+    "πώς να χρησιμοποιήσετε το seelen ui",
+    "εγκατάσταση seelen ui",
+    "οδηγός εγκατάστασης seelen",
+    "Οδηγίες Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Τεκμηρίωση",
+  "description": "Κόμβος τεκμηρίωσης εφαρμογών Seelen",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

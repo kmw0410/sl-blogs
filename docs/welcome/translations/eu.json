@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "Seelen UI Dokumentazioa",
+    "Nola erabili Seelen UI",
+    "Seelen UI instalazioa",
+    "Seelen konfiguratzeko gida",
+    "Seelen argibideak"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Zenbidazio",
+  "publishedAt": "2025-05-05",
+  "author": "Sekelo",
+  "lastRevisionAt": "2025-05-05",
+  "description": "Seelen Aplikazioak Dokumentazio Hub"
+}

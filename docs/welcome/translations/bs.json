@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "Seelen dokumenti",
+    "Seelen UI dokumentacija",
+    "Kako koristiti Seelen Ui",
+    "Seelen UI instalacija",
+    "Vodič za podešavanje Seelena",
+    "Seelen uputstva"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Dokumentacija",
+  "description": "Seelen aplikacije za dokumentaciju HUB",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

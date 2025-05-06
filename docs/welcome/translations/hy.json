@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "Սելեն Փաստաթղթեր",
+    "SEELEN UI փաստաթղթեր",
+    "Ինչպես օգտագործել Seelen UI",
+    "SEELEN UI տեղադրում",
+    "SEELEN SETUP ուղեցույց",
+    "SEELEN հրահանգներ"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Փաստաթղթերով ձայնագրում",
+  "description": "SEELEN Ծրագրեր Փաստաթղթերի հանգույց",
+  "author": "Սեգեն",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

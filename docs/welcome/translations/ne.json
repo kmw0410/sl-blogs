@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "Saulnes docs",
+    "हेरेन UI कागजात",
+    "कसरी हेरफोन UI प्रयोग गर्ने",
+    "UI स्थापना हेर्नुहोस्",
+    "Seeen SEDUP गाइड",
+    "sefores निर्देशनहरू"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "description": "Seeen अनुप्रयोगहरू कागजात Hub",
+  "title": "कागजाजीवली",
+  "author": "सावधानी",
+  "publishedAt": "20225-05-05",
+  "lastRevisionAt": "20225-05-05"
+}

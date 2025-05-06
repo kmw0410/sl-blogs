@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "документи за сеене",
+    "Документация за интерфейса на Seelen",
+    "как да използвате Seelen UI",
+    "инсталиране на интерфейса на Seelen",
+    "Ръководство за настройка на Seelen",
+    "Инструкции за използване на Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Документация",
+  "description": "Хъб за документация на приложенията на Seelen",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

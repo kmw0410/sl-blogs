@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "переглянуті документи",
+    "переглянути документацію",
+    "як користуватися seelen ui",
+    "див. інструкцію по установці",
+    "посібник з налаштування seelen",
+    "переглянути інструкції"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Документація",
+  "description": "Огляд документації до додатків",
+  "author": "Seelen.",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

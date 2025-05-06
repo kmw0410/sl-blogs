@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "Seelendokumente",
+    "seelen ui dokumentation",
+    "wie man seelen ui benutzt",
+    "seelen ui installation",
+    "Anleitung zur Einrichtung von Seelen",
+    "Seelenanweisungen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Dokumentation",
+  "description": "Dokumentationszentrum für Seelen-Anwendungen",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

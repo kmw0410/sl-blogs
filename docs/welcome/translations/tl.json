@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "Dokumentasyon ng Seelen UI",
+    "Paano gamitin ang Seelen UI",
+    "Pag -install ng Seelen UI",
+    "Gabay sa Seelen Setup",
+    "Mga tagubilin sa Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Dokumentasyon",
+  "description": "Seelen Application Documentation Hub",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

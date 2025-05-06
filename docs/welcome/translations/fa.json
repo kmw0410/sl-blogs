@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "اسناد Seelen",
+    "مستندات Seelen UI",
+    "نحوه استفاده از Seelen UI",
+    "نصب Seelen UI",
+    "راهنمای تنظیم Seelen",
+    "دستورالعمل های Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "مستند سازی",
+  "description": "مرکز اسناد برنامه های کاربردی Seelen",
+  "author": "بیچاری",
+  "lastRevisionAt": "2025-05-05",
+  "publishedAt": "2025-05-05"
+}

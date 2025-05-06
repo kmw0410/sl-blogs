@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "Сеелен Доцс",
+    "Документација СЕЕЛЕН УИ",
+    "Како се користи СЕЕЛЕН УИ",
+    "Инсталација СЕЕЛЕН УИ",
+    "Водич за подешавање СЕЕЛЕН",
+    "Сеелен упутства"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Документација",
+  "description": "Документација Документација апликација СЕЕЛЕН-а",
+  "publishedAt": "2025-05-05",
+  "author": "Сеелен",
+  "lastRevisionAt": "2025-05-05"
+}

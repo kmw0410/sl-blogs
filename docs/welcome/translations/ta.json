@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "சீலன் டாக்ஸ்",
+    "சீலன் UI ஆவணம்",
+    "சீலன் UI ஐ எவ்வாறு பயன்படுத்துவது",
+    "சீலன் UI நிறுவல்",
+    "சீலன் அமைவு வழிகாட்டி",
+    "சைலென் வழிமுறைகள்"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "ஆவணம்",
+  "description": "சீலன் பயன்பாடுகள் ஆவணப்படுத்தல் மையம்",
+  "publishedAt": "2025-05-05",
+  "author": "சைலர்",
+  "lastRevisionAt": "2025-05-05"
+}

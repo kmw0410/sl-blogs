@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "seeleno dokumentai",
+    "\"seelen ui\" dokumentacija",
+    "kaip naudoti \"seelen ui",
+    "\"seelen ui\" diegimas",
+    "\"seelen\" sąrankos vadovas",
+    "seeleno instrukcijos"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Dokumentacija",
+  "description": "\"Seelen\" programų dokumentacijos centras",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

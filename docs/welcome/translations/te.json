@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "సీలెన్ డాక్స్",
+    "సీలెన్ UI డాక్యుమెంటేషన్",
+    "సీలెన్ UI ని ఎలా ఉపయోగించాలి",
+    "సీలెన్ UI సంస్థాపన",
+    "సీలెన్ సెటప్ గైడ్",
+    "సీలెన్ సూచనలు"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "డాక్యుమెంటేషన్",
+  "description": "సీలెన్ అప్లికేషన్స్ డాక్యుమెంటేషన్ హబ్",
+  "author": "సీలెన్",
+  "lastRevisionAt": "2025-05-05",
+  "publishedAt": "2025-05-05"
+}

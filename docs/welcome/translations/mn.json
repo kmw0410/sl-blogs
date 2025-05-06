@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "seelen ui баримт бичиг",
+    "seelen ui хэрхэн ашиглах вэ",
+    "seelen ui суурилуулалт",
+    "Seelen Setup гарын авлага",
+    "seelen заавар"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Баримт бичиг",
+  "author": "Сахин суу",
+  "description": "Seelen програмын баримт бичгийн төв",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

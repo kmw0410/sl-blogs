@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "ፈልገዋል ሰነዶች",
+    "ዌይ ኡኒ ሰነዶች",
+    "እንዴት እንደሚጠቀሙበት",
+    "leneen Ui ጭነት",
+    "የ <SENTENT ማዋቀር>",
+    "መመሪያዎች መመሪያዎች"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "ሰነዶች",
+  "description": "ፈልግ ትግበራዎች ሰነዶች",
+  "author": "እዩ",
+  "lastRevisionAt": "2025-05-05",
+  "publishedAt": "2025-05-05"
+}

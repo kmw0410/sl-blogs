@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "문서 보기",
+    "UI 문서 보기",
+    "SEELEN UI 사용 방법",
+    "보기 UI 설치",
+    "SEELEN 설정 가이드",
+    "보기 지침"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "문서",
+  "description": "Seelen 애플리케이션 문서 허브",
+  "author": "보기",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

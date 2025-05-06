@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "সিলেন ডক্স",
+    "সিলেন ইউআই ডকুমেন্টেশন",
+    "সিলেন ইউআই কীভাবে ব্যবহার করবেন",
+    "সিলেন ইউআই ইনস্টলেশন",
+    "সিলেন সেটআপ গাইড",
+    "সিলেন নির্দেশাবলী"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "ডকুমেন্টেশন",
+  "author": "সিলেন",
+  "description": "সিলেন অ্যাপ্লিকেশন ডকুমেন্টেশন হাব",
+  "lastRevisionAt": "2025-05-05",
+  "publishedAt": "2025-05-05"
+}

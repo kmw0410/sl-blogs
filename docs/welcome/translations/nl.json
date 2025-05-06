@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "seelen documenten",
+    "seelen ui documentatie",
+    "hoe gebruik je seelen ui",
+    "seelen ui installatie",
+    "seelen installatiegids",
+    "seelen instructies"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Documentatie",
+  "description": "Seelen toepassingen documentatie hub",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "Seelen skjöl",
+    "Seelen UI skjöl",
+    "Hvernig á að nota Seelen UI",
+    "Seelen UI uppsetning",
+    "SEELEN Setup Guide",
+    "Seelen leiðbeiningar"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "description": "Seelen forrit skjöl HUB",
+  "title": "Skjöl",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

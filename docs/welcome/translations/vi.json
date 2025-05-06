@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "Tài liệu SEELEN UI",
+    "Cách sử dụng SEELEN UI",
+    "Cài đặt UI Seelen",
+    "Hướng dẫn thiết lập Seelen",
+    "Hướng dẫn Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Tài liệu",
+  "author": "Seelen",
+  "lastRevisionAt": "2025-05-05",
+  "publishedAt": "2025-05-05",
+  "description": "Trung tâm tài liệu ứng dụng Seelen"
+}

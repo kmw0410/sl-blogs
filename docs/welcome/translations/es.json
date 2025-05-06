@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "ver documentos",
+    "documentación seelen ui",
+    "cómo utilizar seelen ui",
+    "instalación de seelen ui",
+    "guía de configuración de seelen",
+    "instrucciones seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Documentación",
+  "description": "Centro de documentación de aplicaciones Seelen",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

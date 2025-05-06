@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "seelen文档",
+    "SEELENUI 文档",
+    "如何使用 SEELENUI",
+    "SEELENUI 安装",
+    "SEELEN 安装指南",
+    "Seelen 说明"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "文件",
+  "description": "Seelen 应用程序文档中心",
+  "author": "Seelen",
+  "publishedAt": "2025-05-05",
+  "lastRevisionAt": "2025-05-05"
+}

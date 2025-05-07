@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Library Overview",
+  "description": "Official development toolkit for creating widgets and extensions for Seelen UI (slu-lib)",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "keywords": [
+    "seelen ui library",
+    "slu-lib",
+    "widget development",
+    "seelen ui sdk",
+    "seelen extensions",
+    "seelen docs",
+    "seelen ui toolkit",
+    "seelen widget creation"
+  ]
+}

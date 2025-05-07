@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Library: Types and Interfaces",
+  "description": "Seelen UI library (slu-lib), is a library that exposes types and interfaces to be used by widgets",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "keywords": [
+    "seelen docs",
+    "seelen ui documentation",
+    "how to add widgets to seelen ui",
+    "how create plugins for seelen ui",
+    "seelen instructions",
+    "seelen expansions creation",
+    "seelen ui library",
+    "slu-lib"
+  ]
+}

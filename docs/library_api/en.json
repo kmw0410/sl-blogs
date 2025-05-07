@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Library: API Reference",
+  "description": "Seelen UI library (slu-lib) provides developer-friendly API abstractions for widget integration",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "keywords": [
+    "seelen api docs",
+    "seelen ui api reference",
+    "widget development api",
+    "seelen ui integration",
+    "slu-lib api guide",
+    "seelen widget sdk",
+    "seelen ui library",
+    "slu-lib"
+  ]
+}

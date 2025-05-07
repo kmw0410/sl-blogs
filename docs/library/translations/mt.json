@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Librerija Seelen UI",
+    "SLU-Lib",
+    "Żvilupp tal-widget",
+    "Seelen ui sdk",
+    "Estensjonijiet Seelen",
+    "Seelen Docs",
+    "Seelen UI Toolkit",
+    "Ħolqien tal-widget Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "title": "Ħarsa ġenerali tal-Librerija Seelen UI",
+  "description": "Għodda ta 'Żvilupp Uffiċjali għall-Ħolqien ta' Widgets u Estensjonijiet għal Seelen UI (SLU-Lib)",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

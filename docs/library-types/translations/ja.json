@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "シーレン・ドックス",
+    "seelen ui ドキュメント",
+    "seelen uiにウィジェットを追加する方法",
+    "シーレンUI用プラグインの作成方法",
+    "説明書",
+    "シーレン拡大創造",
+    "シーレンUIライブラリ",
+    "スルリブ"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "シーレンUIライブラリ型とインターフェース",
+  "description": "Seelen UI ライブラリ (slu-lib) は、ウィジェットで使用される型とインターフェースを公開するライブラリです。",
+  "author": "シーレン",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

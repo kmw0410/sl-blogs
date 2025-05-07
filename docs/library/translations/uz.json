@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen UI kutubxonasi",
+    "slu-lib",
+    "Vidjetni rivojlantirish",
+    "Seelen Ui SDK",
+    "Seelen kengaytmalari",
+    "Seelen Docs",
+    "Seelen Ui Asbobskit",
+    "Seelen vidjeti yaratish"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "description": "Seelen UI uchun vidjetlar va kengaytmalarni yaratish uchun rasmiy rivojlanish vositasi (SLU-LOB)",
+  "title": "Seelen Ui kutubxonaning Umumiy sharhi",
+  "lastRevisionAt": "2025-06-06",
+  "publishedAt": "2025-06-06"
+}

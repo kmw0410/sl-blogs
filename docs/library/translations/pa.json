@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "ਵੇਖਿਆ UI ਲਾਇਬ੍ਰੇਰੀ",
+    "slu-lib",
+    "ਵਿਜੇਟ ਵਿਕਾਸ",
+    "ਵੇਖਿਆ UI sdk",
+    "ਵੇਖਿਆ ਐਕਸਟੈਂਸ਼ਨਜ਼",
+    "ਵੇਖਿਆ ਡੌਕਸ",
+    "ਵੇਖਿਆ UI ਟੂਲਕਿੱਟ",
+    "ਵੇਖ ਕੇ ਵਿਜੇਟ ਬਣਾਉਣਾ"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "ਵੇਖਿਆ",
+  "title": "ਅਯੂ ਲਾਇਬ੍ਰੇਰੀ ਦੀ ਸੰਖੇਪ ਜਾਣਕਾਰੀ",
+  "description": "ਵੇਖਣ ਲਈ ਅਧਿਕਾਰਤ ਵਿਕਾਸ ਟੂਲਕਿੱਟ ਧੁੱਪ ਜਾਂ ਐਕਸਟੈਂਸ਼ਨਾਂ ਬਣਾਉਣ ਲਈ (ਸਲਾਉ-ਲਿਬ)",
+  "lastRevisionAt": "2025-06-06",
+  "publishedAt": "2025-06-06"
+}

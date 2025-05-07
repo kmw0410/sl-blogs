@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen docs",
+    "seelen ui τεκμηρίωση",
+    "πώς να προσθέσετε widgets στο seelen ui",
+    "πώς να δημιουργήσετε plugins για το seelen ui",
+    "Οδηγίες Seelen",
+    "δημιουργία επεκτάσεων seelen",
+    "seelen ui βιβλιοθήκη",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Βιβλιοθήκη Seelen UI: Τύποι και Διεπαφές",
+  "description": "Η βιβλιοθήκη Seelen UI (slu-lib), είναι μια βιβλιοθήκη που εκθέτει τύπους και διεπαφές που χρησιμοποιούνται από τα widgets",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

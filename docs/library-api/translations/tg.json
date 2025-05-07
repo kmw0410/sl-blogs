@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelens api docs",
+    "Seelen ui app api",
+    "Рушди Виджет api",
+    "uelen ui ҳамгироӣ",
+    "Дастури API Slu-Lib",
+    "Виден Виден SDK",
+    "Китобхонаи UI",
+    "slu-lif"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Желен",
+  "publishedAt": "2025-06-06",
+  "description": "Китобхонаи Юелен UI (SLU-LOB) абстраксияи дӯстона барои ҳамгироии виджет таъмин менамояд",
+  "lastRevisionAt": "2025-06-06",
+  "title": "Китобхонаи UI UI: Истиноди API"
+}

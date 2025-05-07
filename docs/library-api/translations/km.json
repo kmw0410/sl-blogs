@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "ឯកសារ Seelen API",
+    "ឯកសារយោង Seeen Ui API",
+    "api អភិវឌ្ឍន៍ធាតុក្រាហ្វិក API",
+    "ការធ្វើសមាហរណកម្មរបស់ Seen UI",
+    "មគ្គុទេសក៍ SLU-Lib API",
+    "Seeen Widget SDK",
+    "បណ្ណាល័យ Seeen UI",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "កន្លេងតមខ្ច៉ាត់សែល",
+  "publishedAt": "2025-06-06",
+  "description": "បណ្ណាល័យ Seeen UI (SLU-LIB) ផ្តល់នូវភាពមិនប្រក្រតីដែលងាយស្រួលសម្រាប់អ្នកអភិវឌ្ឍន៍សម្រាប់ការធ្វើសមាហរណកម្មធាតុក្រាហ្វិក",
+  "title": "បណ្ណាល័យ Seeen UI: របាយការណ៍យោង API",
+  "lastRevisionAt": "2025-06-06"
+}

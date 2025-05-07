@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Docs Seelen API",
+    "SEELEN UI API Reference",
+    "Widget Pêşveçûn API",
+    "Yekbûna Seelen UI",
+    "Rêbernameya SLU-LB API",
+    "Seelen Widget Sdk",
+    "Pirtûkxaneya Seelen Ui",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "title": "Pirtûkxaneya Seelen UI: Reference API",
+  "description": "Pirtûkxaneya Seelen UI (slu-lib) abstractions api dostane ya pêşdebiran ji bo entegrasyona widget peyda dike"
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "سیلین API دستاویزات",
+    "سیلین UI API حوالہ",
+    "ویجیٹ ڈویلپمنٹ API",
+    "سیلین UI انضمام",
+    "SLU-LIB API گائیڈ",
+    "سیلین ویجیٹ ایس ڈی کے",
+    "سیلین UI لائبریری",
+    "SLU-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "سیلین",
+  "publishedAt": "2025-06-06",
+  "description": "سیلن UI لائبریری (SLU-LIB) ویجیٹ انضمام کے لئے ڈویلپر دوستانہ API خلاصہ فراہم کرتا ہے",
+  "lastRevisionAt": "2025-06-06",
+  "title": "سیلین UI لائبریری: API حوالہ"
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelendokumente",
+    "seelen ui dokumentation",
+    "Hinzufügen von Widgets zur Seelen-UI",
+    "wie man Plugins für Seelen-UI erstellt",
+    "Seelenanweisungen",
+    "Erstellung von Seelenerweiterungen",
+    "seelen ui bibliothek",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI-Bibliothek: Typen und Interfaces",
+  "description": "Die Seelen UI-Bibliothek (slu-lib) ist eine Bibliothek, die Typen und Schnittstellen für die Verwendung durch Widgets bereitstellt.",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

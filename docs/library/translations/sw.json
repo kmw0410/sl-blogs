@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Maktaba ya Seelen UI",
+    "slu-lib",
+    "Maendeleo ya Widget",
+    "seelen ui sdk",
+    "upanuzi wa seelen",
+    "Hati za Seelen",
+    "Seelen UI Toolkit",
+    "Uumbaji wa Widgen wa Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "description": "Zana rasmi ya Maendeleo ya kuunda vilivyoandikwa na viongezeo vya Seelen UI (SLU-LIB)",
+  "title": "Muhtasari wa Maktaba ya Seelen UI",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

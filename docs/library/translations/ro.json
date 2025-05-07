@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Biblioteca seelen ui",
+    "slu-lib",
+    "dezvoltarea widget-urilor",
+    "seelen ui sdk",
+    "extensii seelen",
+    "seelen docs",
+    "set de instrumente seelen ui",
+    "Seelen widget de creare"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Prezentare generală a bibliotecii Seelen UI",
+  "description": "Set oficial de instrumente de dezvoltare pentru crearea de widget-uri și extensii pentru Seelen UI (slu-lib)",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

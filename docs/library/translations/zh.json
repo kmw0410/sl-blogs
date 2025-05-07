@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen ui 库",
+    "slu-lib",
+    "小工具开发",
+    "SEELENUI SDK",
+    "硒扩展",
+    "seelen文档",
+    "SEELENUI 工具包",
+    "创建 SEELEN WIDGET"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI 库概述",
+  "description": "用于为 Seelen UI（slu-lib）创建部件和扩展的官方开发工具包",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

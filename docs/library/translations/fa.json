@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "کتابخانه Seelen UI",
+    "سلیقه",
+    "توسعه ویجت",
+    "Seelen ui SDK",
+    "پسوند Seelen",
+    "اسناد Seelen",
+    "ابزارهای Seelen UI",
+    "ایجاد ویجت Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "نمای کلی کتابخانه UI Seelen",
+  "description": "ابزار توسعه رسمی برای ایجاد ابزارک و پسوند برای Seelen UI (SLU-LIB)",
+  "author": "بیچاری",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

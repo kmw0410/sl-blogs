@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "documentació de la interfície d'usuari de Seelen",
+    "Com afegir ginys a la interfície d'usuari de Seelen",
+    "Com crear plugins per a la interfície d'usuari de Seelen",
+    "Instruccions de Seelen",
+    "Seelen Expansions Creation",
+    "Seelen UI Library",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "title": "Biblioteca de la interfície d'usuari de Seelen: tipus i interfícies",
+  "description": "Seelen UI Library (SLU-LIB), és una biblioteca que exposa tipus i interfícies a utilitzar per ginys",
+  "lastRevisionAt": "2025-06-06"
+}

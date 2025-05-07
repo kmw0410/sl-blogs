@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen API Docs",
+    "Sanggunian ng Seelen UI API",
+    "Widget Development API",
+    "Pagsasama ng Seelen UI",
+    "Gabay sa SLU-LIB API",
+    "Seelen Widget Sdk",
+    "Seelen UI Library",
+    "Slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "description": "Ang Seelen UI Library (SLU-Lib)",
+  "title": "Seelen UI Library: Sanggunian ng API",
+  "lastRevisionAt": "2025-06-06"
+}

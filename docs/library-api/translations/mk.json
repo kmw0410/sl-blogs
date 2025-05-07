@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Документи на Селен АПИ",
+    "Референца за API на Seelen UI",
+    "API за развој на додатоци",
+    "Интеграција на UI на Seelen",
+    "Водич за API на SLU-LIB",
+    "Seelen Widget Sdk",
+    "Библиотека Селен УИ",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Селен",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "description": "Библиотеката Seelen UI (SLU-LIB) обезбедува апстракции на API-пријателски за развивачи за интеграција на додатоци",
+  "title": "Библиотека на Селен УИ: Референца за API"
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "מסמכי Seelen",
+    "תיעוד ממשק המשתמש של Seelen",
+    "כיצד להוסיף יישומונים לממשק המשתמש של Seelen",
+    "כיצד ליצור תוספים לממשק המשתמש של Seelen",
+    "הוראות SEELEN",
+    "יצירת הרחבות Seelen",
+    "ספריית ממשק המשתמש של Seelen",
+    "SLU-LIB"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "title": "ספריית ממשק המשתמש של Seelen: סוגים וממשקים",
+  "description": "ספריית ממשק המשתמש של Seelen (SLU-LIB), היא ספרייה שחושפת סוגים וממשקים שישמשו על ידי ווידג'טים"
+}

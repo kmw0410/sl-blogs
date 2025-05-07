@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen Ui Bibliothéik",
+    "slu-lib",
+    "Widget Entwécklung",
+    "seelen ui sdk",
+    "sicht Extensiounen",
+    "seelen Docs",
+    "seelen Ui Toolkit",
+    "seelen Widget Kreatioun"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "description": "Offiziell Entwécklung Toolkit fir Widgets an Extensiounen ze kreéieren fir ze gesinn UI (Slu-Lib)",
+  "title": "Seewen UI Bibliothéik Iwwersiicht",
+  "lastRevisionAt": "2025-06-06",
+  "publishedAt": "2025-06-06",
+  "author": "Gesieg"
+}

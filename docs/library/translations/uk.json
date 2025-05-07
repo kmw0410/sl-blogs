@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "переглянути бібліотеку ui",
+    "slu-lib",
+    "розробка віджетів",
+    "seeen ui sdk",
+    "побачені розширення",
+    "переглянуті документи",
+    "ДИВІТЬСЯ Інструментарій",
+    "див. створення віджетів"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Огляд бібліотеки інтерфейсу Seelen",
+  "description": "Офіційний інструментарій для створення віджетів та розширень для Seelen UI (slu-lib)",
+  "author": "Seelen.",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

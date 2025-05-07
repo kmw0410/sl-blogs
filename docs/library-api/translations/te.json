@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "సీలెన్ API డాక్స్",
+    "సీలెన్ యుఐ అపి రిఫరెన్స్",
+    "విడ్జెట్ అభివృద్ధి API",
+    "సీలెన్ UI ఇంటిగ్రేషన్",
+    "SLU-LIB API గైడ్",
+    "సీలెన్ విడ్జెట్ SDK",
+    "సీలెన్ యుఐ లైబ్రరీ",
+    "SLU-LIB"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "సీలెన్",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "description": "సీలెన్ UI లైబ్రరీ (SLU-LIB) విడ్జెట్ ఇంటిగ్రేషన్ కోసం డెవలపర్-స్నేహపూర్వక API సంగ్రహణలను అందిస్తుంది",
+  "title": "సీలెన్ UI లైబ్రరీ: API రిఫరెన్స్"
+}

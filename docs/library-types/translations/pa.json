@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "ਵੇਖਿਆ ਡੌਕਸ",
+    "ਅਹਿਮ ਦਸਤਾਵੇਜ਼",
+    "ਵੇਖਣ ਲਈ ਵਿਜੇਟਸ ਨੂੰ ਕਿਵੇਂ ਜੋੜਨਾ ਹੈ",
+    "ਕਿਵੇਂ ਧੱਕੇਸ਼ਾਹੀ ਯੂ.ਆਈ.",
+    "ਧਾਰਣਾ",
+    "ਧਾਤ ਦੀ ਸ੍ਰਿਸ਼ਟੀ",
+    "ਵੇਖਿਆ UI ਲਾਇਬ੍ਰੇਰੀ",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "ਵੇਖਿਆ",
+  "publishedAt": "2025-06-06",
+  "title": "ਵੇਖਿਆ UI ਲਾਇਬ੍ਰੇਰੀ: ਕਿਸਮਾਂ ਅਤੇ ਇੰਟਰਫੇਸ",
+  "description": "ਵੇਖਿਆ UI ਲਾਇਬ੍ਰੇਰੀ (SLU-lible) ਇੱਕ ਲਾਇਬ੍ਰੇਰੀ ਹੈ ਜੋ ਵਿਜੇਟਸ ਦੁਆਰਾ ਵਰਤੇ ਜਾਣ ਵਾਲੀਆਂ ਕਿਸਮਾਂ ਅਤੇ ਇੰਟਰਫੇਸਾਂ ਨੂੰ ਬੇਨਕਾਬ ਕਰਦਾ ਹੈ",
+  "lastRevisionAt": "2025-06-06"
+}

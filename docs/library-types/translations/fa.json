@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "اسناد Seelen",
+    "مستندات Seelen UI",
+    "چگونه ویجت ها را به UI Seelen اضافه کنیم",
+    "چگونه افزونه هایی برای Seelen UI ایجاد کنید",
+    "دستورالعمل های Seelen",
+    "Seelen Expansions ایجاد",
+    "کتابخانه Seelen UI",
+    "سلیقه"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "بیچاری",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "title": "کتابخانه Seelen UI: انواع و رابط ها",
+  "description": "کتابخانه Seelen UI (SLU-LIB) ، کتابخانه ای است که انواع و رابط هایی را که توسط ویجت ها مورد استفاده قرار می گیرد ، قرار می دهد"
+}

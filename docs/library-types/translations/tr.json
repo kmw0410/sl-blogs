@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen dokümanlari",
+    "seelen ui dokümantasyonu",
+    "seelen ui'ye widget'lar nasıl eklenir",
+    "seelen ui için eklentiler nasıl oluşturulur",
+    "seelen tali̇matlari",
+    "seelen geni̇şleme yaratimi",
+    "seelen ui kütüphanesi",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Kütüphanesi: Türler ve Arayüzler",
+  "description": "Seelen UI kütüphanesi (slu-lib), widget'lar tarafından kullanılacak türleri ve arayüzleri ortaya çıkaran bir kütüphanedir",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

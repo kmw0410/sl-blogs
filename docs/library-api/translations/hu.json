@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen api docs",
+    "seelen ui api referencia",
+    "widget fejlesztési api",
+    "seelen ui integráció",
+    "slu-lib api útmutató",
+    "seelen widget sdk",
+    "seelen ui könyvtár",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Library: API-referencia",
+  "description": "A Seelen UI könyvtár (slu-lib) fejlesztőbarát API absztrakciókat biztosít a widgetek integrálásához.",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen API dokumenti",
+    "Seelen ui API referenca",
+    "Razvoj widgeta API",
+    "Seelen UI integracija",
+    "Vodič za LIB API",
+    "Seelen widget sdk",
+    "Seelen UI biblioteka",
+    "Slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "title": "Seelen ui biblioteka: API referenca",
+  "description": "Seelen UI biblioteka (Slu-LIB) nudi API apstrakcije prilagođene programeru za integraciju widgeta",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

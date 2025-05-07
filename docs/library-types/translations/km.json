@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "ឯកសារ SEELEN",
+    "ឯកសារ SEEN UI UI",
+    "វិធីបន្ថែមធាតុក្រាហ្វិកទៅ Seelen UI",
+    "របៀបបង្កើតកម្មវិធីជំនួយសម្រាប់ Selen UI",
+    "សេចក្តីណែនាំរបស់ Seelen",
+    "ការបង្កើតការពង្រីកការពន្លឿនរបស់ Selen",
+    "បណ្ណាល័យ Seeen UI",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "កន្លេងតមខ្ច៉ាត់សែល",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "title": "បណ្ណាល័យ Seeen UI: ប្រភេទនិងចំណុចប្រទាក់",
+  "description": "បណ្ណាល័យ Seeen UI (SLU-Lib) គឺជាបណ្ណាល័យដែលលាតត្រដាងប្រភេទនិងចំណុចប្រទាក់ដែលត្រូវប្រើដោយធាតុក្រាហ្វិក"
+}

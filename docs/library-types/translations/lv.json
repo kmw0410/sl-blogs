@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "dokumentācija par mobilajiem dokumentiem",
+    "Seelen ui dokumentācija",
+    "kā pievienot logrīkus seelen ui",
+    "kā izveidot spraudņus seelen ui",
+    "Seelen instrukcijas",
+    "seelen paplašinājumu izveide",
+    "Seelen ui bibliotēka",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI bibliotēka: Veidi un saskarnes",
+  "description": "Seelen UI bibliotēka (slu-lib) ir bibliotēka, kurā ir pieejami tipi un saskarnes, ko var izmantot logrīki.",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

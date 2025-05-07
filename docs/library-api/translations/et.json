@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen api dokumendid",
+    "seelen ui api viide",
+    "vidinate arendamise api",
+    "seelen ui integratsioon",
+    "slu-lib api juhend",
+    "seelen widget sdk",
+    "seelen ui raamatukogu",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI raamatukogu: API viide",
+  "description": "Seelen UI raamatukogu (slu-lib) pakub arendajasõbralikke API abstraktsioone vidinate integreerimiseks.",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

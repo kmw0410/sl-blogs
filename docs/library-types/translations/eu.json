@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "Seelen UI Dokumentazioa",
+    "Nola gehitu widgetak Seelen UI-ra",
+    "Nola sortu pluginak Seelen UIrentzat",
+    "Seelen argibideak",
+    "Seelen hedapenak sortzea",
+    "Seelen UI Liburutegia",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Sekelo",
+  "publishedAt": "2025-06-06",
+  "title": "Seelen UI Liburutegia: Mota eta interfazeak",
+  "description": "Seelen UI Liburutegia (SLU-LAB), widgetek erabiliko dituzten motak eta interfazeak azaltzen dituen liburutegia da",
+  "lastRevisionAt": "2025-06-06"
+}

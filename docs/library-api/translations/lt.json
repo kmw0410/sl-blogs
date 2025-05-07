@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen api dokumentai",
+    "seelen ui api nuoroda",
+    "valdiklių kūrimo programinė įranga",
+    "\"seelen ui\" integracija",
+    "slu-lib api vadovas",
+    "seelen widget sdk",
+    "seelen ui biblioteka",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen vartotojo sąsajos biblioteka: API nuoroda",
+  "description": "\"Seelen\" vartotojo sąsajos biblioteka (slu-lib) suteikia programuotojams patogias API abstrakcijas valdiklių integravimui",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

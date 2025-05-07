@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "سیلین دستاویزات",
+    "سیلین UI دستاویزات",
+    "سیلین UI میں ویجٹ کو کیسے شامل کریں",
+    "سیلین UI کے لئے پلگ ان کیسے بنائیں",
+    "سیلین ہدایات",
+    "سیلن توسیع کی تخلیق",
+    "سیلین UI لائبریری",
+    "SLU-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "سیلین",
+  "publishedAt": "2025-06-06",
+  "title": "سیلین UI لائبریری: اقسام اور انٹرفیس",
+  "description": "سیلین UI لائبریری (SLU-LIB) ، ایک لائبریری ہے جو ویجٹ کے ذریعہ استعمال کرنے والی اقسام اور انٹرفیس کو بے نقاب کرتی ہے",
+  "lastRevisionAt": "2025-06-06"
+}

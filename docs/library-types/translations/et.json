@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen docs",
+    "seelen ui dokumentatsioon",
+    "kuidas lisada vidinaid seelen ui'le",
+    "kuidas luua pluginad seelen ui jaoks",
+    "seelen juhised",
+    "seelen laienduste loomine",
+    "seelen ui raamatukogu",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI raamatukogu: Tüübid ja liidesed",
+  "description": "Seelen UI raamatukogu (slu-lib), on raamatukogu, mis eksponeerib tüüpe ja liideseid, mida vidinad kasutavad.",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "ספריית ממשק המשתמש של Seelen",
+    "SLU-LIB",
+    "פיתוח יישומון",
+    "Seelen UI SDK",
+    "תוספות Seelen",
+    "מסמכי Seelen",
+    "ערכת הכלים של ממשק המשתמש של Seelen",
+    "יצירת ווידג'ט של Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "description": "ערכת כלים לפיתוח רשמית ליצירת יישומונים ותוספים לממשק המשתמש של Seelen (SLU-LIB)",
+  "title": "סקירה כללית של ספריית UI",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

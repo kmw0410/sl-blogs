@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "Dokumentasyon ng Seelen UI",
+    "Paano magdagdag ng mga widget sa Seelen UI",
+    "Paano lumikha ng mga plugin para sa Seelen UI",
+    "Mga tagubilin sa Seelen",
+    "Seelen Expansions Paglikha",
+    "Seelen UI Library",
+    "Slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "title": "Seelen UI Library: Mga Uri at Interfaces",
+  "lastRevisionAt": "2025-06-06",
+  "description": "Ang Seelen UI Library (SLU-LIB), ay isang silid-aklatan na naglalantad ng mga uri at interface na gagamitin ng mga widget"
+}

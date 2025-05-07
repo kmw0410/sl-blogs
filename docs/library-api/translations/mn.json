@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen API DOCS",
+    "seelen ui api лавлагаа",
+    "Виджет хөгжүүлэх API",
+    "seelen ui интеграци",
+    "slu-lib api чиглүүлэлт",
+    "Seelen Widget SDK",
+    "seelen ui номын сан",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Сахин суу",
+  "publishedAt": "2025-06-06",
+  "description": "Seelen ui номын сан (SLU-LIB) нь виджет интеграцийг хөгжүүлэгчдэд ээлтэй api хийцтэй болгодог",
+  "title": "Seelen UI номын сан: API лавлагаа",
+  "lastRevisionAt": "2025-06-06"
+}

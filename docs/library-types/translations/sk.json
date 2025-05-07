@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Dokumenty pre seelen",
+    "dokumentácia ui seelen",
+    "ako pridať widgety do seelen ui",
+    "ako vytvoriť pluginy pre seelen ui",
+    "Pokyny pre seelen",
+    "vytváranie rozšírení seelen",
+    "knižnica seelen ui",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Knižnica používateľského rozhrania Seelen: Typy a rozhrania",
+  "description": "Knižnica používateľského rozhrania Seelen (slu-lib) je knižnica, ktorá vystavuje typy a rozhrania používané widgetmi",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

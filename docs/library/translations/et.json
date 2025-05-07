@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen ui raamatukogu",
+    "slu-lib",
+    "vidinate arendamine",
+    "seelen ui sdk",
+    "seelen laiendused",
+    "seelen docs",
+    "seelen ui tööriistakomplekt",
+    "Seelen vidina loomine"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI raamatukogu ülevaade",
+  "description": "Ametlik arendusvahendite komplekt Seelen UI jaoks vidinate ja laienduste loomiseks (slu-lib)",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

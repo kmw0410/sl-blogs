@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Hati za Seelen",
+    "Nyaraka za Seelen UI",
+    "Jinsi ya kuongeza vilivyoandikwa kwa Seelen UI",
+    "Jinsi kuunda programu -jalizi za Seelen UI",
+    "Maagizo ya Seelen",
+    "Uumbaji wa Seelen",
+    "Maktaba ya Seelen UI",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "description": "Maktaba ya Seelen UI (SLU-LIB), ni maktaba ambayo inafichua aina na miingiliano inayotumiwa na vilivyoandikwa",
+  "lastRevisionAt": "2025-06-06",
+  "title": "Maktaba ya Seelen UI: Aina na Maingiliano"
+}

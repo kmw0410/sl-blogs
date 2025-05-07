@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Ama-Seleen API Amadokhumenti",
+    "Inkomba ye-Seelen UI API",
+    "Iwijethi yokuthuthukisa i-API",
+    "Ukuhlanganiswa kwe-Seelen UI",
+    "I-Slu-Lib API Guide",
+    "I-Seelen Widget SDK",
+    "I-Seelen UI Library",
+    "I-Slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "-Kwaseshud",
+  "publishedAt": "2025-06-06",
+  "description": "I-Seelen UI Library (Slu-lib) inikezela nge-API Enginobungane ye-API yokuhlanganiswa kwewijethi",
+  "title": "I-Seelen UI Library: Inkomba ye-API",
+  "lastRevisionAt": "2025-06-06"
+}

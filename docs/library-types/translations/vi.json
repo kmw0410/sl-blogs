@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "Tài liệu SEELEN UI",
+    "Cách thêm Widgets vào Seelen UI",
+    "Cách tạo plugin cho giao diện người dùng Seelen",
+    "Hướng dẫn Seelen",
+    "SEELEN Mở rộng Sáng tạo",
+    "Thư viện UI Seelen",
+    "SLU-LIB"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "description": "Thư viện UI SEELEN (SLU-LIB), là một thư viện hiển thị các loại và giao diện sẽ được sử dụng bởi các widget",
+  "title": "Thư viện UI Seelen: Các loại và giao diện"
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen api docs",
+    "referensi seelen ui api",
+    "api pengembangan widget",
+    "integrasi seelen ui",
+    "panduan slu-lib api",
+    "widget seelen sdk",
+    "perpustakaan seelen ui",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Perpustakaan Seelen UI: Referensi API",
+  "description": "Perpustakaan Seelen UI (slu-lib) menyediakan abstraksi API yang mudah digunakan oleh pengembang untuk integrasi widget",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

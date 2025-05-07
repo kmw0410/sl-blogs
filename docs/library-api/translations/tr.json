@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen api dokümanları",
+    "seelen ui api referansı",
+    "widget geliştirme api",
+    "seelen ui entegrasyonu",
+    "slu-lib api kılavuzu",
+    "seelen widget sdk",
+    "seelen ui kütüphanesi",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Kütüphanesi: API Referansı",
+  "description": "Seelen UI kütüphanesi (slu-lib), widget entegrasyonu için geliştirici dostu API soyutlamaları sağlar",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

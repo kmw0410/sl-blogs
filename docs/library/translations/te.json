@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "సీలెన్ యుఐ లైబ్రరీ",
+    "SLU-LIB",
+    "విడ్జెట్ అభివృద్ధి",
+    "సీలెన్ UI sdk",
+    "సీలెన్ పొడిగింపులు",
+    "సీలెన్ డాక్స్",
+    "సీలెన్ UI టూల్‌కిట్",
+    "సీలెన్ విడ్జెట్ సృష్టి"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "సీలెన్",
+  "description": "సీలెన్ UI (SLU-LIB) కోసం విడ్జెట్లు మరియు పొడిగింపులను సృష్టించడానికి అధికారిక అభివృద్ధి టూల్‌కిట్",
+  "publishedAt": "2025-06-06",
+  "title": "సీలెన్ యుఐ లైబ్రరీ అవలోకనం",
+  "lastRevisionAt": "2025-06-06"
+}

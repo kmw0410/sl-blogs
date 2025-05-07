@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen API skjöl",
+    "Seelen Ui API tilvísun",
+    "API búnaðarþróunar",
+    "Seelen UI samþætting",
+    "API handbók SLU-Lib",
+    "Seelen búnaður SDK",
+    "Seelen UI bókasafn",
+    "Slu-Lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "title": "Seelen UI bókasafn: API tilvísun",
+  "publishedAt": "2025-06-06",
+  "description": "Seelen UI bókasafn (SLU-Lib) veitir verktaki vingjarnleg API ágrip fyrir samþættingu búnaðar",
+  "lastRevisionAt": "2025-06-06"
+}

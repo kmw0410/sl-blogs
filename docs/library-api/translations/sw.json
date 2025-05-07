@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Hati za Seelen API",
+    "rejeleo la API la seelen ui",
+    "API ya Maendeleo ya Widget",
+    "Ushirikiano wa Seelen UI",
+    "Mwongozo wa API wa SLU-lib",
+    "Seelen Widget SDK",
+    "Maktaba ya Seelen UI",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "description": "Maktaba ya Seelen UI (SLU-LIB) hutoa vifaa vya usanidi wa API vya usanidi wa Ushirikiano wa Widget",
+  "lastRevisionAt": "2025-06-06",
+  "title": "Maktaba ya Seelen UI: Rejea ya API"
+}

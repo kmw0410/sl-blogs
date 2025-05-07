@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen文档",
+    "SEELENUI 文档",
+    "如何在 Seelen ui 中添加部件",
+    "如何为 Seelen ui 创建插件",
+    "Seelen 说明",
+    "Seelen 扩建工程",
+    "Seelen ui 库",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI 库：类型和接口",
+  "description": "Seelen UI 库（slu-lib）是一个公开类型和接口的库，供部件使用。",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

@@ -40,11 +40,11 @@ async function completeTranslationsFor(localesDir: string) {
   if (await fs.exists(`${localesDir}/en.json`)) {
     const json = JSON.parse(await Deno.readTextFile(`${localesDir}/en.json`));
     jsonTranslator = new ObjectTranslator(json, autoTranslator);
-    jsonTranslator.gap = 600;
+    jsonTranslator.gap = 300;
   }
 
   const mdTranslator = new MarkdownTranslator(enMarkdown, googleTranslator);
-  mdTranslator.gap = 600;
+  mdTranslator.gap = 300;
   const encoder = new TextEncoder();
 
   for (const lang of targets) {

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "API 문서 보기",
+    "보기 UI API 참조",
+    "위젯 개발 API",
+    "보기 UI 통합",
+    "SLU-LIB API 가이드",
+    "위젯 SDK 보기",
+    "보기 UI 라이브러리",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI 라이브러리: API 참조",
+  "description": "위젯 통합을 위한 개발자 친화적인 API 추상화를 제공하는 Seelen UI 라이브러리(slu-lib)",
+  "author": "보기",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

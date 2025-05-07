@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen UI Liburutegia",
+    "slu-lib",
+    "Widget Garapena",
+    "Seelen UI SDK",
+    "Seelen luzapenak",
+    "Seelen Docs",
+    "Seelen UI Tresna",
+    "Seelen widget sortzea"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Sekelo",
+  "description": "Seelen UI (SLU-LAB) widgetak eta luzapenak sortzeko tresna ofiziala",
+  "title": "Seelen UI liburutegiko ikuspegi orokorra",
+  "lastRevisionAt": "2025-06-06",
+  "publishedAt": "2025-06-06"
+}

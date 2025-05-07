@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen ui kütüphanesi",
+    "slu-lib",
+    "widget geliştirme",
+    "seelen ui sdk",
+    "seelen uzantıları",
+    "seelen dokümanlari",
+    "seelen ui araç kiti",
+    "seelen widget oluşturma"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Kütüphanesine Genel Bakış",
+  "description": "Seelen UI (slu-lib) için widget'lar ve uzantılar oluşturmak için resmi geliştirme araç seti",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

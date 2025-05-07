@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen docs",
+    "documentația seelen ui",
+    "cum să adăugați widget-uri la seelen ui",
+    "cum se creează pluginuri pentru seelen ui",
+    "instrucțiuni seelen",
+    "seelen expansiuni creație",
+    "Biblioteca seelen ui",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Biblioteca Seelen UI: Tipuri și interfețe",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "author": "Seelen",
+  "description": "Biblioteca Seelen UI (slu-lib), este o bibliotecă care expune tipuri și interfețe pentru a fi utilizate de widget-uri"
+}

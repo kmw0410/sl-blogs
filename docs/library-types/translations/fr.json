@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen docs",
+    "documentation de l'interface utilisateur de seelen",
+    "Comment ajouter des widgets à l'interface utilisateur de Seelen ?",
+    "Comment créer des plugins pour l'interface utilisateur de Seelen ?",
+    "instructions seelen",
+    "seelen expansions creation",
+    "bibliothèque seelen ui",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Bibliothèque Seelen UI : Types et interfaces",
+  "description": "La bibliothèque Seelen UI (slu-lib) est une bibliothèque qui expose des types et des interfaces à utiliser par les widgets.",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

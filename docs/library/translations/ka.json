@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen UI ბიბლიოთეკა",
+    "Slu-lib",
+    "ვიჯეტის განვითარება",
+    "seelen ui sdk",
+    "სელენის გაფართოებები",
+    "Seelen Docs",
+    "Seelen UI ინსტრუმენტარიუმ",
+    "Seelen ვიჯეტის შექმნა"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "სელენი",
+  "title": "Seelen UI ბიბლიოთეკის მიმოხილვა",
+  "description": "ოფიციალური განვითარების ინსტრუმენტები ვიჯეტის და გაფართოებების შესაქმნელად Seelen UI- სთვის (SLU-Lib)",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

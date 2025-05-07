@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Dokumen Seelen",
+    "Dokumentasi Seelen UI",
+    "cara menambah widget ke seelen ui",
+    "Bagaimana Buat Plugin Untuk Seelen UI",
+    "Arahan Seelen",
+    "Penciptaan Ekspansi Seelen",
+    "Perpustakaan Seelen UI",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Perpustakaan Seelen UI: Jenis dan Antara muka",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "description": "Perpustakaan Seelen UI (SLU-LIB), adalah perpustakaan yang mendedahkan jenis dan antara muka yang akan digunakan oleh widget",
+  "lastRevisionAt": "2025-06-06"
+}

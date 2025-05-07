@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "SEELEN API DOCS",
+    "SEELEN UI API հղում",
+    "Widget Development API",
+    "SEELEN UI ինտեգրում",
+    "Slu-Lib API ուղեցույց",
+    "SEELEN WIDGE SDK",
+    "Seelen UI գրադարան",
+    "սլուդա"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Սեգեն",
+  "publishedAt": "2025-06-06",
+  "title": "Seelen UI գրադարան. API հղում",
+  "description": "Seelen UI գրադարանը (Slu-Lib) տրամադրում է ծրագրավորող-բարեկամական API աբստրակցիաներ Widget ինտեգրման համար",
+  "lastRevisionAt": "2025-06-06"
+}

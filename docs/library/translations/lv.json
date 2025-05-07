@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen ui bibliotēka",
+    "slu-lib",
+    "logrīku izstrāde",
+    "seelen ui sdk",
+    "paplašinājumi",
+    "dokumentācija par mobilajiem dokumentiem",
+    "seelen ui rīku komplekts",
+    "Seelen logrīku izveide"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI bibliotēkas pārskats",
+  "description": "Oficiālais izstrādes rīku komplekts Seelen UI logrīku un paplašinājumu izveidei (slu-lib)",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

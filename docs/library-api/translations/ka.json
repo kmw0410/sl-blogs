@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen API დოკუმენტები",
+    "Seelen UI API მითითება",
+    "ვიჯეტის განვითარების API",
+    "Seelen UI ინტეგრაცია",
+    "Slu-Lib API სახელმძღვანელო",
+    "Seelen ვიჯეტის SDK",
+    "Seelen UI ბიბლიოთეკა",
+    "Slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "სელენი",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "title": "Seelen UI ბიბლიოთეკა: API მითითება",
+  "description": "Seelen UI ბიბლიოთეკა (SLU-LIB) უზრუნველყოფს დეველოპერისთვის დამახასიათებელ API აბსტრაქციებს ვიჯეტის ინტეგრაციისთვის"
+}

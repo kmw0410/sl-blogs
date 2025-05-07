@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen api docs",
+    "seelen ui api referenz",
+    "Widget-Entwicklungs-Api",
+    "seelen ui integration",
+    "slu-lib api guide",
+    "seelen widget sdk",
+    "seelen ui bibliothek",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI-Bibliothek: API-Referenz",
+  "description": "Die Seelen UI-Bibliothek (slu-lib) bietet entwicklerfreundliche API-Abstraktionen für die Integration von Widgets",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

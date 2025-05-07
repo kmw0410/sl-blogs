@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "اسناد API Seelen",
+    "مرجع API Seelen ui",
+    "API توسعه ویجت",
+    "ادغام Seelen UI",
+    "راهنمای API SLU-LIB",
+    "ویجت Seelen SDK",
+    "کتابخانه Seelen UI",
+    "سلیقه"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "description": "کتابخانه Seelen UI (SLU-LIB) انتزاع API سازگار با توسعه دهنده را برای ادغام ویجت فراهم می کند",
+  "title": "کتابخانه Seelen UI: مرجع API",
+  "author": "بیچاری",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

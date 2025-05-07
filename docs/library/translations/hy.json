@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen UI գրադարան",
+    "սլուդա",
+    "Widget- ի մշակում",
+    "seelen ui sdk",
+    "SEELEN ընդարձակումներ",
+    "Սելեն Փաստաթղթեր",
+    "Seelen UI գործիքակազմ",
+    "Seelen widget ստեղծում"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI գրադարանի ակնարկ",
+  "description": "Seelen UI- ի (Slu-Lib) գործիքների ստեղծման համար զարգացման պաշտոնական գործիքակազմ",
+  "publishedAt": "2025-06-06",
+  "author": "Սեգեն",
+  "lastRevisionAt": "2025-06-06"
+}

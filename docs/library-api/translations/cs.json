@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "dokumenty api seelen",
+    "reference na API seelen ui",
+    "api pro vývoj widgetů",
+    "integrace uživatelského rozhraní seelen",
+    "průvodce rozhraním slu-lib",
+    "seelen widget sdk",
+    "knihovna seelen ui",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Knihovna uživatelského rozhraní Seelen: API Reference",
+  "description": "Knihovna Seelen UI (slu-lib) poskytuje vývojářsky přívětivé abstrakce API pro integraci widgetů.",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

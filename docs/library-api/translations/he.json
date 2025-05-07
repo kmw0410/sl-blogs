@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "מסמכי Seelen API",
+    "התייחסות ל Seelen UI API",
+    "API לפיתוח יישומון",
+    "שילוב ממשק המשתמש של Seelen",
+    "מדריך API של SLU-LIB",
+    "SDK SDK SDK",
+    "ספריית ממשק המשתמש של Seelen",
+    "SLU-LIB"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "description": "ספריית UI של Seelen (SLU-LIB) מספקת הפשטות API ידידותיות למפתחים לשילוב יישומון",
+  "title": "ספריית ממשק המשתמש של Seelen: הפניה ל- API"
+}

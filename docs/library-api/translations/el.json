@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen api docs",
+    "seelen ui api αναφοράς",
+    "api ανάπτυξης widget",
+    "ενσωμάτωση του seelen ui",
+    "οδηγός slu-lib api",
+    "seelen widget sdk",
+    "seelen ui βιβλιοθήκη",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Βιβλιοθήκη Seelen UI: API Reference",
+  "description": "Η βιβλιοθήκη Seelen UI (slu-lib) παρέχει φιλικές προς τον προγραμματιστή αφαιρέσεις API για την ενσωμάτωση widget",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

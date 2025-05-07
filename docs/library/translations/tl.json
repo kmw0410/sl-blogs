@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen UI Library",
+    "Slu-lib",
+    "Pag -unlad ng Widget",
+    "Seelen Ui Sdk",
+    "Mga extension ng Seelen",
+    "Seelen Docs",
+    "Seelen UI Toolkit",
+    "Seelen Widget Creation"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "description": "Opisyal na toolkit ng pag-unlad para sa paglikha ng mga widget at extension para sa Seelen UI (SLU-LIB)",
+  "author": "Seelen",
+  "title": "Pangkalahatang -ideya ng Seelen UI Library",
+  "lastRevisionAt": "2025-06-06",
+  "publishedAt": "2025-06-06"
+}

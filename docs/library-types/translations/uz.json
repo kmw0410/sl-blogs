@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "Seelen UI hujjatlari",
+    "Seelen Ui-ga vidjetlarni qanday qo'shish mumkin",
+    "Seelen UI plaginlarini qanday yarating",
+    "Suelen ko'rsatmalari",
+    "Seelen kengaytirish",
+    "Seelen UI kutubxonasi",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "title": "Seelen UI kutubxonasi: Turlar va interfeyslar",
+  "lastRevisionAt": "2025-06-06",
+  "description": "Seelen UI kutubxonasi (SNU-LI-kutubxonasi) - bu vidjetlar tomonidan ishlatiladigan tur va interfeyslarni fosh qiladigan kutubxona"
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Библиотека seelen ui",
+    "slu-lib",
+    "разработка виджетов",
+    "seelen ui sdk",
+    "удлинители селена",
+    "селенские документы",
+    "seelen ui toolkit",
+    "Создание виджетов seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Обзор библиотеки пользовательского интерфейса Seelen",
+  "description": "Официальный инструментарий разработчика для создания виджетов и расширений для Seelen UI (slu-lib)",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

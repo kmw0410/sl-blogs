@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "문서 보기",
+    "UI 문서 보기",
+    "SEELEN UI에 위젯을 추가하는 방법",
+    "SEELEN UI용 플러그인을 만드는 방법",
+    "보기 지침",
+    "확장팩 생성",
+    "보기 UI 라이브러리",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "보기",
+  "title": "Seelen UI 라이브러리: 유형 및 인터페이스",
+  "description": "위젯에서 사용할 유형과 인터페이스를 노출하는 라이브러리인 Seelen UI 라이브러리(slu-lib)는 다음과 같습니다.",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

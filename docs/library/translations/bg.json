@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Библиотека Seelen UI",
+    "slu-lib",
+    "разработване на джаджи",
+    "Seelen ui sdk",
+    "разширения на селища",
+    "документи за сеене",
+    "Комплект инструменти за потребителска среда на Seelen",
+    "Създаване на джаджа на Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Преглед на библиотеката Seelen UI",
+  "description": "Официален набор от инструменти за разработка за създаване на уиджети и разширения за Seelen UI (slu-lib)",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "SEELEN 应用程序接口文档",
+    "Seelen ui api 参考资料",
+    "小部件开发 api",
+    "SEELENUI 集成",
+    "slu-lib api 指南",
+    "SEELEN WIDGET SDK",
+    "Seelen ui 库",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI 库应用程序接口参考",
+  "description": "Seelen UI 库（slu-lib）为部件集成提供了便于开发人员使用的 API 抽象",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

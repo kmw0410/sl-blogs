@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "Dogfennaeth Seelen UI",
+    "Sut i ychwanegu teclynnau i Seelen UI",
+    "Sut creu ategion ar gyfer Seelen UI",
+    "Cyfarwyddiadau Seelen",
+    "Creu Ehangu Seelen",
+    "Llyfrgell Seelen UI",
+    "lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "description": "Mae Llyfrgell Seelen UI (Slu-lib), yn llyfrgell sy'n datgelu mathau a rhyngwynebau i'w defnyddio gan widgets",
+  "title": "Llyfrgell Seelen UI: Mathau a Rhyngwynebau",
+  "lastRevisionAt": "2025-06-06"
+}

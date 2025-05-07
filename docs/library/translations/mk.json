@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Библиотека Селен УИ",
+    "slu-lib",
+    "Развој на додатоци",
+    "Селен Уи Сдк",
+    "екстензии на Селен",
+    "Документи на Селен",
+    "Алатки за алатки Seelen UI",
+    "Создавање на додатоци на Селен"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Селен",
+  "title": "Преглед на библиотеката на Селен УИ",
+  "description": "Официјална алатка за развој за создавање додатоци и наставки за UI на Seelen (SLU-LIB)",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

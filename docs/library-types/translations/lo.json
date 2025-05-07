@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "SEVELEN DOCS",
+    "ເອກະສານ Searen UI",
+    "ວິທີການເພີ່ມ Widget ກັບ SEVENEN UI",
+    "ວິທີການສ້າງ plugins ສໍາລັບ selen ui",
+    "ຄໍາແນະນໍາກ່ຽວກັບ SEELEN",
+    "ການສ້າງຄວາມສະດວກໃນການຂະຫຍາຍຕົວ",
+    "ຫໍສະຫມຸດ SEELEN UI",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "ຊ່າງຕັດ",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "title": "Library UI: ປະເພດແລະການໂຕ້ຕອບ",
+  "description": "Library UI (SLU-LIB), ແມ່ນຫ້ອງສະມຸດທີ່ເປີດເຜີຍປະເພດແລະການໂຕ້ຕອບທີ່ຈະໃຊ້ໂດຍ widget"
+}

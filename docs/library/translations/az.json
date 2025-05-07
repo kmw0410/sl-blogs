@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen Ui Kitabxanası",
+    "slu-lib",
+    "vidjetin inkişafı",
+    "SEELEN UI SDK",
+    "Seelen uzantıları",
+    "SEELEN sənədləri",
+    "Seelen Ui Toolkit",
+    "Seelen Widget yaradılması"
+  ],
+  "$schema": "https://raw.githubusercontent.com/seelen-inc/sl-blogs/refs/ness/master/masdata.schema.json",
+  "title": "SEELEN UI Kitabxana Baxışı",
+  "author": "Seelen",
+  "description": "Seelen UI (Slu-lib) üçün vidjetlər və uzantılar yaratmaq üçün rəsmi inkişaf alət dəsti",
+  "lastRevisionAt": "2025-06-06",
+  "publishedAt": "2025-06-06"
+}

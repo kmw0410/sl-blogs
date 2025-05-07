@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen ui bibliothek",
+    "slu-lib",
+    "Widget-Entwicklung",
+    "seelen ui sdk",
+    "seelische Verlängerungen",
+    "Seelendokumente",
+    "seelen ui toolkit",
+    "Seelen-Widget-Erstellung"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Library Übersicht",
+  "description": "Offizielles Entwicklungs-Toolkit zur Erstellung von Widgets und Erweiterungen für Seelen UI (slu-lib)",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

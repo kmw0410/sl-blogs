@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen docs",
+    "seelen ui dokumentation",
+    "hur man lägger till widgets till seelen ui",
+    "hur skapa plugins för seelen ui",
+    "seelen instruktioner",
+    "seelen expansions skapelse",
+    "seelen ui bibliotek",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI-bibliotek: Typer och gränssnitt",
+  "description": "Seelen UI library (slu-lib), är ett bibliotek som exponerar typer och gränssnitt som kan användas av widgets",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

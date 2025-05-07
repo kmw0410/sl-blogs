@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "SEVENEN API DOCS",
+    "ເອກະສານອ້າງອີງ UPEN UI API",
+    "ການພັດທະນາ Widget API",
+    "seelen Ui ການເຊື່ອມໂຍງ",
+    "ຄູ່ມື SLU-LIB API ຄູ່ມື",
+    "ເບິ່ງ SPELEN WIDGET SDK",
+    "ຫໍສະຫມຸດ SEELEN UI",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "ຊ່າງຕັດ",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "title": "Library UI: ເອກະສານອ້າງອີງ API",
+  "description": "SEVENEN UI LIBRARS (SLU-LIB) ການລະເວັ້ນ API ທີ່ເປັນມິດກັບຜູ້ພັດທະນາສໍາລັບການເຊື່ອມໂຍງກັບເຄື່ອງມື"
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "Seelen UI Dokumentazzjoni",
+    "kif iżżid widgets ma 'seelen ui",
+    "Kif toħloq plugins għal Seelen UI",
+    "Istruzzjonijiet Seelen",
+    "Ħolqien ta 'espansjonijiet Seelen",
+    "Librerija Seelen UI",
+    "SLU-Lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "title": "Seelen UI Library: Tipi u Interfaces",
+  "lastRevisionAt": "2025-06-06",
+  "description": "Seelen UI Library (SLU-Lib), hija librerija li tesponi tipi u interfaces li għandhom jintużaw mill-widgets"
+}

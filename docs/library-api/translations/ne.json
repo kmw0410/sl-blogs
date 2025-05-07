@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "SPI DOCS हेर्नुहोस्",
+    "हेरि UPI सन्दर्भ हेर्नुहोस्",
+    "विजेट विकास एपीआई",
+    "ओई एकीकरण हेर्नुहोस्",
+    "SLU-lib api api गाइड",
+    "विजेट SDK",
+    "UI पुस्तकालय हेर्नुहोस्",
+    "Slu-live"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "सावधानी",
+  "title": "नजर पुस्तकालय हेर्नुहोस्: एपीआई सन्दर्भ",
+  "description": "ओई पुस्तकालय हेर्नुहोस् (Sul-live) विजेट एकीकरणको लागि विकासकर्ता मैत्री एपीआई अमूर्तता प्रदान गर्दछ",
+  "publishedAt": "20225-06-06",
+  "lastRevisionAt": "20225-06-06"
+}

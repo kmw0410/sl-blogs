@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "переглянути документи про api",
+    "ДИВІТЬСЯ посилання на api",
+    "api для розробки віджетів",
+    "побачити інтеграцію",
+    "slu-lib посібник з api",
+    "переглянути віджет sdk",
+    "переглянути бібліотеку ui",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Бібліотека Seelen UI: Посилання на API",
+  "description": "Бібліотека Seelen UI (slu-lib) надає зручні для розробників абстракції API для інтеграції віджетів",
+  "author": "Seelen.",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

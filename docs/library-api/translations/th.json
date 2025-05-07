@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "เอกสาร Seelen API",
+    "การอ้างอิง Seelen UI API",
+    "API การพัฒนาวิดเจ็ต",
+    "การรวม UI ของ Seelen",
+    "คู่มือ SLU-LIB API",
+    "Seelen วิดเจ็ต SDK",
+    "ห้องสมุด Seelen UI",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Library: API Reference",
+  "author": "เซเล่น",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "description": "Seelen UI Library (SLU-LIB) ให้บริการ API Abstractions ที่เป็นมิตรกับนักพัฒนาสำหรับการรวมวิดเจ็ต"
+}

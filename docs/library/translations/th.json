@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "ห้องสมุด Seelen UI",
+    "slu-lib",
+    "การพัฒนาวิดเจ็ต",
+    "SEELEN UI SDK",
+    "ส่วนขยายของ Seelen",
+    "เอกสาร Seelen",
+    "Seelen UI Toolkit",
+    "การสร้างวิดเจ็ต Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "ภาพรวมห้องสมุด Seelen UI",
+  "author": "เซเล่น",
+  "description": "ชุดเครื่องมือพัฒนาอย่างเป็นทางการสำหรับการสร้างวิดเจ็ตและส่วนขยายสำหรับ SEELEN UI (SLU-LIB)",
+  "lastRevisionAt": "2025-06-06",
+  "publishedAt": "2025-06-06"
+}

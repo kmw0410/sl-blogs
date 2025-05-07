@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen API dotslari",
+    "Seelen UI API ma'lumotnomasi",
+    "vidjetni rivojlantirish API",
+    "Seelen UI integratsiyasi",
+    "slu-lib API qo'llanmasi",
+    "Sdk Sdk Sdk",
+    "Seelen UI kutubxonasi",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "description": "Seelen UI kutubxonasi (Slu-Lib) vidjet integratsiyasini uchun tayyorlovchi apial sur'atlar beradi",
+  "lastRevisionAt": "2025-06-06",
+  "title": "Seelen UI kutubxonasi: API ma'lumotnomasi"
+}

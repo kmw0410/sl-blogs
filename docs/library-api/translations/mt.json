@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen API Docs",
+    "Seelen UI API Referenza",
+    "API għall-Iżvilupp tal-Widget",
+    "Integrazzjoni Seelen UI",
+    "Gwida API SLU-Lib",
+    "Seelen Widget SDK",
+    "Librerija Seelen UI",
+    "SLU-Lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "description": "Seelen UI Library (SLU-Lib) tipprovdi astrazzjonijiet tal-API favur l-iżviluppatur għall-integrazzjoni tal-widget",
+  "title": "Librerija Seelen UI: Referenza tal-API"
+}

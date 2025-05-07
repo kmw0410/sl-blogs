@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seelen documenten",
+    "seelen ui documentatie",
+    "hoe widgets toevoegen aan seelen ui",
+    "hoe maak je plugins voor seelen ui",
+    "seelen instructies",
+    "seelen uitbreidingen creatie",
+    "seelen ui bibliotheek",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI-bibliotheek: Types en interfaces",
+  "description": "Seelen UI-bibliotheek (slu-lib), is een bibliotheek die types en interfaces blootlegt die door widgets kunnen worden gebruikt.",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

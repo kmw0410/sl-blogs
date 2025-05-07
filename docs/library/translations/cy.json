@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Llyfrgell Seelen UI",
+    "lib",
+    "Datblygu teclyn",
+    "Seelen UI SDK",
+    "Estyniadau Seelen",
+    "Seelen Docs",
+    "Pecyn Cymorth Seelen UI",
+    "Creu teclyn Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "description": "Pecyn Cymorth Datblygu Swyddogol ar gyfer Creu Widgets ac Estyniadau ar gyfer Seelen UI (SLU-Lib)",
+  "title": "Trosolwg Llyfrgell UI Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

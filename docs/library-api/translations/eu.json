@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen API dokumentuak",
+    "Seelen UI API erreferentzia",
+    "Widget garapenerako APIa",
+    "Seelen UI integrazioa",
+    "Slu-Lib API Gida",
+    "SELEN WIDGET SDK",
+    "Seelen UI Liburutegia",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Sekelo",
+  "publishedAt": "2025-06-06",
+  "title": "Seelen UI Liburutegia: API erreferentzia",
+  "description": "Seelen UI Liburutegiak (SLU-LIB) garatzaileentzako API abstrakzioak eskaintzen ditu widget integraziorako",
+  "lastRevisionAt": "2025-06-06"
+}

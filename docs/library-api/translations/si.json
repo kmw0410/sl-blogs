@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "සීලන් ඒපීඅයි ඩොක්ස්",
+    "සීලන් යූ API යොමුව",
+    "විජට් සංවර්ධන API",
+    "සීලන් යූ ඒකාබද්ධ කිරීම",
+    "SLU-LIB API මාර්ගෝපදේශය",
+    "සීලන් විජට් එස්ඩීකේ",
+    "සීලන් යූ පුස්තකාලය",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "සීලන්",
+  "title": "සීලන් යූ පුස්තකාලය: API යොමු කිරීම",
+  "description": "සීලෙලීය UI පුස්තකාලය (SLU-LIB) විජට් ඒකාබද්ධ කිරීම සඳහා සංවර්ධක-හිතකාමී API වියුක්ත කිරීම් සපයයි",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

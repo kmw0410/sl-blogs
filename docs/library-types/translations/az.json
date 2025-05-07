@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "SEELEN sənədləri",
+    "SEELEN UI sənədləri",
+    "Seelen UI-yə widgetları necə əlavə etmək olar",
+    "Seelen UI üçün plugin necə yaradın",
+    "SEELEN təlimatları",
+    "Seelen genişləndirmələri yaradılması",
+    "Seelen Ui Kitabxanası",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "description": "Seelen Ui Kitabxanası (Slu-lib), vidjetlər tərəfindən istifadə ediləcək növ və interfeysləri ifşa edən bir kitabxana",
+  "title": "SEELEN UI Kitabxanası: növləri və interfeyslər",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

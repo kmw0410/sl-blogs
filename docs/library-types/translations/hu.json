@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen dokuk",
+    "seelen ui dokumentáció",
+    "hogyan lehet widgeteket hozzáadni a seelen ui-hoz",
+    "hogyan hozzon létre pluginokat a seelen ui számára",
+    "Seelen utasítások",
+    "seelen bővítések létrehozása",
+    "seelen ui könyvtár",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Library: Típusok és interfészek",
+  "description": "Seelen UI könyvtár (slu-lib), egy olyan könyvtár, amely típusokat és interfészeket tesz közzé, amelyeket a widgetek használhatnak.",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

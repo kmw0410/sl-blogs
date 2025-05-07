@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen Docs",
+    "seelen ui баримт бичиг",
+    "Selen ui-д виджет хэрхэн нэмэх вэ",
+    "seelen ui-д хэрхэн өргөтгөл үүсгэдэг",
+    "seelen заавар",
+    "Seelen тэлэлт бүтээл бүтээл",
+    "seelen ui номын сан",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen ui номын сан: төрөл, интерфейс",
+  "author": "Сахин суу",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "description": "Seelen ui номын сан (SLU-LIB) бол виджет, интерфэйсийг илчилдэг номын сан юм"
+}

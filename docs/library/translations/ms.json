@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Perpustakaan Seelen UI",
+    "slu-lib",
+    "Pembangunan widget",
+    "seelen ui sdk",
+    "Sambungan Seelen",
+    "Dokumen Seelen",
+    "Seelen UI Toolkit",
+    "Penciptaan widget Seelen"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Tinjauan Perpustakaan Seelen UI",
+  "description": "Toolkit Pembangunan Rasmi untuk membuat widget dan sambungan untuk Seelen UI (SLU-LIB)",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

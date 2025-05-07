@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen docs",
+    "seelen ui dokumentaatio",
+    "miten lisätä widgetit seelen ui:hen",
+    "miten luoda plugins for seelen ui",
+    "Seelen ohjeet",
+    "seelen laajennukset luominen",
+    "seelen ui-kirjasto",
+    "slu-lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "Seelen UI Library: Tyypit ja rajapinnat",
+  "description": "Seelen UI-kirjasto (slu-lib), on kirjasto, joka paljastaa tyypit ja rajapinnat widgettien käyttöön.",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen UI biblioteka",
+    "Slu-lib",
+    "Razvoj widgeta",
+    "Seelen ui SDK",
+    "Seelen proširenja",
+    "Seelen dokumenti",
+    "Seelen ui Toolkit",
+    "Stvaranje widgeta za seel"
+  ],
+  "title": "Pregled biblioteke Seelen UI",
+  "$schema": "https://raw.githubusurcontent.com/seelen-cc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "description": "Službeni razvojni alat za stvaranje widgeta i proširenja za SEELEN UI (Slu-lib)",
+  "author": "Seelen",
+  "lastRevisionAt": "2025-06-06",
+  "publishedAt": "2025-06-06"
+}

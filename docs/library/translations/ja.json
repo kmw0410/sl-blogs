@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "シーレンUIライブラリ",
+    "スルリブ",
+    "ウィジェット開発",
+    "seelen ui sdk",
+    "シーレンエクステンション",
+    "シーレン・ドックス",
+    "シーレンUIツールキット",
+    "シーレンウィジェット作成"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "title": "シーレンUIライブラリの概要",
+  "description": "Seelen UI用のウィジェットや拡張機能を作成するための公式開発ツールキット (slu-lib)",
+  "author": "シーレン",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

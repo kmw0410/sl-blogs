@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "ຫໍສະຫມຸດ SEELEN UI",
+    "slu-lib",
+    "ການພັດທະນາ Widget",
+    "SEDELEN UI SDK",
+    "ການຂະຫຍາຍ Seenel",
+    "SEVELEN DOCS",
+    "ເຄື່ອງໃຊ້ SEELEN UI ToolKit",
+    "ການສ້າງຕົວຢ່າງທີ່ເບິ່ງເຫັນ"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "ຊ່າງຕັດ",
+  "title": "ພາບລວມຂອງ SEELEN UI",
+  "description": "ປື້ມຄູ່ມືການພັດທະນາຢ່າງເປັນທາງການສໍາລັບການສ້າງ widget ແລະການຂະຫຍາຍສໍາລັບ Selen Ui (SLU-LIB)",
+  "lastRevisionAt": "2025-06-06",
+  "publishedAt": "2025-06-06"
+}

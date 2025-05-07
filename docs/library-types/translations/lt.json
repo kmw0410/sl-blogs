@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "seeleno dokumentai",
+    "\"seelen ui\" dokumentacija",
+    "kaip pridėti valdiklius į seelen ui",
+    "kaip sukurti \"seelen ui\" įskiepius",
+    "seeleno instrukcijos",
+    "seeleno plėtinių kūrimas",
+    "seelen ui biblioteka",
+    "slu-lib"
+  ],
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "title": "Seelen vartotojo sąsajos biblioteka: Tipai ir sąsajos",
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "description": "\"Seelen\" vartotojo sąsajos biblioteka (slu-lib) - tai biblioteka, kurioje pateikiami tipai ir sąsajos, naudojami valdikliuose."
+}

@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Tài liệu API Seelen",
+    "Tham khảo API SEELEN UI",
+    "API phát triển widget",
+    "SEELEN UI Tích hợp",
+    "Hướng dẫn API SLU-LIB",
+    "SDK tiện ích Seelen",
+    "Thư viện UI Seelen",
+    "SLU-LIB"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "description": "Thư viện UI SEELEN (SLU-LIB) cung cấp các bản tóm tắt API thân thiện với nhà phát triển để tích hợp tiện ích",
+  "author": "Seelen",
+  "title": "Thư viện UI Seelen: Tham khảo API",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06"
+}

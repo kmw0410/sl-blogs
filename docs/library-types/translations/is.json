@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Seelen skjöl",
+    "Seelen UI skjöl",
+    "Hvernig á að bæta búnaði við Seelen HÍ",
+    "Hvernig búa til viðbætur fyrir Seelen HÍ",
+    "Seelen leiðbeiningar",
+    "Sköpun Seelen Stækkunar",
+    "Seelen UI bókasafn",
+    "Slu-Lib"
+  ],
+  "$schema": "https://raw.githubusercontent.com/Seelen-Inc/sl-blogs/refs/heads/master/metadata.schema.json",
+  "author": "Seelen",
+  "publishedAt": "2025-06-06",
+  "lastRevisionAt": "2025-06-06",
+  "description": "Seelen UI bókasafn (SLU-Lib), er bókasafn sem afhjúpar gerðir og tengi sem nota á búnað",
+  "title": "Seelen UI bókasafn: Tegundir og tengi"
+}

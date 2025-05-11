@@ -2,11 +2,12 @@
 
 ## Überblick
 
-Die Seelen UI -Bibliothek ist das offizielle Entwicklungs -Toolkit zum Erstellen von Widgets und Erweiterungen für Seelen UI. Es bietet:
+Die Seelen UI -Bibliothek ist das offizielle Entwicklungs -Toolkit zum Erstellen
+von Widgets und Erweiterungen für Seelen UI. Es bietet:
 
-* Typdefinitionen für eine konsistente Entwicklung
-* API -Abstraktionen für die nahtlose Integration
-* Standardisierte Schnittstellen für die Interoperabilität von Widget
+- Typdefinitionen für eine konsistente Entwicklung
+- API -Abstraktionen für die nahtlose Integration
+- Standardisierte Schnittstellen für die Interoperabilität von Widget
 
 ## Kernkomponenten
 
@@ -22,4 +23,5 @@ Die Seelen UI -Bibliothek ist das offizielle Entwicklungs -Toolkit zum Erstellen
 npm install @seelen-ui/lib
 ```
 
-**Notiz**: Eine detaillierte Dokumentation ist in den speziellen Abschnitten für verfügbar [Typen](./library-types) Und [API](./library-api).
+**Notiz**: Eine detaillierte Dokumentation ist in den speziellen Abschnitten für
+verfügbar [Typen](./library-types) Und [API](./library-api).

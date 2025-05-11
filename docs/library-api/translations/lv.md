@@ -1,16 +1,15 @@
 # **SLU bibliotēka: API atsauce**
 
-API modulis nodrošina konkrētas ieviešanas un lietderības klases 
-Kopsavilkums Neapstrādāta lietojumprogrammu API, kas kalpo kā izstrādātājam draudzīga fasāde 
+API modulis nodrošina konkrētas ieviešanas un lietderības klases Kopsavilkums
+Neapstrādāta lietojumprogrammu API, kas kalpo kā izstrādātājam draudzīga fasāde
 logrīka integrācija.
 
 ## **Mērķis**
 
-* Ievieš saskarnes no `/types` ar gatavām nodarbībām
-* Abstracts zema līmeņa API sarežģītība
-* Nodrošina lietderības metodes kopīgām operācijām
-* Kalpo kā primārais mijiedarbības slānis starp logrīkiem un SLU 
-  pieteikums
+- Ievieš saskarnes no `/types` ar gatavām nodarbībām
+- Abstracts zema līmeņa API sarežģītība
+- Nodrošina lietderības metodes kopīgām operācijām
+- Kalpo kā primārais mijiedarbības slānis starp logrīkiem un SLU pieteikums
 
 ## **Lietošana**
 
@@ -28,9 +27,8 @@ await widgetApi.doSomething();
 
 ## **Svarīgas piezīmes:**
 
-1. Šī API bibliotēka darbojas tikai tad, kad darbojas Seelen UI logrīka izpildē 
+1. Šī API bibliotēka darbojas tikai tad, kad darbojas Seelen UI logrīka izpildē
    vide
-2. Mēģinājums to izmantot Node.js vai standarta pārlūka kontekstā 
-   kļūdas
-3. Logrīki, kas izmanto šo API, ir jāatjaunina, lai pareizi darbotos 
+2. Mēģinājums to izmantot Node.js vai standarta pārlūka kontekstā kļūdas
+3. Logrīki, kas izmanto šo API, ir jāatjaunina, lai pareizi darbotos
    PAPILDINĀJUMS SEELEN UI

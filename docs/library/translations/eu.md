@@ -2,11 +2,12 @@
 
 ## Ikuspuntu orokor
 
-Seelen UI Liburutegia Seelen UIren widgetak eta luzapenak sortzeko garapen tresna ofiziala da. Honako hau ematen du:
+Seelen UI Liburutegia Seelen UIren widgetak eta luzapenak sortzeko garapen
+tresna ofiziala da. Honako hau ematen du:
 
-* Idatzi garapen koherentea
-* APIaren abstrakzioak integraziorik gabeko integraziorako
-* Widget Elkarreragingarritasunerako interfaze normalizatuak
+- Idatzi garapen koherentea
+- APIaren abstrakzioak integraziorik gabeko integraziorako
+- Widget Elkarreragingarritasunerako interfaze normalizatuak
 
 ## Osagai nagusiak
 
@@ -22,4 +23,5 @@ Seelen UI Liburutegia Seelen UIren widgetak eta luzapenak sortzeko garapen tresn
 npm install @seelen-ui/lib
 ```
 
-**Nota**: Dokumentazio zehatza eskuragarri dago dedikatutako ataletan [Mota motak](./library-types) eta [Api](./library-api).
+**Nota**: Dokumentazio zehatza eskuragarri dago dedikatutako ataletan
+[Mota motak](./library-types) eta [Api](./library-api).

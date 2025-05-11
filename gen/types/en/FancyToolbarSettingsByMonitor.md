@@ -1,3 +1,5 @@
 # **FancyToolbarSettingsByMonitor**
+
 ## **Properties**:
+
 ### enabled: `boolean`

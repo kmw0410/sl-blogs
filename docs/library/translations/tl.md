@@ -2,11 +2,12 @@
 
 ## Pangkalahatang -ideya
 
-Ang Seelen UI Library ay ang opisyal na toolkit ng pag -unlad para sa paglikha ng mga widget at extension para sa Seelen UI. Nagbibigay ito:
+Ang Seelen UI Library ay ang opisyal na toolkit ng pag -unlad para sa paglikha
+ng mga widget at extension para sa Seelen UI. Nagbibigay ito:
 
-* Uri ng mga kahulugan para sa pare -pareho ang pag -unlad
-* Ang mga abstraction ng API para sa walang tahi na pagsasama
-* Mga standardized na interface para sa interoperability ng widget
+- Uri ng mga kahulugan para sa pare -pareho ang pag -unlad
+- Ang mga abstraction ng API para sa walang tahi na pagsasama
+- Mga standardized na interface para sa interoperability ng widget
 
 ## Mga pangunahing sangkap
 
@@ -22,4 +23,5 @@ Ang Seelen UI Library ay ang opisyal na toolkit ng pag -unlad para sa paglikha n
 npm install @seelen-ui/lib
 ```
 
-**Tandaan**: Ang detalyadong dokumentasyon ay magagamit sa mga dedikadong seksyon para sa [Mga uri](./library-types) at [API](./library-api).
+**Tandaan**: Ang detalyadong dokumentasyon ay magagamit sa mga dedikadong
+seksyon para sa [Mga uri](./library-types) at [API](./library-api).

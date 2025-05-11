@@ -2,11 +2,12 @@
 
 ## Têgihiştinî
 
-Pirtûkxaneya Seelen UI ji bo afirandina widgets û dirêjkirinê ji bo Seelen Ui amûrên pêşveçûnê yên fermî ye. Ew peyda dike:
+Pirtûkxaneya Seelen UI ji bo afirandina widgets û dirêjkirinê ji bo Seelen Ui
+amûrên pêşveçûnê yên fermî ye. Ew peyda dike:
 
-* Definitions ji bo pêşkeftina domdar
-* API Abstractions ji bo entegrasyona bêserûber
-* Navberên standardkirî ji bo navbeynkariya widget
+- Definitions ji bo pêşkeftina domdar
+- API Abstractions ji bo entegrasyona bêserûber
+- Navberên standardkirî ji bo navbeynkariya widget
 
 ## Parçeyên bingehîn
 
@@ -22,4 +23,5 @@ Pirtûkxaneya Seelen UI ji bo afirandina widgets û dirêjkirinê ji bo Seelen U
 npm install @seelen-ui/lib
 ```
 
-**Not**: Belgeyên berbiçav li beşên diyarkirî ji bo [Celeb](./library-types) û [Api](./library-api).
+**Not**: Belgeyên berbiçav li beşên diyarkirî ji bo [Celeb](./library-types) û
+[Api](./library-api).

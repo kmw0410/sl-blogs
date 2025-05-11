@@ -1,2 +1,3 @@
 # **WorkspaceToolbarItemMode**
+
 `"dotted"` | `"named"` | `"numbered"`

@@ -1,3 +1,5 @@
 # **SeelenCommandSendKeysArgs**
+
 ## **Properties**:
+
 ### keys: `string`

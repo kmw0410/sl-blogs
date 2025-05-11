@@ -1,18 +1,17 @@
 # **BluetoothWearableMinor**
+
 6 bits
 
 `"Wristwatch"`
 
-|  `"Pager"`
+| `"Pager"`
 
-|  `"Jacket"`
+| `"Jacket"`
 
-|  `"Helmet"`
+| `"Helmet"`
 
-|  `"Glasses"`
+| `"Glasses"`
 
-|  `"Pin"`
+| `"Pin"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

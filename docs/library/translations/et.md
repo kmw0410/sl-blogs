@@ -2,11 +2,12 @@
 
 ## Ülevaade
 
-Seeleni kasutajaliidese teek on ametlik arendusriistakomplekt vidinate ja laienduste loomiseks Seeleni kasutajaliidese jaoks. See pakub:
+Seeleni kasutajaliidese teek on ametlik arendusriistakomplekt vidinate ja
+laienduste loomiseks Seeleni kasutajaliidese jaoks. See pakub:
 
-* Tüüpi määratlused järjepideva arengu jaoks
-* API abstraktsioonid sujuva integratsiooni jaoks
-* Vidina koostalitlusvõime standardiseeritud liidesed
+- Tüüpi määratlused järjepideva arengu jaoks
+- API abstraktsioonid sujuva integratsiooni jaoks
+- Vidina koostalitlusvõime standardiseeritud liidesed
 
 ## Põhikomponendid
 
@@ -22,4 +23,5 @@ Seeleni kasutajaliidese teek on ametlik arendusriistakomplekt vidinate ja laiend
 npm install @seelen-ui/lib
 ```
 
-**Märk**: Üksikasjalik dokumentatsioon on saadaval spetsiaalsetes sektsioonides [Tüübid](./library-types) ja [API](./library-api).
+**Märk**: Üksikasjalik dokumentatsioon on saadaval spetsiaalsetes sektsioonides
+[Tüübid](./library-types) ja [API](./library-api).

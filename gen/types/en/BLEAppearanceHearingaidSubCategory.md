@@ -1,4 +1,4 @@
 # **BLEAppearanceHearingaidSubCategory**
+
 `"Inearhearingaid"` | `"Behindearhearingaid"` | `"CochlearImplant"` | {
-  Reserved: `number`
-}
+Reserved: `number` }

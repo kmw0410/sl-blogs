@@ -1,24 +1,25 @@
 # **BluetoothMajorClass**
+
 5 bits
 
 `"Miscellaneous"`
 
-|  `"Computer"`
+| `"Computer"`
 
-|  `"Phone"`
+| `"Phone"`
 
-|  `"NetworkAccessPoint"`
+| `"NetworkAccessPoint"`
 
-|  `"AudioVideo"`
+| `"AudioVideo"`
 
-|  `"Peripheral"`
+| `"Peripheral"`
 
-|  `"Imaging"`
+| `"Imaging"`
 
-|  `"Wearable"`
+| `"Wearable"`
 
-|  `"Toy"`
+| `"Toy"`
 
-|  `"Health"`
+| `"Health"`
 
-|  `"Uncategorized"`
+| `"Uncategorized"`

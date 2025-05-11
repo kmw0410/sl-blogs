@@ -1,22 +1,21 @@
 # **BLEAppearancePowerDeviceSubCategory**
+
 `"PowerOutlet"`
 
-|  `"PowerStrip"`
+| `"PowerStrip"`
 
-|  `"Plug"`
+| `"Plug"`
 
-|  `"PowerSupply"`
+| `"PowerSupply"`
 
-|  `"LEDDriver"`
+| `"LEDDriver"`
 
-|  `"FluorescentLampGear"`
+| `"FluorescentLampGear"`
 
-|  `"HIDLampGear"`
+| `"HIDLampGear"`
 
-|  `"ChargeCase"`
+| `"ChargeCase"`
 
-|  `"PowerBank"`
+| `"PowerBank"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

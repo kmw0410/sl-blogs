@@ -1,12 +1,13 @@
 # **ResourceKind**
+
 `"Theme"`
 
-|  `"IconPack"`
+| `"IconPack"`
 
-|  `"Widget"`
+| `"Widget"`
 
-|  `"Plugin"`
+| `"Plugin"`
 
-|  `"Wallpaper"`
+| `"Wallpaper"`
 
-|  `"SoundPack"`
+| `"SoundPack"`

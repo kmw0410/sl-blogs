@@ -2,11 +2,12 @@
 
 ## Xülasə
 
-Seelen UI Kitabxanası, Seelen UI üçün vidjetlər və uzantılar yaratmaq üçün rəsmi inkişaf alətləridir. Bu, təmin edir:
+Seelen UI Kitabxanası, Seelen UI üçün vidjetlər və uzantılar yaratmaq üçün rəsmi
+inkişaf alətləridir. Bu, təmin edir:
 
-* Ardıcıl inkişaf üçün təriflər yazın
-* Səssiz inteqrasiya üçün API abstraksiyaları
-* Widget qarşılıqlı olması üçün standart interfeyslər
+- Ardıcıl inkişaf üçün təriflər yazın
+- Səssiz inteqrasiya üçün API abstraksiyaları
+- Widget qarşılıqlı olması üçün standart interfeyslər
 
 ## Əsas komponentlər
 
@@ -22,4 +23,5 @@ Seelen UI Kitabxanası, Seelen UI üçün vidjetlər və uzantılar yaratmaq ü�
 npm install @seelen-ui/lib
 ```
 
-**Qeyd etmək**: Ətraflı sənədlər üçün xüsusi bölmələrdə mövcuddur [Növ](./library-types) və [Titrəmək](./library-api).
+**Qeyd etmək**: Ətraflı sənədlər üçün xüsusi bölmələrdə mövcuddur
+[Növ](./library-types) və [Titrəmək](./library-api).

@@ -1,6 +1,3 @@
 # **ToastSubGroupEntry**
-{
-  text: [`ToastText`](./ToastText)
-} | {
-  image: [`ToastImage`](./ToastImage)
-}
+
+{ text: [`ToastText`](./ToastText) } | { image: [`ToastImage`](./ToastImage) }

@@ -1,3 +1,5 @@
 # **SeelenCommandWegKillAppArgs**
+
 ## **Properties**:
+
 ### hwnd: `number`

@@ -1,4 +1,3 @@
 # **BLEAppearanceNetworkDeviceSubCategory**
-`"AccessPoint"` | `"MeshDevice"` | `"MeshNetworkProxy"` | {
-  Reserved: `number`
-}
+
+`"AccessPoint"` | `"MeshDevice"` | `"MeshNetworkProxy"` | { Reserved: `number` }

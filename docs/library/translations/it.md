@@ -2,11 +2,13 @@
 
 ## Panoramica
 
-La biblioteca dell'interfaccia utente Seelen è il toolkit di sviluppo ufficiale per la creazione di widget ed estensioni per l'interfaccia utente di Seelen. Fornisce:
+La biblioteca dell'interfaccia utente Seelen è il toolkit di sviluppo ufficiale
+per la creazione di widget ed estensioni per l'interfaccia utente di Seelen.
+Fornisce:
 
-* Tipo definizioni per uno sviluppo coerente
-* Astrazioni API per integrazione senza soluzione di continuità
-* Interfacce standardizzate per l'interoperabilità del widget
+- Tipo definizioni per uno sviluppo coerente
+- Astrazioni API per integrazione senza soluzione di continuità
+- Interfacce standardizzate per l'interoperabilità del widget
 
 ## Componenti principali
 
@@ -22,4 +24,5 @@ La biblioteca dell'interfaccia utente Seelen è il toolkit di sviluppo ufficiale
 npm install @seelen-ui/lib
 ```
 
-**Nota**: Documentazione dettagliata è disponibile nelle sezioni dedicate per [Tipi](./library-types) E [API](./library-api).
+**Nota**: Documentazione dettagliata è disponibile nelle sezioni dedicate per
+[Tipi](./library-types) E [API](./library-api).

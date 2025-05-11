@@ -1,16 +1,15 @@
 # **BLEAppearanceIndustrialMeasurementDeviceSubCategory**
+
 `"TorqueTestingDevice"`
 
-|  `"Caliper"`
+| `"Caliper"`
 
-|  `"DialIndicator"`
+| `"DialIndicator"`
 
-|  `"Micrometer"`
+| `"Micrometer"`
 
-|  `"HeightGauge"`
+| `"HeightGauge"`
 
-|  `"ForceGauge"`
+| `"ForceGauge"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

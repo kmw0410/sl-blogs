@@ -1,34 +1,33 @@
 # **BLEAppearanceComputerSubCategory**
+
 `"DesktopWorkstation"`
 
-|  `"ServerclassComputer"`
+| `"ServerclassComputer"`
 
-|  `"Laptop"`
+| `"Laptop"`
 
-|  `"HandheldPCPDAclamshell"`
+| `"HandheldPCPDAclamshell"`
 
-|  `"PalmsizePCPDA"`
+| `"PalmsizePCPDA"`
 
-|  `"Wearablecomputerwatchsize"`
+| `"Wearablecomputerwatchsize"`
 
-|  `"Tablet"`
+| `"Tablet"`
 
-|  `"DockingStation"`
+| `"DockingStation"`
 
-|  `"AllinOne"`
+| `"AllinOne"`
 
-|  `"BladeServer"`
+| `"BladeServer"`
 
-|  `"Convertible"`
+| `"Convertible"`
 
-|  `"Detachable"`
+| `"Detachable"`
 
-|  `"IoTGateway"`
+| `"IoTGateway"`
 
-|  `"MiniPC"`
+| `"MiniPC"`
 
-|  `"StickPC"`
+| `"StickPC"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

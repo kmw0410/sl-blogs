@@ -2,11 +2,12 @@
 
 ## Umumiy nuqtai nazar
 
-Seelen UI kutubxonasi - bu Seelen UI uchun vidjetlar va kengaytmalarni yaratish uchun rasmiy rivojlanish vositalaridir. U quyidagilarni ta'minlaydi:
+Seelen UI kutubxonasi - bu Seelen UI uchun vidjetlar va kengaytmalarni yaratish
+uchun rasmiy rivojlanish vositalaridir. U quyidagilarni ta'minlaydi:
 
-* Ichki rivojlanish uchun tur ta'riflari
-* APIning uzluksiz integratsiya uchun abstraktsiyalar
-* Vidjet Interfactione Interfacts Interment
+- Ichki rivojlanish uchun tur ta'riflari
+- APIning uzluksiz integratsiya uchun abstraktsiyalar
+- Vidjet Interfactione Interfacts Interment
 
 ## Yadro komponentlari
 
@@ -22,4 +23,5 @@ Seelen UI kutubxonasi - bu Seelen UI uchun vidjetlar va kengaytmalarni yaratish 
 npm install @seelen-ui/lib
 ```
 
-**Eslatma**: Batafsil hujjatlar ajratilgan bo'limlarda mavjud [Turlari](./library-types) va [Api](./library-api).
+**Eslatma**: Batafsil hujjatlar ajratilgan bo'limlarda mavjud
+[Turlari](./library-types) va [Api](./library-api).

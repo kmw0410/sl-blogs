@@ -1,26 +1,25 @@
 # **BluetoothPeripheralSubMinor**
+
 4 bits
 
 `"Uncategorized"`
 
-|  `"Joystick"`
+| `"Joystick"`
 
-|  `"Gamepad"`
+| `"Gamepad"`
 
-|  `"RemoteControl"`
+| `"RemoteControl"`
 
-|  `"Sensor"`
+| `"Sensor"`
 
-|  `"DigitizerTablet"`
+| `"DigitizerTablet"`
 
-|  `"CardReader"`
+| `"CardReader"`
 
-|  `"DigitalPen"`
+| `"DigitalPen"`
 
-|  `"HandheldScanner"`
+| `"HandheldScanner"`
 
-|  `"HandheldGestural"`
+| `"HandheldGestural"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

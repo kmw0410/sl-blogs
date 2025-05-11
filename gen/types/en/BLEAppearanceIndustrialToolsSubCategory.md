@@ -1,22 +1,21 @@
 # **BLEAppearanceIndustrialToolsSubCategory**
+
 `"MachineToolHolder"`
 
-|  `"GenericClampingDevice"`
+| `"GenericClampingDevice"`
 
-|  `"ClampingJawsJawChuck"`
+| `"ClampingJawsJawChuck"`
 
-|  `"ClampingColletChuck"`
+| `"ClampingColletChuck"`
 
-|  `"ClampingMandrel"`
+| `"ClampingMandrel"`
 
-|  `"Vise"`
+| `"Vise"`
 
-|  `"ZeroPointClampingSystem"`
+| `"ZeroPointClampingSystem"`
 
-|  `"TorqueWrench"`
+| `"TorqueWrench"`
 
-|  `"TorqueScrewdriver"`
+| `"TorqueScrewdriver"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

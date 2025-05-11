@@ -1,3 +1,5 @@
 # **BLEAppearanceHumidifierSubCategory**
+
 ## **Properties**:
+
 ### Reserved: `number`

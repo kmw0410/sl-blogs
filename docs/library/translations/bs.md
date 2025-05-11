@@ -2,11 +2,12 @@
 
 ## Pregled
 
-Biblioteka Seelen UI je službeni razvojni alat za stvaranje widgeta i proširenja za SEELEN UI. Pruža:
+Biblioteka Seelen UI je službeni razvojni alat za stvaranje widgeta i proširenja
+za SEELEN UI. Pruža:
 
-* Definicije tipa za dosljedan razvoj
-* API apstrakcije za bešavnu integraciju
-* Standardizirana sučelja za interoperabilnost widgeta
+- Definicije tipa za dosljedan razvoj
+- API apstrakcije za bešavnu integraciju
+- Standardizirana sučelja za interoperabilnost widgeta
 
 ## Komponente jezgre
 
@@ -22,4 +23,5 @@ Biblioteka Seelen UI je službeni razvojni alat za stvaranje widgeta i proširen
 npm install @seelen-ui/lib
 ```
 
-**Zabilježiti**: Detaljna dokumentacija dostupna je u namjenskim odjeljcima za [Tipovi](./library-types) i [API](./library-api).
+**Zabilježiti**: Detaljna dokumentacija dostupna je u namjenskim odjeljcima za
+[Tipovi](./library-types) i [API](./library-api).

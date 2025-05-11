@@ -1,4 +1,3 @@
 # **BLEAppearanceSignageSubCategory**
-`"DigitalSignage"` | `"ElectronicLabel"` | {
-  Reserved: `number`
-}
+
+`"DigitalSignage"` | `"ElectronicLabel"` | { Reserved: `number` }

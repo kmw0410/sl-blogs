@@ -1,2 +1,3 @@
 # **NodeSubtype**
+
 `"Temporal"` | `"Permanent"`

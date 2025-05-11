@@ -2,11 +2,12 @@
 
 ## Yfirlit
 
-Seelen UI bókasafn er opinbert þróunarverkfæri til að búa til búnað og viðbætur fyrir Seelen UI. Það veitir:
+Seelen UI bókasafn er opinbert þróunarverkfæri til að búa til búnað og viðbætur
+fyrir Seelen UI. Það veitir:
 
-* Skilgreiningar fyrir stöðuga þróun
-* API ágrip fyrir óaðfinnanlega samþættingu
-* Stöðluð tengi fyrir samvirkni búnaðar
+- Skilgreiningar fyrir stöðuga þróun
+- API ágrip fyrir óaðfinnanlega samþættingu
+- Stöðluð tengi fyrir samvirkni búnaðar
 
 ## Kjarnaþættir
 
@@ -22,4 +23,5 @@ Seelen UI bókasafn er opinbert þróunarverkfæri til að búa til búnað og v
 npm install @seelen-ui/lib
 ```
 
-**Athugið**: Ítarleg skjöl eru aðgengileg í sérstökum hlutum fyrir [Tegundir](./library-types) Og [API](./library-api).
+**Athugið**: Ítarleg skjöl eru aðgengileg í sérstökum hlutum fyrir
+[Tegundir](./library-types) Og [API](./library-api).

@@ -2,11 +2,12 @@
 
 ## Nhrosolwg
 
-Llyfrgell Seelen UI yw'r pecyn cymorth datblygu swyddogol ar gyfer creu teclynnau ac estyniadau ar gyfer Seelen UI. Mae'n darparu:
+Llyfrgell Seelen UI yw'r pecyn cymorth datblygu swyddogol ar gyfer creu
+teclynnau ac estyniadau ar gyfer Seelen UI. Mae'n darparu:
 
-* Math o ddiffiniadau ar gyfer datblygiad cyson
-* Tyniadau API ar gyfer integreiddio di -dor
-* Rhyngwynebau safonol ar gyfer rhyngweithredu teclyn
+- Math o ddiffiniadau ar gyfer datblygiad cyson
+- Tyniadau API ar gyfer integreiddio di -dor
+- Rhyngwynebau safonol ar gyfer rhyngweithredu teclyn
 
 ## Cydrannau craidd
 
@@ -22,4 +23,5 @@ Llyfrgell Seelen UI yw'r pecyn cymorth datblygu swyddogol ar gyfer creu teclynna
 npm install @seelen-ui/lib
 ```
 
-**Chofnodes**: Mae dogfennaeth fanwl ar gael yn yr adrannau pwrpasol ar gyfer [Mathau](./library-types) a [API](./library-api).
+**Chofnodes**: Mae dogfennaeth fanwl ar gael yn yr adrannau pwrpasol ar gyfer
+[Mathau](./library-types) a [API](./library-api).

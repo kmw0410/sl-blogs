@@ -1,3 +1,5 @@
 # **SeelenCommandOnContextMenuTrayIconArgs**
+
 ## **Properties**:
+
 ### key: `string`

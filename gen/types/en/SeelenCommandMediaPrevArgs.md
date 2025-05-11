@@ -1,3 +1,5 @@
 # **SeelenCommandMediaPrevArgs**
+
 ## **Properties**:
+
 ### id: `string`

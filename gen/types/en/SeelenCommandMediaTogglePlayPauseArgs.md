@@ -1,3 +1,5 @@
 # **SeelenCommandMediaTogglePlayPauseArgs**
+
 ## **Properties**:
+
 ### id: `string`

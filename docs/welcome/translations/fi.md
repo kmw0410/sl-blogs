@@ -1,14 +1,16 @@
 # **Seelen -dokumentaatio**
 
 Tervetuloa viralliseen dokumentaatiokeskukseen **Seelen -sovellukset**.\
-Työkalumme on suunniteltu olemaan *erittäin muokattavissa*, *modulaarinen*ja *mukautuva*
-työnkulkuasi.
+Työkalumme on suunniteltu olemaan _erittäin muokattavissa_, *modulaarinen*ja
+_mukautuva_ työnkulkuasi.
 
 ## Yleiskatsaus
 
-* **Loputon muotoilu**: Räätälöidä kaikki yksityiskohdat vastaamaan estetiikkaasi.
-* **Modulaarinen suunnittelu**: Laajenna toiminnallisuus laajennuksilla ja moduuleilla.
-* **Yhteisölähtöinen**: Rakennettu palautteena Power -käyttäjiltä.
+- **Loputon muotoilu**: Räätälöidä kaikki yksityiskohdat vastaamaan
+  estetiikkaasi.
+- **Modulaarinen suunnittelu**: Laajenna toiminnallisuus laajennuksilla ja
+  moduuleilla.
+- **Yhteisölähtöinen**: Rakennettu palautteena Power -käyttäjiltä.
 
 ## **📚 ydinsovellukset**
 
@@ -18,5 +20,5 @@ työnkulkuasi.
 
 ## Tukea
 
-* [Erimielisyys](https://discord.gg/ABfASx5ZAJ) (Tekninen tuki ja yhteisö)
-* [Github](https://github.com/Seelen-Inc) (Koodi ja ongelman seuranta)
+- [Erimielisyys](https://discord.gg/ABfASx5ZAJ) (Tekninen tuki ja yhteisö)
+- [Github](https://github.com/Seelen-Inc) (Koodi ja ongelman seuranta)

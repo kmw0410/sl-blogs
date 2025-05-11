@@ -1,4 +1,3 @@
 # **BLEAppearancePulseOximeterSubCategory**
-`"FingertipPulseOximeter"` | `"WristWornPulseOximeter"` | {
-  Reserved: `number`
-}
+
+`"FingertipPulseOximeter"` | `"WristWornPulseOximeter"` | { Reserved: `number` }

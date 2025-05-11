@@ -2,11 +2,12 @@
 
 ## Genel bakış
 
-Seelen UI Kütüphanesi, Seelen UI için widget ve uzantılar oluşturmak için resmi geliştirme araç setidir. Şunları sağlar:
+Seelen UI Kütüphanesi, Seelen UI için widget ve uzantılar oluşturmak için resmi
+geliştirme araç setidir. Şunları sağlar:
 
-* Tutarlı gelişim için tanımlar yazın
-* Kesintisiz entegrasyon için API soyutlamaları
-* Widget birlikte çalışabilirlik için standartlaştırılmış arayüzler
+- Tutarlı gelişim için tanımlar yazın
+- Kesintisiz entegrasyon için API soyutlamaları
+- Widget birlikte çalışabilirlik için standartlaştırılmış arayüzler
 
 ## Çekirdek bileşenler
 
@@ -22,4 +23,5 @@ Seelen UI Kütüphanesi, Seelen UI için widget ve uzantılar oluşturmak için 
 npm install @seelen-ui/lib
 ```
 
-**Not**: Ayrıntılı belgeler için özel bölümlerde mevcuttur. [Türler](./library-types) Ve [API](./library-api).
+**Not**: Ayrıntılı belgeler için özel bölümlerde mevcuttur.
+[Türler](./library-types) Ve [API](./library-api).

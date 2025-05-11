@@ -2,11 +2,12 @@
 
 ## Pārskats
 
-Seelen UI bibliotēka ir oficiālais izstrādes rīku komplekts logrīku un pagarinājumu izveidošanai Seelen UI. Tas nodrošina:
+Seelen UI bibliotēka ir oficiālais izstrādes rīku komplekts logrīku un
+pagarinājumu izveidošanai Seelen UI. Tas nodrošina:
 
-* Tipa definīcijas konsekventai attīstībai
-* API abstrakcijas bezšuvju integrācijai
-* Standartizētas saskarnes logrīka savietojamībai
+- Tipa definīcijas konsekventai attīstībai
+- API abstrakcijas bezšuvju integrācijai
+- Standartizētas saskarnes logrīka savietojamībai
 
 ## Pamatkomponenti
 
@@ -22,4 +23,5 @@ Seelen UI bibliotēka ir oficiālais izstrādes rīku komplekts logrīku un paga
 npm install @seelen-ui/lib
 ```
 
-**Atzīmēt**: Detalizēta dokumentācija ir pieejama īpašās sadaļās [Veidi](./library-types) un [API](./library-api).
+**Atzīmēt**: Detalizēta dokumentācija ir pieejama īpašās sadaļās
+[Veidi](./library-types) un [API](./library-api).

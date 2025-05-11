@@ -1,3 +1,5 @@
 # **SeelenCommandOpenFileArgs**
+
 ## **Properties**:
+
 ### path: `string`

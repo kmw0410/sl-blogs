@@ -1,22 +1,23 @@
 # **BluetoothMajorServiceClass**
+
 `"LimitedDiscoverableMode"`
 
-|  `"LowEnergyAudio"`
+| `"LowEnergyAudio"`
 
-|  `"Reserved"`
+| `"Reserved"`
 
-|  `"Positioning"`
+| `"Positioning"`
 
-|  `"Networking"`
+| `"Networking"`
 
-|  `"Rendering"`
+| `"Rendering"`
 
-|  `"Capturing"`
+| `"Capturing"`
 
-|  `"ObjectTransfer"`
+| `"ObjectTransfer"`
 
-|  `"Audio"`
+| `"Audio"`
 
-|  `"Telephony"`
+| `"Telephony"`
 
-|  `"Information"`
+| `"Information"`

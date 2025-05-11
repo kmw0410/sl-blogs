@@ -2,11 +2,12 @@
 
 ## Oorsig
 
-Seelen UI Library is die amptelike ontwikkelingsgereedskapstel vir die skep van widgets en uitbreidings vir Seelen UI. Dit bied:
+Seelen UI Library is die amptelike ontwikkelingsgereedskapstel vir die skep van
+widgets en uitbreidings vir Seelen UI. Dit bied:
 
-* Tik definisies vir konsekwente ontwikkeling
-* API -abstraksies vir naatlose integrasie
-* Gestandaardiseerde koppelvlakke vir widget -interoperabiliteit
+- Tik definisies vir konsekwente ontwikkeling
+- API -abstraksies vir naatlose integrasie
+- Gestandaardiseerde koppelvlakke vir widget -interoperabiliteit
 
 ## Kernkomponente
 
@@ -22,4 +23,5 @@ Seelen UI Library is die amptelike ontwikkelingsgereedskapstel vir die skep van 
 npm install @seelen-ui/lib
 ```
 
-**Noot**: Gedetailleerde dokumentasie is beskikbaar in die toegewyde afdelings vir [Tipes](./library-types) en [Api](./library-api).
+**Noot**: Gedetailleerde dokumentasie is beskikbaar in die toegewyde afdelings
+vir [Tipes](./library-types) en [Api](./library-api).

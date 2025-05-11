@@ -1,4 +1,3 @@
 # **BLEAppearanceGamingSubCategory**
-`"HomeVideoGameConsole"` | `"Portablehandheldconsole"` | {
-  Reserved: `number`
-}
+
+`"HomeVideoGameConsole"` | `"Portablehandheldconsole"` | { Reserved: `number` }

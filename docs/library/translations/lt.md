@@ -2,11 +2,12 @@
 
 ## Apžvalga
 
-SEELEN UI biblioteka yra oficialus kūrimo įrankių rinkinys, skirtas kurti valdiklius ir plėtinius SEELEN UI. Tai suteikia:
+SEELEN UI biblioteka yra oficialus kūrimo įrankių rinkinys, skirtas kurti
+valdiklius ir plėtinius SEELEN UI. Tai suteikia:
 
-* Įveskite nuoseklaus vystymosi apibrėžimus
-* API abstrakcijos sklandžiai integracijai
-* Standartizuotos valdiklio sąveikos sąsajos
+- Įveskite nuoseklaus vystymosi apibrėžimus
+- API abstrakcijos sklandžiai integracijai
+- Standartizuotos valdiklio sąveikos sąsajos
 
 ## Pagrindiniai komponentai
 
@@ -22,4 +23,5 @@ SEELEN UI biblioteka yra oficialus kūrimo įrankių rinkinys, skirtas kurti val
 npm install @seelen-ui/lib
 ```
 
-**PASTABA**: Išsamią dokumentaciją galima rasti tam skirtuose skyriuose [Tipai](./library-types) ir [API](./library-api).
+**PASTABA**: Išsamią dokumentaciją galima rasti tam skirtuose skyriuose
+[Tipai](./library-types) ir [API](./library-api).

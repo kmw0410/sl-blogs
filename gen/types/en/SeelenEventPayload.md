@@ -1,180 +1,93 @@
 # **SeelenEventPayload**
-{
-  workspaces-changed: `Array`<[`DesktopWorkspace`](./DesktopWorkspace)>
-}
 
-|  {
-  active-workspace-changed: [`WorkspaceId`](./WorkspaceId)
-}
+{ workspaces-changed: `Array`<[`DesktopWorkspace`](./DesktopWorkspace)> }
 
-|  {
-  global-focus-changed: [`FocusedApp`](./FocusedApp)
-}
+| { active-workspace-changed: [`WorkspaceId`](./WorkspaceId) }
 
-|  {
-  global-mouse-move: [`number`, `number`]
-}
+| { global-focus-changed: [`FocusedApp`](./FocusedApp) }
 
-|  {
-  handle-layered: `boolean`
-}
+| { global-mouse-move: [`number`, `number`] }
 
-|  {
-  system::monitors-changed: `Array`<[`PhysicalMonitor`](./PhysicalMonitor)>
-}
+| { handle-layered: `boolean` }
 
-|  {
-  system::languages-changed: `Array`<[`SystemLanguage`](./SystemLanguage)>
-}
+| { system::monitors-changed: `Array`<[`PhysicalMonitor`](./PhysicalMonitor)> }
 
-|  {
-  user-changed: [`User`](./User)
-}
+| { system::languages-changed: `Array`<[`SystemLanguage`](./SystemLanguage)> }
 
-|  {
-  user-folder-changed: [`FolderChangedArgs`](./FolderChangedArgs)
-}
+| { user-changed: [`User`](./User) }
 
-|  {
-  bluetooth-devices-changed: `Array`<[`BluetoothDevice`](./BluetoothDevice)>
-}
+| { user-folder-changed: [`FolderChangedArgs`](./FolderChangedArgs) }
 
-|  {
-  bluetooth-discovered-devices-changed: `Array`<[`BluetoothDevice`](./BluetoothDevice)>
-}
+| { bluetooth-devices-changed: `Array`<[`BluetoothDevice`](./BluetoothDevice)> }
 
-|  {
-  bluetooth-pair-show-pin: [`BluetoothDevicePairShowPinRequest`](./BluetoothDevicePairShowPinRequest)
-}
+| { bluetooth-discovered-devices-changed:
+`Array`<[`BluetoothDevice`](./BluetoothDevice)> }
 
-|  {
-  bluetooth-pair-request-pin: `null`
-}
+| { bluetooth-pair-show-pin:
+[`BluetoothDevicePairShowPinRequest`](./BluetoothDevicePairShowPinRequest) }
 
-|  {
-  media-sessions: `Array`<[`MediaPlayer`](./MediaPlayer)>
-}
+| { bluetooth-pair-request-pin: `null` }
 
-|  {
-  media-inputs: `Array`<[`MediaDevice`](./MediaDevice)>
-}
+| { media-sessions: `Array`<[`MediaPlayer`](./MediaPlayer)> }
 
-|  {
-  media-outputs: `Array`<[`MediaDevice`](./MediaDevice)>
-}
+| { media-inputs: `Array`<[`MediaDevice`](./MediaDevice)> }
 
-|  {
-  network-default-local-ip: `string`
-}
+| { media-outputs: `Array`<[`MediaDevice`](./MediaDevice)> }
 
-|  {
-  network-adapters: `Array`<[`NetworkAdapter`](./NetworkAdapter)>
-}
+| { network-default-local-ip: `string` }
 
-|  {
-  network-internet-connection: `boolean`
-}
+| { network-adapters: `Array`<[`NetworkAdapter`](./NetworkAdapter)> }
 
-|  {
-  wlan-scanned: `Array`<[`WlanBssEntry`](./WlanBssEntry)>
-}
+| { network-internet-connection: `boolean` }
 
-|  {
-  notifications: `Array`<[`AppNotification`](./AppNotification)>
-}
+| { wlan-scanned: `Array`<[`WlanBssEntry`](./WlanBssEntry)> }
 
-|  {
-  power-status: [`PowerStatus`](./PowerStatus)
-}
+| { notifications: `Array`<[`AppNotification`](./AppNotification)> }
 
-|  {
-  power-mode: [`PowerMode`](./PowerMode)
-}
+| { power-status: [`PowerStatus`](./PowerStatus) }
 
-|  {
-  batteries-status: `Array`<[`Battery`](./Battery)>
-}
+| { power-mode: [`PowerMode`](./PowerMode) }
 
-|  {
-  colors-changed: [`UIColors`](./UIColors)
-}
+| { batteries-status: `Array`<[`Battery`](./Battery)> }
 
-|  {
-  tray-info: `Array`<[`TrayIcon`](./TrayIcon)>
-}
+| { colors-changed: [`UIColors`](./UIColors) }
 
-|  {
-  set-auto-hide: `boolean`
-}
+| { tray-info: `Array`<[`TrayIcon`](./TrayIcon)> }
 
-|  {
-  set-auto-hide: `boolean`
-}
+| { set-auto-hide: `boolean` }
 
-|  {
-  weg::instance-changed: [`WegItems`](./WegItems)
-}
+| { set-auto-hide: `boolean` }
 
-|  {
-  set-reservation: `null`
-}
+| { weg::instance-changed: [`WegItems`](./WegItems) }
 
-|  {
-  wm-force-retiling: `null`
-}
+| { set-reservation: `null` }
 
-|  {
-  wm-set-layout: [`WmNode`](./WmNode) | `null`
-}
+| { wm-force-retiling: `null` }
 
-|  {
-  wm-set-overlay-visibility: `boolean`
-}
+| { wm-set-layout: [`WmNode`](./WmNode) | `null` }
 
-|  {
-  wm-set-active-window: `number`
-}
+| { wm-set-overlay-visibility: `boolean` }
 
-|  {
-  wall-stop: `boolean`
-}
+| { wm-set-active-window: `number` }
 
-|  {
-  settings-changed: [`Settings`](./Settings)
-}
+| { wall-stop: `boolean` }
 
-|  {
-  weg-items: [`WegItems`](./WegItems)
-}
+| { settings-changed: [`Settings`](./Settings) }
 
-|  {
-  toolbar-items: [`Placeholder`](./Placeholder)
-}
+| { weg-items: [`WegItems`](./WegItems) }
 
-|  {
-  themes: `Array`<[`Theme`](./Theme)>
-}
+| { toolbar-items: [`Placeholder`](./Placeholder) }
 
-|  {
-  settings-by-app: `Array`<[`AppConfig`](./AppConfig)>
-}
+| { themes: `Array`<[`Theme`](./Theme)> }
 
-|  {
-  history: [`LauncherHistory`](./LauncherHistory)
-}
+| { settings-by-app: `Array`<[`AppConfig`](./AppConfig)> }
 
-|  {
-  icon-packs: `Array`<[`IconPack`](./IconPack)>
-}
+| { history: [`LauncherHistory`](./LauncherHistory) }
 
-|  {
-  plugins-changed: `Array`<[`Plugin`](./Plugin)>
-}
+| { icon-packs: `Array`<[`IconPack`](./IconPack)> }
 
-|  {
-  widgets-changed: `Array`<[`Widget`](./Widget)>
-}
+| { plugins-changed: `Array`<[`Plugin`](./Plugin)> }
 
-|  {
-  profiles-changed: `Array`<[`Profile`](./Profile)>
-}
+| { widgets-changed: `Array`<[`Widget`](./Widget)> }
+
+| { profiles-changed: `Array`<[`Profile`](./Profile)> }

@@ -1,16 +1,17 @@
 # **FolderType**
+
 `"Unknown"`
 
-|  `"Recent"`
+| `"Recent"`
 
-|  `"Desktop"`
+| `"Desktop"`
 
-|  `"Downloads"`
+| `"Downloads"`
 
-|  `"Documents"`
+| `"Documents"`
 
-|  `"Music"`
+| `"Music"`
 
-|  `"Pictures"`
+| `"Pictures"`
 
-|  `"Videos"`
+| `"Videos"`

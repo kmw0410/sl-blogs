@@ -1,16 +1,14 @@
 # **Perpustakaan SLU: Referensi API**
 
-Modul API menyediakan implementasi konkret dan kelas utilitas itu 
-Abstrak API Aplikasi Raw, berfungsi sebagai fasad yang ramah pengembang 
-integrasi widget.
+Modul API menyediakan implementasi konkret dan kelas utilitas itu Abstrak API
+Aplikasi Raw, berfungsi sebagai fasad yang ramah pengembang integrasi widget.
 
 ## **Tujuan**
 
-* Mengimplementasikan antarmuka dari `/types` dengan kelas siap pakai
-* Abstrak kompleksitas API tingkat rendah
-* Memberikan metode utilitas untuk operasi umum
-* Berfungsi sebagai lapisan interaksi utama antara widget dan SLU 
-  aplikasi
+- Mengimplementasikan antarmuka dari `/types` dengan kelas siap pakai
+- Abstrak kompleksitas API tingkat rendah
+- Memberikan metode utilitas untuk operasi umum
+- Berfungsi sebagai lapisan interaksi utama antara widget dan SLU aplikasi
 
 ## **Penggunaan**
 
@@ -28,9 +26,9 @@ await widgetApi.doSomething();
 
 ## **Catatan Penting:**
 
-1. Perpustakaan API ini hanya berfungsi saat berjalan di dalam eksekusi widget UI Seelen 
-   lingkungan
-2. Mencoba menggunakannya di Node.js atau konteks browser standar akan melempar 
+1. Perpustakaan API ini hanya berfungsi saat berjalan di dalam eksekusi widget
+   UI Seelen lingkungan
+2. Mencoba menggunakannya di Node.js atau konteks browser standar akan melempar
    kesalahan
-3. Widget menggunakan API ini perlu memperbaruinya agar dapat bekerja dengan baik 
-   Versi terakhir dari Seelen UI
+3. Widget menggunakan API ini perlu memperbaruinya agar dapat bekerja dengan
+   baik Versi terakhir dari Seelen UI

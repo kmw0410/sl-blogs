@@ -2,11 +2,12 @@
 
 ## Przegląd
 
-Biblioteka UI Seelen to oficjalny zestaw narzędzi programistycznych do tworzenia widżetów i rozszerzeń dla Seelen UI. Zapewnia:
+Biblioteka UI Seelen to oficjalny zestaw narzędzi programistycznych do tworzenia
+widżetów i rozszerzeń dla Seelen UI. Zapewnia:
 
-* Definicje typu konsekwentnego rozwoju
-* API abstrakcje dla bezproblemowej integracji
-* Standaryzowane interfejsy dla interoperacyjności widżetu
+- Definicje typu konsekwentnego rozwoju
+- API abstrakcje dla bezproblemowej integracji
+- Standaryzowane interfejsy dla interoperacyjności widżetu
 
 ## Komponenty podstawowe
 
@@ -22,4 +23,5 @@ Biblioteka UI Seelen to oficjalny zestaw narzędzi programistycznych do tworzeni
 npm install @seelen-ui/lib
 ```
 
-**Notatka**: Szczegółowa dokumentacja jest dostępna w dedykowanych sekcjach dla [Typy](./library-types) I [API](./library-api).
+**Notatka**: Szczegółowa dokumentacja jest dostępna w dedykowanych sekcjach dla
+[Typy](./library-types) I [API](./library-api).

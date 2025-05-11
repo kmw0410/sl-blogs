@@ -1,3 +1,5 @@
 # **BLEAppearanceDisplaySubCategory**
+
 ## **Properties**:
+
 ### Reserved: `number`

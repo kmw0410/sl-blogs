@@ -2,11 +2,12 @@
 
 ## Oversigt
 
-Seelen UI -bibliotek er det officielle udviklingsværktøjssæt til at oprette widgets og udvidelser til Seelen UI. Det giver:
+Seelen UI -bibliotek er det officielle udviklingsværktøjssæt til at oprette
+widgets og udvidelser til Seelen UI. Det giver:
 
-* Type definitioner til konsekvent udvikling
-* API -abstraktioner til problemfri integration
-* Standardiserede grænseflader til widget -interoperabilitet
+- Type definitioner til konsekvent udvikling
+- API -abstraktioner til problemfri integration
+- Standardiserede grænseflader til widget -interoperabilitet
 
 ## Kernekomponenter
 
@@ -22,4 +23,5 @@ Seelen UI -bibliotek er det officielle udviklingsværktøjssæt til at oprette w
 npm install @seelen-ui/lib
 ```
 
-**Note**: Detaljeret dokumentation er tilgængelig i de dedikerede sektioner til [Typer](./library-types) og [API](./library-api).
+**Note**: Detaljeret dokumentation er tilgængelig i de dedikerede sektioner til
+[Typer](./library-types) og [API](./library-api).

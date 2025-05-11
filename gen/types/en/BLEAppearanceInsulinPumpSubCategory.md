@@ -1,4 +1,4 @@
 # **BLEAppearanceInsulinPumpSubCategory**
+
 `"InsulinPumpdurablepump"` | `"InsulinPumppatchpump"` | `"InsulinPen"` | {
-  Reserved: `number`
-}
+Reserved: `number` }

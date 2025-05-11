@@ -2,11 +2,12 @@
 
 ## Yleiskatsaus
 
-Seelen UI -kirjasto on virallinen kehitystyökalupakki Widgetien ja laajennusten luomiseen Seelen UI: lle. Se tarjoaa:
+Seelen UI -kirjasto on virallinen kehitystyökalupakki Widgetien ja laajennusten
+luomiseen Seelen UI: lle. Se tarjoaa:
 
-* Tyyppimääritelmät johdonmukaiselle kehitykselle
-* API -abstraktiot saumattomalle integraatiolle
-* Standardisoidut rajapinnat widgetin yhteentoimivuudelle
+- Tyyppimääritelmät johdonmukaiselle kehitykselle
+- API -abstraktiot saumattomalle integraatiolle
+- Standardisoidut rajapinnat widgetin yhteentoimivuudelle
 
 ## Ydinkomponentit
 
@@ -22,4 +23,5 @@ Seelen UI -kirjasto on virallinen kehitystyökalupakki Widgetien ja laajennusten
 npm install @seelen-ui/lib
 ```
 
-**Huomautus**: Yksityiskohtainen dokumentaatio on saatavana erillisissä osioissa [Tyypit](./library-types) ja [API](./library-api).
+**Huomautus**: Yksityiskohtainen dokumentaatio on saatavana erillisissä osioissa
+[Tyypit](./library-types) ja [API](./library-api).

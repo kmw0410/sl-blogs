@@ -4,9 +4,9 @@
 
 Seelen UI库是用于为Seelen UI创建小部件和扩展的官方开发工具包。 它提供：
 
-* 类型定义以一致开发
-* 无缝集成的API抽象
-* 小部件互操作性的标准化接口
+- 类型定义以一致开发
+- 无缝集成的API抽象
+- 小部件互操作性的标准化接口
 
 ## 核心组件
 
@@ -22,4 +22,5 @@ Seelen UI库是用于为Seelen UI创建小部件和扩展的官方开发工具�
 npm install @seelen-ui/lib
 ```
 
-**笔记**：详细的文档在专用部分中可用 [类型](./library-types) 和 [API](./library-api).
+**笔记**：详细的文档在专用部分中可用 [类型](./library-types) 和
+[API](./library-api).

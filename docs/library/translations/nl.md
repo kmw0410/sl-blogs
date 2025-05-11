@@ -2,11 +2,12 @@
 
 ## Overzicht
 
-Selen UI Library is de officiële ontwikkelingstoolkit voor het maken van widgets en extensies voor Selen UI. Het biedt:
+Selen UI Library is de officiële ontwikkelingstoolkit voor het maken van widgets
+en extensies voor Selen UI. Het biedt:
 
-* Type definities voor consistente ontwikkeling
-* API -abstracties voor naadloze integratie
-* Gestandaardiseerde interfaces voor widget -interoperabiliteit
+- Type definities voor consistente ontwikkeling
+- API -abstracties voor naadloze integratie
+- Gestandaardiseerde interfaces voor widget -interoperabiliteit
 
 ## Kerncomponenten
 
@@ -22,4 +23,5 @@ Selen UI Library is de officiële ontwikkelingstoolkit voor het maken van widget
 npm install @seelen-ui/lib
 ```
 
-**Opmerking**: Gedetailleerde documentatie is beschikbaar in de speciale secties voor [Soorten](./library-types) En [API](./library-api).
+**Opmerking**: Gedetailleerde documentatie is beschikbaar in de speciale secties
+voor [Soorten](./library-types) En [API](./library-api).

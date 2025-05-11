@@ -2,11 +2,12 @@
 
 ## Gambaran Keseluruhan
 
-Perpustakaan Seelen UI adalah toolkit pembangunan rasmi untuk membuat widget dan sambungan untuk Seelen UI. Ia menyediakan:
+Perpustakaan Seelen UI adalah toolkit pembangunan rasmi untuk membuat widget dan
+sambungan untuk Seelen UI. Ia menyediakan:
 
-* Taipkan definisi untuk pembangunan yang konsisten
-* Abstraksi API untuk Integrasi Lancar
-* Antara muka yang diseragamkan untuk interoperabilitas widget
+- Taipkan definisi untuk pembangunan yang konsisten
+- Abstraksi API untuk Integrasi Lancar
+- Antara muka yang diseragamkan untuk interoperabilitas widget
 
 ## Komponen teras
 
@@ -22,4 +23,5 @@ Perpustakaan Seelen UI adalah toolkit pembangunan rasmi untuk membuat widget dan
 npm install @seelen-ui/lib
 ```
 
-**Nota**: Dokumentasi terperinci boleh didapati di bahagian khusus untuk [Jenis](./library-types) dan [API](./library-api).
+**Nota**: Dokumentasi terperinci boleh didapati di bahagian khusus untuk
+[Jenis](./library-types) dan [API](./library-api).

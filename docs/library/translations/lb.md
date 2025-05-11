@@ -2,11 +2,12 @@
 
 ## Iwwertsëtteger
 
-Seelen UI Bibliothéik ass den offiziellen Entwécklung Toolkit fir Widgets an Extensiounen ze kreéieren fir ze gesinn. Et bitt:
+Seelen UI Bibliothéik ass den offiziellen Entwécklung Toolkit fir Widgets an
+Extensiounen ze kreéieren fir ze gesinn. Et bitt:
 
-* Typ Definitiounen fir konsequent Entwécklung
-* Api Abstractions fir Nahtlos Integratioun
-* Standardiséierte Interfaces fir Widget Interoperabilitéit
+- Typ Definitiounen fir konsequent Entwécklung
+- Api Abstractions fir Nahtlos Integratioun
+- Standardiséierte Interfaces fir Widget Interoperabilitéit
 
 ## Kär Komponenten
 
@@ -22,4 +23,5 @@ Seelen UI Bibliothéik ass den offiziellen Entwécklung Toolkit fir Widgets an E
 npm install @seelen-ui/lib
 ```
 
-**Notegéieren**: Desigent Dokumentatioun ass an de informéierte Sektiounen verfügbar fir [Och Zorten](./library-types) an an [Api](./library-api).
+**Notegéieren**: Desigent Dokumentatioun ass an de informéierte Sektiounen
+verfügbar fir [Och Zorten](./library-types) an an [Api](./library-api).

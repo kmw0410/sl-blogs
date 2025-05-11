@@ -1,24 +1,23 @@
 # **BLEAppearanceAVEquipmentSubCategory**
+
 `"Amplifier"`
 
-|  `"Receiver"`
+| `"Receiver"`
 
-|  `"Radio"`
+| `"Radio"`
 
-|  `"Tuner"`
+| `"Tuner"`
 
-|  `"Turntable"`
+| `"Turntable"`
 
-|  `"CDPlayer"`
+| `"CDPlayer"`
 
-|  `"DVDPlayer"`
+| `"DVDPlayer"`
 
-|  `"BlurayPlayer"`
+| `"BlurayPlayer"`
 
-|  `"OpticalDiscPlayer"`
+| `"OpticalDiscPlayer"`
 
-|  `"SetTopBox"`
+| `"SetTopBox"`
 
-|  {
-  Reserved: `number`
-}
+| { Reserved: `number` }

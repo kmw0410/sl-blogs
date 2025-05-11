@@ -2,11 +2,12 @@
 
 ## Prezentare generală
 
-Seelen UI Library este setul de instrumente oficial pentru dezvoltare pentru crearea widget -urilor și extensiilor pentru UI Seelen. Oferă:
+Seelen UI Library este setul de instrumente oficial pentru dezvoltare pentru
+crearea widget -urilor și extensiilor pentru UI Seelen. Oferă:
 
-* Definiții de tip pentru o dezvoltare consistentă
-* Rezumate API pentru integrare perfectă
-* Interfețe standardizate pentru interoperabilitatea widgetului
+- Definiții de tip pentru o dezvoltare consistentă
+- Rezumate API pentru integrare perfectă
+- Interfețe standardizate pentru interoperabilitatea widgetului
 
 ## Componente de bază
 
@@ -22,4 +23,5 @@ Seelen UI Library este setul de instrumente oficial pentru dezvoltare pentru cre
 npm install @seelen-ui/lib
 ```
 
-**Nota**: Documentația detaliată este disponibilă în secțiunile dedicate pentru [Tipuri](./library-types) şi [API](./library-api).
+**Nota**: Documentația detaliată este disponibilă în secțiunile dedicate pentru
+[Tipuri](./library-types) şi [API](./library-api).

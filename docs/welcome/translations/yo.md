@@ -1,14 +1,13 @@
 # **Iwe akiyesi**
 
 Kaabọ si ilana osise fun **Awọn ohun elo Sisen**.\
-Awọn irinṣẹ wa ni apẹrẹ lati jẹ *Ijẹsi giga*, *oogun*, ati *ifarada*
-si iṣẹ rẹ.
+Awọn irinṣẹ wa ni apẹrẹ lati jẹ _Ijẹsi giga_, _oogun_, ati _ifarada_ si iṣẹ rẹ.
 
 ## Isọniṣoki
 
-* **Aza ailopin**: Feran gbogbo alaye lati baamu darapupo rẹ.
-* **Apẹrẹ ara**: Faagun iṣẹ pẹlu awọn afikun ati awọn modulu.
-* **Ti agbegbe**: Itumọ pẹlu esi lati awọn olumulo agbara fẹran rẹ.
+- **Aza ailopin**: Feran gbogbo alaye lati baamu darapupo rẹ.
+- **Apẹrẹ ara**: Faagun iṣẹ pẹlu awọn afikun ati awọn modulu.
+- **Ti agbegbe**: Itumọ pẹlu esi lati awọn olumulo agbara fẹran rẹ.
 
 ## **📚 Awọn ohun elo Mojuto**
 
@@ -18,5 +17,5 @@ si iṣẹ rẹ.
 
 ## Atilẹyin
 
-* [Di eniyan](https://discord.gg/ABfASx5ZAJ) (atilẹyin imọ-ẹrọ ati agbegbe)
-* [Gitter](https://github.com/Seelen-Inc) (Koodu ati Itẹka ọran)
+- [Di eniyan](https://discord.gg/ABfASx5ZAJ) (atilẹyin imọ-ẹrọ ati agbegbe)
+- [Gitter](https://github.com/Seelen-Inc) (Koodu ati Itẹka ọran)

@@ -1,2 +1,3 @@
 # **WegPinnedItemsVisibility**
+
 `"Always"` | `"WhenPrimary"`

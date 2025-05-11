@@ -1,4 +1,4 @@
 # **BLEAppearanceWearableAudioDeviceSubCategory**
-`"Earbud"` | `"Headset"` | `"Headphones"` | `"NeckBand"` | {
-  Reserved: `number`
+
+`"Earbud"` | `"Headset"` | `"Headphones"` | `"NeckBand"` | { Reserved: `number`
 }

@@ -1,2 +1,3 @@
 # **WidgetSettingsDeclarationList**
+
 `Array`<[`WsdGroup`](./WsdGroup)>

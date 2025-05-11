@@ -2,11 +2,13 @@
 
 ## Visió de conjunt
 
-La biblioteca de la interfície d'usuari de Seelen és el conjunt d'eines de desenvolupament oficial per crear widgets i extensions per a la interfície d'usuari de Seelen. Proporciona:
+La biblioteca de la interfície d'usuari de Seelen és el conjunt d'eines de
+desenvolupament oficial per crear widgets i extensions per a la interfície
+d'usuari de Seelen. Proporciona:
 
-* Definicions de tipus per a un desenvolupament consistent
-* Abstraccions de l'API per a la integració perfecta
-* Interfícies normalitzades per a la interoperabilitat del giny
+- Definicions de tipus per a un desenvolupament consistent
+- Abstraccions de l'API per a la integració perfecta
+- Interfícies normalitzades per a la interoperabilitat del giny
 
 ## Components bàsics
 
@@ -22,4 +24,5 @@ La biblioteca de la interfície d'usuari de Seelen és el conjunt d'eines de des
 npm install @seelen-ui/lib
 ```
 
-**Nota**: La documentació detallada està disponible a les seccions dedicades per a [Tipus](./library-types) i [Api](./library-api).
+**Nota**: La documentació detallada està disponible a les seccions dedicades per
+a [Tipus](./library-types) i [Api](./library-api).

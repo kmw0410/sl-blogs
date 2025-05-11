@@ -2,11 +2,12 @@
 
 ## Přehled
 
-Knihovna Seelen UI je oficiální sada vývoje pro vytváření widgetů a rozšíření pro uživatelské rozhraní Seelen. Poskytuje:
+Knihovna Seelen UI je oficiální sada vývoje pro vytváření widgetů a rozšíření
+pro uživatelské rozhraní Seelen. Poskytuje:
 
-* Definice typu pro konzistentní vývoj
-* Abstrakce API pro bezproblémovou integraci
-* Standardizovaná rozhraní pro interoperabilitu widgetu
+- Definice typu pro konzistentní vývoj
+- Abstrakce API pro bezproblémovou integraci
+- Standardizovaná rozhraní pro interoperabilitu widgetu
 
 ## Základní komponenty
 
@@ -22,4 +23,5 @@ Knihovna Seelen UI je oficiální sada vývoje pro vytváření widgetů a rozš
 npm install @seelen-ui/lib
 ```
 
-**Poznámka**: Podrobná dokumentace je k dispozici ve vyhrazených sekcích pro [Typy](./library-types) a [API](./library-api).
+**Poznámka**: Podrobná dokumentace je k dispozici ve vyhrazených sekcích pro
+[Typy](./library-types) a [API](./library-api).

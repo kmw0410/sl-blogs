@@ -1,4 +1,3 @@
 # **BLEAppearanceSpirometerSubCategory**
-`"HandheldSpirometer"` | {
-  Reserved: `number`
-}
+
+`"HandheldSpirometer"` | { Reserved: `number` }

@@ -1,2 +1,3 @@
 # **HideMode**
+
 `"Never"` | `"Always"` | `"OnOverlap"`

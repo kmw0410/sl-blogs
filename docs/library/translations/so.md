@@ -2,11 +2,12 @@
 
 ## Kudbad gaaban
 
-Maktabadda Gobolka Selelen Ui waa aaladda rasmiga ah ee horumarinta ee loo yaqaan 'Horumarto' ee Horumarinta. Waxay bixisaa:
+Maktabadda Gobolka Selelen Ui waa aaladda rasmiga ah ee horumarinta ee loo
+yaqaan 'Horumarto' ee Horumarinta. Waxay bixisaa:
 
-* Nooca qeexitaannada horumarka joogtada ah
-* API-yada API ee is dhexgalka bulshada
-* Interfaces-ka oo loo yaqaan 'Widfines'
+- Nooca qeexitaannada horumarka joogtada ah
+- API-yada API ee is dhexgalka bulshada
+- Interfaces-ka oo loo yaqaan 'Widfines'
 
 ## Qaybaha aasaasiga ah
 
@@ -22,4 +23,5 @@ Maktabadda Gobolka Selelen Ui waa aaladda rasmiga ah ee horumarinta ee loo yaqaa
 npm install @seelen-ui/lib
 ```
 
-**Qorid**: Dukumiinti faahfaahsan ayaa laga heli karaa qaybaha heeganka ah ee loogu talagalay [Noocyada](./library-types) iyo [Api](./library-api).
+**Qorid**: Dukumiinti faahfaahsan ayaa laga heli karaa qaybaha heeganka ah ee
+loogu talagalay [Noocyada](./library-types) iyo [Api](./library-api).

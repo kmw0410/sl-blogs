@@ -1,14 +1,15 @@
 # **Seelen belgeleri**
 
 Resmi belge merkezine hoş geldiniz **Seelen uygulamaları**.\
-Araçlarımız olacak şekilde tasarlanmıştır *son derece özelleştirilebilir*, *modüler*, Ve *uyarlanabilir*
-iş akışınıza.
+Araçlarımız olacak şekilde tasarlanmıştır _son derece özelleştirilebilir_,
+_modüler_, Ve _uyarlanabilir_ iş akışınıza.
 
 ## Genel bakış
 
-* **Sonsuz stil**: Her ayrıntıyı estetiğinize uyacak şekilde uyarlayın.
-* **Modüler tasarım**: Eklentiler ve modüllerle işlevselliği genişletin.
-* **Topluluk odaklı**: Sizin gibi güç kullanıcılarından geri bildirimlerle inşa edildi.
+- **Sonsuz stil**: Her ayrıntıyı estetiğinize uyacak şekilde uyarlayın.
+- **Modüler tasarım**: Eklentiler ve modüllerle işlevselliği genişletin.
+- **Topluluk odaklı**: Sizin gibi güç kullanıcılarından geri bildirimlerle inşa
+  edildi.
 
 ## **📚 Temel uygulamalar**
 
@@ -18,5 +19,5 @@ iş akışınıza.
 
 ## Destek
 
-* [Anlaşmazlık](https://discord.gg/ABfASx5ZAJ) (Teknik Destek ve Topluluk)
-* [Gitithub](https://github.com/Seelen-Inc) (kod ve sorun izleme)
+- [Anlaşmazlık](https://discord.gg/ABfASx5ZAJ) (Teknik Destek ve Topluluk)
+- [Gitithub](https://github.com/Seelen-Inc) (kod ve sorun izleme)

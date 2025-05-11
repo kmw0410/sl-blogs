@@ -2,11 +2,12 @@
 
 ## Áttekintés
 
-A Seelen Ui könyvtár a hivatalos fejlesztési eszközkészlet kütyü és kiterjesztések létrehozására a Seelen UI számára. Ez biztosítja:
+A Seelen Ui könyvtár a hivatalos fejlesztési eszközkészlet kütyü és
+kiterjesztések létrehozására a Seelen UI számára. Ez biztosítja:
 
-* Írja be a következetes fejlődés meghatározását
-* API absztrakciók a zökkenőmentes integrációhoz
-* Szabványosított interfészek a widget interoperabilitásához
+- Írja be a következetes fejlődés meghatározását
+- API absztrakciók a zökkenőmentes integrációhoz
+- Szabványosított interfészek a widget interoperabilitásához
 
 ## Alapvető alkatrészek
 
@@ -22,4 +23,5 @@ A Seelen Ui könyvtár a hivatalos fejlesztési eszközkészlet kütyü és kite
 npm install @seelen-ui/lib
 ```
 
-**Jegyzet**: Részletes dokumentáció érhető el a dedikált szakaszokban [Típus](./library-types) és [API](./library-api).
+**Jegyzet**: Részletes dokumentáció érhető el a dedikált szakaszokban
+[Típus](./library-types) és [API](./library-api).

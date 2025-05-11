@@ -1,3 +1,5 @@
 # **SeelenCommandSelectFileOnExplorerArgs**
+
 ## **Properties**:
+
 ### path: `string`

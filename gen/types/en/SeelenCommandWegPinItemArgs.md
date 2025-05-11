@@ -1,3 +1,5 @@
 # **SeelenCommandWegPinItemArgs**
+
 ## **Properties**:
+
 ### path: `string`

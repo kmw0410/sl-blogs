@@ -1,16 +1,17 @@
 # **PowerMode**
+
 `"BatterySaver"`
 
-|  `"BetterBattery"`
+| `"BetterBattery"`
 
-|  `"Balanced"`
+| `"Balanced"`
 
-|  `"HighPerformance"`
+| `"HighPerformance"`
 
-|  `"MaxPerformance"`
+| `"MaxPerformance"`
 
-|  `"GameMode"`
+| `"GameMode"`
 
-|  `"MixedReality"`
+| `"MixedReality"`
 
-|  `"Unknown"`
+| `"Unknown"`

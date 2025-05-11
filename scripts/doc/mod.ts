@@ -180,3 +180,7 @@ function processRootNode(folderName: string, nodes: DocNode[]) {
   const docLib = await resLib.json();
   processRootNode("lib", docLib.nodes);
 }
+
+await new Deno.Command("deno", {
+  args: ["fmt"],
+}).output();

@@ -1,3 +1,2 @@
 # **ToastInputType**
-
 `"Text"` | `"Selection"` | `"Unknown"`

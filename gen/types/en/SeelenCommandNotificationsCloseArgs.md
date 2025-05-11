@@ -1,0 +1,3 @@
+# **SeelenCommandNotificationsCloseArgs**
+## **Properties**:
+### id: `number`

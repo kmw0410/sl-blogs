@@ -1,3 +1,6 @@
 # **WsdGroupEntry**
-
-{ subGroup: [`WsdGroup`](./WsdGroup) } | { config: [`WsdItem`](./WsdItem) }
+{
+  subGroup: [`WsdGroup`](./WsdGroup)
+} | {
+  config: [`WsdItem`](./WsdItem)
+}

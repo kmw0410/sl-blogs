@@ -1,0 +1,3 @@
+# **SeelenCommandWegCloseAppArgs**
+## **Properties**:
+### hwnd: `number`

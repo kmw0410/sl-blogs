@@ -1,37 +1,38 @@
 # **BluetoothHealthMinor**
-
 6 bits
 
 `"Undefined"`
 
-| `"BloodPressureMonitor"`
+|  `"BloodPressureMonitor"`
 
-| `"Thermometer"`
+|  `"Thermometer"`
 
-| `"WeighingScale"`
+|  `"WeighingScale"`
 
-| `"GlucoseMeter"`
+|  `"GlucoseMeter"`
 
-| `"PulseOximeter"`
+|  `"PulseOximeter"`
 
-| `"HeartPulseMonitor"`
+|  `"HeartPulseMonitor"`
 
-| `"HealthDataDisplay"`
+|  `"HealthDataDisplay"`
 
-| `"StepCounter"`
+|  `"StepCounter"`
 
-| `"BodyCompositionMonitor"`
+|  `"BodyCompositionMonitor"`
 
-| `"PeakFlowMonitor"`
+|  `"PeakFlowMonitor"`
 
-| `"MedicationMonitor"`
+|  `"MedicationMonitor"`
 
-| `"KneeProsthesis"`
+|  `"KneeProsthesis"`
 
-| `"AnkleProsthesis"`
+|  `"AnkleProsthesis"`
 
-| `"GenericHealthManager"`
+|  `"GenericHealthManager"`
 
-| `"PersonalMobilityDevice"`
+|  `"PersonalMobilityDevice"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

@@ -1,5 +1,3 @@
 # **BLEAppearanceEyeglassesSubCategory**
-
 ## **Properties**:
-
 ### Reserved: `number`

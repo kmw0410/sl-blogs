@@ -1,3 +1,2 @@
 # **StyleValue**
-
 `string` | `number`

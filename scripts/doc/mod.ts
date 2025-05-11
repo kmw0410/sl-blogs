@@ -129,16 +129,7 @@ function processTypeDefinition(
   return [];
 }
 
-{
-  Deno.removeSync("./gen/types", { recursive: true });
-  Deno.mkdirSync("./gen/types/en", { recursive: true });
-
-  const res = await fetch(
-    "https://raw.githubusercontent.com/Seelen-Inc/slu-lib/refs/heads/master/gen/doc-types.json",
-  );
-  const docTypes = await res.json();
-
-  const nodes = docTypes.nodes as DocNode[];
+function processRootNode(folderName: string, nodes: DocNode[]) {
   for (const node of nodes) {
     const md: string[] = [];
     md.push(`# **${node.name}**`);
@@ -158,6 +149,32 @@ function processTypeDefinition(
     const processed = processTypeDefinition(typeDef);
     md.push(...processed);
 
-    Deno.writeTextFileSync(`./gen/types/en/${node.name}.md`, md.join("\n"));
+    Deno.writeTextFileSync(
+      `./gen/${folderName}/en/${node.name}.md`,
+      md.join("\n"),
+    );
   }
+}
+
+{
+  Deno.removeSync("./gen/types", { recursive: true });
+  Deno.removeSync("./gen/lib", { recursive: true });
+
+  Deno.mkdirSync("./gen/types/en", { recursive: true });
+  Deno.mkdirSync("./gen/lib/en", { recursive: true });
+
+  const [resTypes, resLib] = await Promise.all([
+    fetch(
+      "https://raw.githubusercontent.com/Seelen-Inc/slu-lib/refs/heads/master/gen/doc-types.json",
+    ),
+    fetch(
+      "https://raw.githubusercontent.com/Seelen-Inc/slu-lib/refs/heads/master/gen/doc-lib.json",
+    ),
+  ]);
+
+  const docTypes = await resTypes.json();
+  processRootNode("types", docTypes.nodes);
+
+  const docLib = await resLib.json();
+  processRootNode("lib", docLib.nodes);
 }

@@ -1,3 +1,2 @@
 # **ToastActionButtonStyle**
-
 `"Sucess"` | `"Critical"` | `"Unknown"`

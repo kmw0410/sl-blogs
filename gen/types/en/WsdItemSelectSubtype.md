@@ -1,3 +1,2 @@
 # **WsdItemSelectSubtype**
-
 `"List"` | `"Inline"`

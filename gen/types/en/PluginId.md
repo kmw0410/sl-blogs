@@ -1,3 +1,2 @@
 # **PluginId**
-
 [`ResourceId`](./ResourceId)

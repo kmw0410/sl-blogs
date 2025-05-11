@@ -1,13 +1,14 @@
 # **BLEAppearanceMotorizedDeviceSubCategory**
-
 `"MotorizedGate"`
 
-| `"Awning"`
+|  `"Awning"`
 
-| `"BlindsorShades"`
+|  `"BlindsorShades"`
 
-| `"Curtains"`
+|  `"Curtains"`
 
-| `"Screen"`
+|  `"Screen"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

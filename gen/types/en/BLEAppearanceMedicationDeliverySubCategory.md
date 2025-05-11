@@ -1,5 +1,3 @@
 # **BLEAppearanceMedicationDeliverySubCategory**
-
 ## **Properties**:
-
 ### Reserved: `number`

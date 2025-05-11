@@ -1,4 +1,4 @@
 # **BLEAppearanceAircraftSubCategory**
-
-`"LightAircraft"` | `"Microlight"` | `"Paraglider"` | `"LargePassengerAircraft"`
-| { Reserved: `number` }
+`"LightAircraft"` | `"Microlight"` | `"Paraglider"` | `"LargePassengerAircraft"` | {
+  Reserved: `number`
+}

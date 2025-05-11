@@ -1,7 +1,7 @@
 {
   "tasks": {
     "translate": "deno -A scripts/translate.ts",
-    "doc:types": " deno run -A scripts/doc/mod.ts"
+    "gen-docs-from-lib": " deno run -A scripts/doc/mod.ts"
   },
   "imports": {
     "@seelen/translation-toolkit": "jsr:@seelen/translation-toolkit@^1.1.7"

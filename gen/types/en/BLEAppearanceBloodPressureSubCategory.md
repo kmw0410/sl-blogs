@@ -1,3 +1,4 @@
 # **BLEAppearanceBloodPressureSubCategory**
-
-`"ArmBloodPressure"` | `"WristBloodPressure"` | { Reserved: `number` }
+`"ArmBloodPressure"` | `"WristBloodPressure"` | {
+  Reserved: `number`
+}

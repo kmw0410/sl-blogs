@@ -1,21 +1,22 @@
 # **BLEAppearanceAccessControlSubCategory**
-
 `"AccessDoor"`
 
-| `"GarageDoor"`
+|  `"GarageDoor"`
 
-| `"EmergencyExitDoor"`
+|  `"EmergencyExitDoor"`
 
-| `"AccessLock"`
+|  `"AccessLock"`
 
-| `"Elevator"`
+|  `"Elevator"`
 
-| `"Window"`
+|  `"Window"`
 
-| `"EntranceGate"`
+|  `"EntranceGate"`
 
-| `"DoorLock"`
+|  `"DoorLock"`
 
-| `"Locker"`
+|  `"Locker"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

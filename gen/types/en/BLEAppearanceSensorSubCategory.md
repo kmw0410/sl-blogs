@@ -1,53 +1,54 @@
 # **BLEAppearanceSensorSubCategory**
-
 `"MotionSensor"`
 
-| `"AirqualitySensor"`
+|  `"AirqualitySensor"`
 
-| `"TemperatureSensor"`
+|  `"TemperatureSensor"`
 
-| `"HumiditySensor"`
+|  `"HumiditySensor"`
 
-| `"LeakSensor"`
+|  `"LeakSensor"`
 
-| `"SmokeSensor"`
+|  `"SmokeSensor"`
 
-| `"OccupancySensor"`
+|  `"OccupancySensor"`
 
-| `"ContactSensor"`
+|  `"ContactSensor"`
 
-| `"CarbonMonoxideSensor"`
+|  `"CarbonMonoxideSensor"`
 
-| `"CarbonDioxideSensor"`
+|  `"CarbonDioxideSensor"`
 
-| `"AmbientLightSensor"`
+|  `"AmbientLightSensor"`
 
-| `"EnergySensor"`
+|  `"EnergySensor"`
 
-| `"ColorLightSensor"`
+|  `"ColorLightSensor"`
 
-| `"RainSensor"`
+|  `"RainSensor"`
 
-| `"FireSensor"`
+|  `"FireSensor"`
 
-| `"WindSensor"`
+|  `"WindSensor"`
 
-| `"ProximitySensor"`
+|  `"ProximitySensor"`
 
-| `"MultiSensor"`
+|  `"MultiSensor"`
 
-| `"FlushMountedSensor"`
+|  `"FlushMountedSensor"`
 
-| `"CeilingMountedSensor"`
+|  `"CeilingMountedSensor"`
 
-| `"WallMountedSensor"`
+|  `"WallMountedSensor"`
 
-| `"Multisensor"`
+|  `"Multisensor"`
 
-| `"EnergyMeter"`
+|  `"EnergyMeter"`
 
-| `"FlameDetector"`
+|  `"FlameDetector"`
 
-| `"VehicleTirePressureSensor"`
+|  `"VehicleTirePressureSensor"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

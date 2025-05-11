@@ -1,3 +1,4 @@
 # **BLEAppearancePersonalMobilityDeviceSubCategory**
-
-`"PoweredWheelchair"` | `"MobilityScooter"` | { Reserved: `number` }
+`"PoweredWheelchair"` | `"MobilityScooter"` | {
+  Reserved: `number`
+}

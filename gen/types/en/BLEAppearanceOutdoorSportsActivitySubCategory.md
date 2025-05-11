@@ -1,4 +1,4 @@
 # **BLEAppearanceOutdoorSportsActivitySubCategory**
-
-`"LocationDisplay"` | `"LocationandNavigationDisplay"` | `"LocationPod"` |
-`"LocationandNavigationPod"` | { Reserved: `number` }
+`"LocationDisplay"` | `"LocationandNavigationDisplay"` | `"LocationPod"` | `"LocationandNavigationPod"` | {
+  Reserved: `number`
+}

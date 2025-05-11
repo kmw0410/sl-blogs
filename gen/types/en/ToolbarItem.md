@@ -1,30 +1,56 @@
 # **ToolbarItem**
+{
+  type: `"text"`
+} & [`TextToolbarItem`](./TextToolbarItem)
 
-{ type: `"text"` } & [`TextToolbarItem`](./TextToolbarItem)
+|  {
+  type: `"generic"`
+} & [`GenericToolbarItem`](./GenericToolbarItem)
 
-| { type: `"generic"` } & [`GenericToolbarItem`](./GenericToolbarItem)
+|  {
+  type: `"date"`
+} & [`DateToolbarItem`](./DateToolbarItem)
 
-| { type: `"date"` } & [`DateToolbarItem`](./DateToolbarItem)
+|  {
+  type: `"power"`
+} & [`PowerToolbarItem`](./PowerToolbarItem)
 
-| { type: `"power"` } & [`PowerToolbarItem`](./PowerToolbarItem)
+|  {
+  type: `"keyboard"`
+} & [`KeyboardToolbarItem`](./KeyboardToolbarItem)
 
-| { type: `"keyboard"` } & [`KeyboardToolbarItem`](./KeyboardToolbarItem)
+|  {
+  type: `"network"`
+} & [`NetworkToolbarItem`](./NetworkToolbarItem)
 
-| { type: `"network"` } & [`NetworkToolbarItem`](./NetworkToolbarItem)
+|  {
+  type: `"bluetooth"`
+} & [`BluetoothToolbarItem`](./BluetoothToolbarItem)
 
-| { type: `"bluetooth"` } & [`BluetoothToolbarItem`](./BluetoothToolbarItem)
+|  {
+  type: `"media"`
+} & [`MediaToolbarItem`](./MediaToolbarItem)
 
-| { type: `"media"` } & [`MediaToolbarItem`](./MediaToolbarItem)
+|  {
+  type: `"user"`
+} & [`UserToolbarItem`](./UserToolbarItem)
 
-| { type: `"user"` } & [`UserToolbarItem`](./UserToolbarItem)
+|  {
+  type: `"notifications"`
+} & [`NotificationsToolbarItem`](./NotificationsToolbarItem)
 
-| { type: `"notifications"` } &
-[`NotificationsToolbarItem`](./NotificationsToolbarItem)
+|  {
+  type: `"tray"`
+} & [`TrayToolbarItem`](./TrayToolbarItem)
 
-| { type: `"tray"` } & [`TrayToolbarItem`](./TrayToolbarItem)
+|  {
+  type: `"device"`
+} & [`DeviceToolbarItem`](./DeviceToolbarItem)
 
-| { type: `"device"` } & [`DeviceToolbarItem`](./DeviceToolbarItem)
+|  {
+  type: `"settings"`
+} & [`SettingsToolbarItem`](./SettingsToolbarItem)
 
-| { type: `"settings"` } & [`SettingsToolbarItem`](./SettingsToolbarItem)
-
-| { type: `"workspaces"` } & [`WorkspaceToolbarItem`](./WorkspaceToolbarItem)
+|  {
+  type: `"workspaces"`
+} & [`WorkspaceToolbarItem`](./WorkspaceToolbarItem)

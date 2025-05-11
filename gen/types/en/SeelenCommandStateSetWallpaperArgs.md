@@ -1,0 +1,3 @@
+# **SeelenCommandStateSetWallpaperArgs**
+## **Properties**:
+### path: `string`

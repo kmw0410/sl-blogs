@@ -1,21 +1,22 @@
 # **BLEAppearanceAudioSourceSubCategory**
-
 `"Microphone"`
 
-| `"Alarm"`
+|  `"Alarm"`
 
-| `"Bell"`
+|  `"Bell"`
 
-| `"Horn"`
+|  `"Horn"`
 
-| `"BroadcastingDevice"`
+|  `"BroadcastingDevice"`
 
-| `"ServiceDesk"`
+|  `"ServiceDesk"`
 
-| `"Kiosk"`
+|  `"Kiosk"`
 
-| `"BroadcastingRoom"`
+|  `"BroadcastingRoom"`
 
-| `"Auditorium"`
+|  `"Auditorium"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

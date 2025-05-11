@@ -1,25 +1,26 @@
 # **BLEAppearanceHVACSubCategory**
-
 `"Thermostat"`
 
-| `"Humidifier"`
+|  `"Humidifier"`
 
-| `"Dehumidifier"`
+|  `"Dehumidifier"`
 
-| `"Heater"`
+|  `"Heater"`
 
-| `"Radiator"`
+|  `"Radiator"`
 
-| `"Boiler"`
+|  `"Boiler"`
 
-| `"HeatPump"`
+|  `"HeatPump"`
 
-| `"InfraredHeater"`
+|  `"InfraredHeater"`
 
-| `"RadiantPanelHeater"`
+|  `"RadiantPanelHeater"`
 
-| `"FanHeater"`
+|  `"FanHeater"`
 
-| `"AirCurtain"`
+|  `"AirCurtain"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

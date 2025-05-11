@@ -1,5 +1,3 @@
 # **BLEAppearanceContinuousGlucoseMonitorSubCategory**
-
 ## **Properties**:
-
 ### Reserved: `number`

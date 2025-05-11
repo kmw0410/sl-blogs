@@ -1,0 +1,3 @@
+# **SeelenCommandMediaNextArgs**
+## **Properties**:
+### id: `string`

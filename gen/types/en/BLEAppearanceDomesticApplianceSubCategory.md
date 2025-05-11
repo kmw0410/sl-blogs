@@ -1,33 +1,34 @@
 # **BLEAppearanceDomesticApplianceSubCategory**
-
 `"Refrigerator"`
 
-| `"Freezer"`
+|  `"Freezer"`
 
-| `"Oven"`
+|  `"Oven"`
 
-| `"Microwave"`
+|  `"Microwave"`
 
-| `"Toaster"`
+|  `"Toaster"`
 
-| `"WashingMachine"`
+|  `"WashingMachine"`
 
-| `"Dryer"`
+|  `"Dryer"`
 
-| `"Coffeemaker"`
+|  `"Coffeemaker"`
 
-| `"Clothesiron"`
+|  `"Clothesiron"`
 
-| `"Curlingiron"`
+|  `"Curlingiron"`
 
-| `"Hairdryer"`
+|  `"Hairdryer"`
 
-| `"Vacuumcleaner"`
+|  `"Vacuumcleaner"`
 
-| `"Roboticvacuumcleaner"`
+|  `"Roboticvacuumcleaner"`
 
-| `"Ricecooker"`
+|  `"Ricecooker"`
 
-| `"Clothessteamer"`
+|  `"Clothessteamer"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

@@ -1,0 +1,2 @@
+# **AllSeelenCommandReturns**
+[`MapNullToVoid`](./MapNullToVoid)

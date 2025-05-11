@@ -1,53 +1,54 @@
 # **BLEAppearanceLightFixturesSubCategory**
-
 `"WallLight"`
 
-| `"CeilingLight"`
+|  `"CeilingLight"`
 
-| `"FloorLight"`
+|  `"FloorLight"`
 
-| `"CabinetLight"`
+|  `"CabinetLight"`
 
-| `"DeskLight"`
+|  `"DeskLight"`
 
-| `"TrofferLight"`
+|  `"TrofferLight"`
 
-| `"PendantLight"`
+|  `"PendantLight"`
 
-| `"IngroundLight"`
+|  `"IngroundLight"`
 
-| `"FloodLight"`
+|  `"FloodLight"`
 
-| `"UnderwaterLight"`
+|  `"UnderwaterLight"`
 
-| `"BollardwithLight"`
+|  `"BollardwithLight"`
 
-| `"PathwayLight"`
+|  `"PathwayLight"`
 
-| `"GardenLight"`
+|  `"GardenLight"`
 
-| `"PoletopLight"`
+|  `"PoletopLight"`
 
-| `"Spotlight"`
+|  `"Spotlight"`
 
-| `"LinearLight"`
+|  `"LinearLight"`
 
-| `"StreetLight"`
+|  `"StreetLight"`
 
-| `"ShelvesLight"`
+|  `"ShelvesLight"`
 
-| `"BayLight"`
+|  `"BayLight"`
 
-| `"EmergencyExitLight"`
+|  `"EmergencyExitLight"`
 
-| `"LightController"`
+|  `"LightController"`
 
-| `"LightDriver"`
+|  `"LightDriver"`
 
-| `"Bulb"`
+|  `"Bulb"`
 
-| `"LowbayLight"`
+|  `"LowbayLight"`
 
-| `"HighbayLight"`
+|  `"HighbayLight"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

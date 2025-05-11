@@ -1,0 +1,2 @@
+# **AdapterStatus**
+`"up"` | `"down"`

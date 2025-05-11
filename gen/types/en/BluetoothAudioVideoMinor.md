@@ -1,39 +1,40 @@
 # **BluetoothAudioVideoMinor**
-
 6 bits
 
 `"Uncategorized"`
 
-| `"Headset"`
+|  `"Headset"`
 
-| `"HandsFree"`
+|  `"HandsFree"`
 
-| `"Microphone"`
+|  `"Microphone"`
 
-| `"Loudspeaker"`
+|  `"Loudspeaker"`
 
-| `"Headphones"`
+|  `"Headphones"`
 
-| `"PortableAudio"`
+|  `"PortableAudio"`
 
-| `"CarAudio"`
+|  `"CarAudio"`
 
-| `"SetTopBox"`
+|  `"SetTopBox"`
 
-| `"HiFiAudioDevice"`
+|  `"HiFiAudioDevice"`
 
-| `"Vcr"`
+|  `"Vcr"`
 
-| `"VideoCamera"`
+|  `"VideoCamera"`
 
-| `"CamCorder"`
+|  `"CamCorder"`
 
-| `"VideoMonitor"`
+|  `"VideoMonitor"`
 
-| `"VideoDisplayAndLoudspeaker"`
+|  `"VideoDisplayAndLoudspeaker"`
 
-| `"VideoConferencing"`
+|  `"VideoConferencing"`
 
-| `"GamingToy"`
+|  `"GamingToy"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

@@ -1,15 +1,16 @@
 # **BLEAppearanceWindowCoveringSubCategory**
-
 `"WindowShades"`
 
-| `"WindowBlinds"`
+|  `"WindowBlinds"`
 
-| `"WindowAwning"`
+|  `"WindowAwning"`
 
-| `"WindowCurtain"`
+|  `"WindowCurtain"`
 
-| `"ExteriorShutter"`
+|  `"ExteriorShutter"`
 
-| `"ExteriorScreen"`
+|  `"ExteriorScreen"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

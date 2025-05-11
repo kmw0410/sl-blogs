@@ -1,3 +1,2 @@
 # **ToastActionAfterActivationBehavior**
-
 `"Default"` | `"PendingUpdate"` | `"Unknown"`

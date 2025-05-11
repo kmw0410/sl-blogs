@@ -1,3 +1,6 @@
 # **Icon**
-
-`string` | { light: `string` dark: `string` mask: `string` | `null` }
+`string` | {
+  light: `string`
+  dark: `string`
+  mask: `string` | `null`
+}

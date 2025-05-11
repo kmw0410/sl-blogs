@@ -1,0 +1,3 @@
+# **SeelenCommandForgetBluetoothDeviceArgs**
+## **Properties**:
+### id: `string`

@@ -1,0 +1,3 @@
+# **SeelenCommandOnClickTrayIconArgs**
+## **Properties**:
+### key: `string`

@@ -1,0 +1,3 @@
+# **SeelenCommandPairBluetoothDeviceArgs**
+## **Properties**:
+### address: `bigint`

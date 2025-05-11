@@ -1,5 +1,3 @@
 # **BLEAppearanceClockSubCategory**
-
 ## **Properties**:
-
 ### Reserved: `number`

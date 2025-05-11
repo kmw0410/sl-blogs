@@ -1,0 +1,3 @@
+# **SeelenCommandRequestFocusArgs**
+## **Properties**:
+### hwnd: `number`

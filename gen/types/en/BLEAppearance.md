@@ -1,188 +1,270 @@
 # **BLEAppearance**
-
-{ category: `"Unknown"` subcategory:
-[`BLEAppearanceUnknownSubCategory`](./BLEAppearanceUnknownSubCategory) }
-
-| { category: `"Phone"` subcategory:
-[`BLEAppearancePhoneSubCategory`](./BLEAppearancePhoneSubCategory) }
-
-| { category: `"Computer"` subcategory:
-[`BLEAppearanceComputerSubCategory`](./BLEAppearanceComputerSubCategory) }
-
-| { category: `"Watch"` subcategory:
-[`BLEAppearanceWatchSubCategory`](./BLEAppearanceWatchSubCategory) }
-
-| { category: `"Clock"` subcategory:
-[`BLEAppearanceClockSubCategory`](./BLEAppearanceClockSubCategory) }
-
-| { category: `"Display"` subcategory:
-[`BLEAppearanceDisplaySubCategory`](./BLEAppearanceDisplaySubCategory) }
-
-| { category: `"RemoteControl"` subcategory:
-[`BLEAppearanceRemoteControlSubCategory`](./BLEAppearanceRemoteControlSubCategory)
+{
+  category: `"Unknown"`
+  subcategory: [`BLEAppearanceUnknownSubCategory`](./BLEAppearanceUnknownSubCategory)
 }
 
-| { category: `"Eyeglasses"` subcategory:
-[`BLEAppearanceEyeglassesSubCategory`](./BLEAppearanceEyeglassesSubCategory) }
-
-| { category: `"Tag"` subcategory:
-[`BLEAppearanceTagSubCategory`](./BLEAppearanceTagSubCategory) }
-
-| { category: `"Keyring"` subcategory:
-[`BLEAppearanceKeyringSubCategory`](./BLEAppearanceKeyringSubCategory) }
-
-| { category: `"MediaPlayer"` subcategory:
-[`BLEAppearanceMediaPlayerSubCategory`](./BLEAppearanceMediaPlayerSubCategory) }
-
-| { category: `"BarcodeScanner"` subcategory:
-[`BLEAppearanceBarcodeScannerSubCategory`](./BLEAppearanceBarcodeScannerSubCategory)
+|  {
+  category: `"Phone"`
+  subcategory: [`BLEAppearancePhoneSubCategory`](./BLEAppearancePhoneSubCategory)
 }
 
-| { category: `"Thermometer"` subcategory:
-[`BLEAppearanceThermometerSubCategory`](./BLEAppearanceThermometerSubCategory) }
-
-| { category: `"HeartRateSensor"` subcategory:
-[`BLEAppearanceHeartRateSensorSubCategory`](./BLEAppearanceHeartRateSensorSubCategory)
+|  {
+  category: `"Computer"`
+  subcategory: [`BLEAppearanceComputerSubCategory`](./BLEAppearanceComputerSubCategory)
 }
 
-| { category: `"BloodPressure"` subcategory:
-[`BLEAppearanceBloodPressureSubCategory`](./BLEAppearanceBloodPressureSubCategory)
+|  {
+  category: `"Watch"`
+  subcategory: [`BLEAppearanceWatchSubCategory`](./BLEAppearanceWatchSubCategory)
 }
 
-| { category: `"HumanInterfaceDevice"` subcategory:
-[`BLEAppearanceHumanInterfaceDeviceSubCategory`](./BLEAppearanceHumanInterfaceDeviceSubCategory)
+|  {
+  category: `"Clock"`
+  subcategory: [`BLEAppearanceClockSubCategory`](./BLEAppearanceClockSubCategory)
 }
 
-| { category: `"GlucoseMeter"` subcategory:
-[`BLEAppearanceGlucoseMeterSubCategory`](./BLEAppearanceGlucoseMeterSubCategory)
+|  {
+  category: `"Display"`
+  subcategory: [`BLEAppearanceDisplaySubCategory`](./BLEAppearanceDisplaySubCategory)
 }
 
-| { category: `"RunningWalkingSensor"` subcategory:
-[`BLEAppearanceRunningWalkingSensorSubCategory`](./BLEAppearanceRunningWalkingSensorSubCategory)
+|  {
+  category: `"RemoteControl"`
+  subcategory: [`BLEAppearanceRemoteControlSubCategory`](./BLEAppearanceRemoteControlSubCategory)
 }
 
-| { category: `"Cycling"` subcategory:
-[`BLEAppearanceCyclingSubCategory`](./BLEAppearanceCyclingSubCategory) }
-
-| { category: `"ControlDevice"` subcategory:
-[`BLEAppearanceControlDeviceSubCategory`](./BLEAppearanceControlDeviceSubCategory)
+|  {
+  category: `"Eyeglasses"`
+  subcategory: [`BLEAppearanceEyeglassesSubCategory`](./BLEAppearanceEyeglassesSubCategory)
 }
 
-| { category: `"NetworkDevice"` subcategory:
-[`BLEAppearanceNetworkDeviceSubCategory`](./BLEAppearanceNetworkDeviceSubCategory)
+|  {
+  category: `"Tag"`
+  subcategory: [`BLEAppearanceTagSubCategory`](./BLEAppearanceTagSubCategory)
 }
 
-| { category: `"Sensor"` subcategory:
-[`BLEAppearanceSensorSubCategory`](./BLEAppearanceSensorSubCategory) }
-
-| { category: `"LightFixtures"` subcategory:
-[`BLEAppearanceLightFixturesSubCategory`](./BLEAppearanceLightFixturesSubCategory)
+|  {
+  category: `"Keyring"`
+  subcategory: [`BLEAppearanceKeyringSubCategory`](./BLEAppearanceKeyringSubCategory)
 }
 
-| { category: `"Fan"` subcategory:
-[`BLEAppearanceFanSubCategory`](./BLEAppearanceFanSubCategory) }
-
-| { category: `"HVAC"` subcategory:
-[`BLEAppearanceHVACSubCategory`](./BLEAppearanceHVACSubCategory) }
-
-| { category: `"AirConditioning"` subcategory:
-[`BLEAppearanceAirConditioningSubCategory`](./BLEAppearanceAirConditioningSubCategory)
+|  {
+  category: `"MediaPlayer"`
+  subcategory: [`BLEAppearanceMediaPlayerSubCategory`](./BLEAppearanceMediaPlayerSubCategory)
 }
 
-| { category: `"Humidifier"` subcategory:
-[`BLEAppearanceHumidifierSubCategory`](./BLEAppearanceHumidifierSubCategory) }
-
-| { category: `"Heating"` subcategory:
-[`BLEAppearanceHeatingSubCategory`](./BLEAppearanceHeatingSubCategory) }
-
-| { category: `"AccessControl"` subcategory:
-[`BLEAppearanceAccessControlSubCategory`](./BLEAppearanceAccessControlSubCategory)
+|  {
+  category: `"BarcodeScanner"`
+  subcategory: [`BLEAppearanceBarcodeScannerSubCategory`](./BLEAppearanceBarcodeScannerSubCategory)
 }
 
-| { category: `"MotorizedDevice"` subcategory:
-[`BLEAppearanceMotorizedDeviceSubCategory`](./BLEAppearanceMotorizedDeviceSubCategory)
+|  {
+  category: `"Thermometer"`
+  subcategory: [`BLEAppearanceThermometerSubCategory`](./BLEAppearanceThermometerSubCategory)
 }
 
-| { category: `"PowerDevice"` subcategory:
-[`BLEAppearancePowerDeviceSubCategory`](./BLEAppearancePowerDeviceSubCategory) }
-
-| { category: `"LightSource"` subcategory:
-[`BLEAppearanceLightSourceSubCategory`](./BLEAppearanceLightSourceSubCategory) }
-
-| { category: `"WindowCovering"` subcategory:
-[`BLEAppearanceWindowCoveringSubCategory`](./BLEAppearanceWindowCoveringSubCategory)
+|  {
+  category: `"HeartRateSensor"`
+  subcategory: [`BLEAppearanceHeartRateSensorSubCategory`](./BLEAppearanceHeartRateSensorSubCategory)
 }
 
-| { category: `"AudioSink"` subcategory:
-[`BLEAppearanceAudioSinkSubCategory`](./BLEAppearanceAudioSinkSubCategory) }
-
-| { category: `"AudioSource"` subcategory:
-[`BLEAppearanceAudioSourceSubCategory`](./BLEAppearanceAudioSourceSubCategory) }
-
-| { category: `"MotorizedVehicle"` subcategory:
-[`BLEAppearanceMotorizedVehicleSubCategory`](./BLEAppearanceMotorizedVehicleSubCategory)
+|  {
+  category: `"BloodPressure"`
+  subcategory: [`BLEAppearanceBloodPressureSubCategory`](./BLEAppearanceBloodPressureSubCategory)
 }
 
-| { category: `"DomesticAppliance"` subcategory:
-[`BLEAppearanceDomesticApplianceSubCategory`](./BLEAppearanceDomesticApplianceSubCategory)
+|  {
+  category: `"HumanInterfaceDevice"`
+  subcategory: [`BLEAppearanceHumanInterfaceDeviceSubCategory`](./BLEAppearanceHumanInterfaceDeviceSubCategory)
 }
 
-| { category: `"WearableAudioDevice"` subcategory:
-[`BLEAppearanceWearableAudioDeviceSubCategory`](./BLEAppearanceWearableAudioDeviceSubCategory)
+|  {
+  category: `"GlucoseMeter"`
+  subcategory: [`BLEAppearanceGlucoseMeterSubCategory`](./BLEAppearanceGlucoseMeterSubCategory)
 }
 
-| { category: `"Aircraft"` subcategory:
-[`BLEAppearanceAircraftSubCategory`](./BLEAppearanceAircraftSubCategory) }
-
-| { category: `"AVEquipment"` subcategory:
-[`BLEAppearanceAVEquipmentSubCategory`](./BLEAppearanceAVEquipmentSubCategory) }
-
-| { category: `"DisplayEquipment"` subcategory:
-[`BLEAppearanceDisplayEquipmentSubCategory`](./BLEAppearanceDisplayEquipmentSubCategory)
+|  {
+  category: `"RunningWalkingSensor"`
+  subcategory: [`BLEAppearanceRunningWalkingSensorSubCategory`](./BLEAppearanceRunningWalkingSensorSubCategory)
 }
 
-| { category: `"Hearingaid"` subcategory:
-[`BLEAppearanceHearingaidSubCategory`](./BLEAppearanceHearingaidSubCategory) }
-
-| { category: `"Gaming"` subcategory:
-[`BLEAppearanceGamingSubCategory`](./BLEAppearanceGamingSubCategory) }
-
-| { category: `"Signage"` subcategory:
-[`BLEAppearanceSignageSubCategory`](./BLEAppearanceSignageSubCategory) }
-
-| { category: `"PulseOximeter"` subcategory:
-[`BLEAppearancePulseOximeterSubCategory`](./BLEAppearancePulseOximeterSubCategory)
+|  {
+  category: `"Cycling"`
+  subcategory: [`BLEAppearanceCyclingSubCategory`](./BLEAppearanceCyclingSubCategory)
 }
 
-| { category: `"WeightScale"` subcategory:
-[`BLEAppearanceWeightScaleSubCategory`](./BLEAppearanceWeightScaleSubCategory) }
-
-| { category: `"PersonalMobilityDevice"` subcategory:
-[`BLEAppearancePersonalMobilityDeviceSubCategory`](./BLEAppearancePersonalMobilityDeviceSubCategory)
+|  {
+  category: `"ControlDevice"`
+  subcategory: [`BLEAppearanceControlDeviceSubCategory`](./BLEAppearanceControlDeviceSubCategory)
 }
 
-| { category: `"ContinuousGlucoseMonitor"` subcategory:
-[`BLEAppearanceContinuousGlucoseMonitorSubCategory`](./BLEAppearanceContinuousGlucoseMonitorSubCategory)
+|  {
+  category: `"NetworkDevice"`
+  subcategory: [`BLEAppearanceNetworkDeviceSubCategory`](./BLEAppearanceNetworkDeviceSubCategory)
 }
 
-| { category: `"InsulinPump"` subcategory:
-[`BLEAppearanceInsulinPumpSubCategory`](./BLEAppearanceInsulinPumpSubCategory) }
-
-| { category: `"MedicationDelivery"` subcategory:
-[`BLEAppearanceMedicationDeliverySubCategory`](./BLEAppearanceMedicationDeliverySubCategory)
+|  {
+  category: `"Sensor"`
+  subcategory: [`BLEAppearanceSensorSubCategory`](./BLEAppearanceSensorSubCategory)
 }
 
-| { category: `"Spirometer"` subcategory:
-[`BLEAppearanceSpirometerSubCategory`](./BLEAppearanceSpirometerSubCategory) }
-
-| { category: `"OutdoorSportsActivity"` subcategory:
-[`BLEAppearanceOutdoorSportsActivitySubCategory`](./BLEAppearanceOutdoorSportsActivitySubCategory)
+|  {
+  category: `"LightFixtures"`
+  subcategory: [`BLEAppearanceLightFixturesSubCategory`](./BLEAppearanceLightFixturesSubCategory)
 }
 
-| { category: `"IndustrialMeasurementDevice"` subcategory:
-[`BLEAppearanceIndustrialMeasurementDeviceSubCategory`](./BLEAppearanceIndustrialMeasurementDeviceSubCategory)
+|  {
+  category: `"Fan"`
+  subcategory: [`BLEAppearanceFanSubCategory`](./BLEAppearanceFanSubCategory)
 }
 
-| { category: `"IndustrialTools"` subcategory:
-[`BLEAppearanceIndustrialToolsSubCategory`](./BLEAppearanceIndustrialToolsSubCategory)
+|  {
+  category: `"HVAC"`
+  subcategory: [`BLEAppearanceHVACSubCategory`](./BLEAppearanceHVACSubCategory)
+}
+
+|  {
+  category: `"AirConditioning"`
+  subcategory: [`BLEAppearanceAirConditioningSubCategory`](./BLEAppearanceAirConditioningSubCategory)
+}
+
+|  {
+  category: `"Humidifier"`
+  subcategory: [`BLEAppearanceHumidifierSubCategory`](./BLEAppearanceHumidifierSubCategory)
+}
+
+|  {
+  category: `"Heating"`
+  subcategory: [`BLEAppearanceHeatingSubCategory`](./BLEAppearanceHeatingSubCategory)
+}
+
+|  {
+  category: `"AccessControl"`
+  subcategory: [`BLEAppearanceAccessControlSubCategory`](./BLEAppearanceAccessControlSubCategory)
+}
+
+|  {
+  category: `"MotorizedDevice"`
+  subcategory: [`BLEAppearanceMotorizedDeviceSubCategory`](./BLEAppearanceMotorizedDeviceSubCategory)
+}
+
+|  {
+  category: `"PowerDevice"`
+  subcategory: [`BLEAppearancePowerDeviceSubCategory`](./BLEAppearancePowerDeviceSubCategory)
+}
+
+|  {
+  category: `"LightSource"`
+  subcategory: [`BLEAppearanceLightSourceSubCategory`](./BLEAppearanceLightSourceSubCategory)
+}
+
+|  {
+  category: `"WindowCovering"`
+  subcategory: [`BLEAppearanceWindowCoveringSubCategory`](./BLEAppearanceWindowCoveringSubCategory)
+}
+
+|  {
+  category: `"AudioSink"`
+  subcategory: [`BLEAppearanceAudioSinkSubCategory`](./BLEAppearanceAudioSinkSubCategory)
+}
+
+|  {
+  category: `"AudioSource"`
+  subcategory: [`BLEAppearanceAudioSourceSubCategory`](./BLEAppearanceAudioSourceSubCategory)
+}
+
+|  {
+  category: `"MotorizedVehicle"`
+  subcategory: [`BLEAppearanceMotorizedVehicleSubCategory`](./BLEAppearanceMotorizedVehicleSubCategory)
+}
+
+|  {
+  category: `"DomesticAppliance"`
+  subcategory: [`BLEAppearanceDomesticApplianceSubCategory`](./BLEAppearanceDomesticApplianceSubCategory)
+}
+
+|  {
+  category: `"WearableAudioDevice"`
+  subcategory: [`BLEAppearanceWearableAudioDeviceSubCategory`](./BLEAppearanceWearableAudioDeviceSubCategory)
+}
+
+|  {
+  category: `"Aircraft"`
+  subcategory: [`BLEAppearanceAircraftSubCategory`](./BLEAppearanceAircraftSubCategory)
+}
+
+|  {
+  category: `"AVEquipment"`
+  subcategory: [`BLEAppearanceAVEquipmentSubCategory`](./BLEAppearanceAVEquipmentSubCategory)
+}
+
+|  {
+  category: `"DisplayEquipment"`
+  subcategory: [`BLEAppearanceDisplayEquipmentSubCategory`](./BLEAppearanceDisplayEquipmentSubCategory)
+}
+
+|  {
+  category: `"Hearingaid"`
+  subcategory: [`BLEAppearanceHearingaidSubCategory`](./BLEAppearanceHearingaidSubCategory)
+}
+
+|  {
+  category: `"Gaming"`
+  subcategory: [`BLEAppearanceGamingSubCategory`](./BLEAppearanceGamingSubCategory)
+}
+
+|  {
+  category: `"Signage"`
+  subcategory: [`BLEAppearanceSignageSubCategory`](./BLEAppearanceSignageSubCategory)
+}
+
+|  {
+  category: `"PulseOximeter"`
+  subcategory: [`BLEAppearancePulseOximeterSubCategory`](./BLEAppearancePulseOximeterSubCategory)
+}
+
+|  {
+  category: `"WeightScale"`
+  subcategory: [`BLEAppearanceWeightScaleSubCategory`](./BLEAppearanceWeightScaleSubCategory)
+}
+
+|  {
+  category: `"PersonalMobilityDevice"`
+  subcategory: [`BLEAppearancePersonalMobilityDeviceSubCategory`](./BLEAppearancePersonalMobilityDeviceSubCategory)
+}
+
+|  {
+  category: `"ContinuousGlucoseMonitor"`
+  subcategory: [`BLEAppearanceContinuousGlucoseMonitorSubCategory`](./BLEAppearanceContinuousGlucoseMonitorSubCategory)
+}
+
+|  {
+  category: `"InsulinPump"`
+  subcategory: [`BLEAppearanceInsulinPumpSubCategory`](./BLEAppearanceInsulinPumpSubCategory)
+}
+
+|  {
+  category: `"MedicationDelivery"`
+  subcategory: [`BLEAppearanceMedicationDeliverySubCategory`](./BLEAppearanceMedicationDeliverySubCategory)
+}
+
+|  {
+  category: `"Spirometer"`
+  subcategory: [`BLEAppearanceSpirometerSubCategory`](./BLEAppearanceSpirometerSubCategory)
+}
+
+|  {
+  category: `"OutdoorSportsActivity"`
+  subcategory: [`BLEAppearanceOutdoorSportsActivitySubCategory`](./BLEAppearanceOutdoorSportsActivitySubCategory)
+}
+
+|  {
+  category: `"IndustrialMeasurementDevice"`
+  subcategory: [`BLEAppearanceIndustrialMeasurementDeviceSubCategory`](./BLEAppearanceIndustrialMeasurementDeviceSubCategory)
+}
+
+|  {
+  category: `"IndustrialTools"`
+  subcategory: [`BLEAppearanceIndustrialToolsSubCategory`](./BLEAppearanceIndustrialToolsSubCategory)
 }

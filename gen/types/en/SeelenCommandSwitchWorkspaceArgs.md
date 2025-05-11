@@ -1,0 +1,3 @@
+# **SeelenCommandSwitchWorkspaceArgs**
+## **Properties**:
+### idx: `number`

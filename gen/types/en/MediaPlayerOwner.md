@@ -1,0 +1,3 @@
+# **MediaPlayerOwner**
+## **Properties**:
+### name: `string`

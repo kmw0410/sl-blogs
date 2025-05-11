@@ -1,5 +1,3 @@
 # **BLEAppearanceTagSubCategory**
-
 ## **Properties**:
-
 ### Reserved: `number`

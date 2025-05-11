@@ -1,0 +1,2 @@
+# **MediaDeviceType**
+`"input"` | `"output"`

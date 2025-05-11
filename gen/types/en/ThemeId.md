@@ -1,3 +1,2 @@
 # **ThemeId**
-
 [`ResourceId`](./ResourceId)

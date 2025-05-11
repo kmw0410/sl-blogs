@@ -1,5 +1,3 @@
 # **BLEAppearanceUnknownSubCategory**
-
 ## **Properties**:
-
 ### Reserved: `number`

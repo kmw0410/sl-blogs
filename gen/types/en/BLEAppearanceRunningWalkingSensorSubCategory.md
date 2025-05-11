@@ -1,4 +1,4 @@
 # **BLEAppearanceRunningWalkingSensorSubCategory**
-
-`"InShoeRunningWalkingSensor"` | `"OnShoeRunningWalkingSensor"` |
-`"OnHipRunningWalkingSensor"` | { Reserved: `number` }
+`"InShoeRunningWalkingSensor"` | `"OnShoeRunningWalkingSensor"` | `"OnHipRunningWalkingSensor"` | {
+  Reserved: `number`
+}

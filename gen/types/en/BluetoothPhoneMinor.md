@@ -1,17 +1,18 @@
 # **BluetoothPhoneMinor**
-
 6 bits
 
 `"Uncategorized"`
 
-| `"Cellular"`
+|  `"Cellular"`
 
-| `"Cordless"`
+|  `"Cordless"`
 
-| `"SmartPhone"`
+|  `"SmartPhone"`
 
-| `"Wired"`
+|  `"Wired"`
 
-| `"Isdn"`
+|  `"Isdn"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

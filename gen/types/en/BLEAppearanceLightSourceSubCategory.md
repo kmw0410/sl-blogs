@@ -1,19 +1,20 @@
 # **BLEAppearanceLightSourceSubCategory**
-
 `"IncandescentLightBulb"`
 
-| `"LEDLamp"`
+|  `"LEDLamp"`
 
-| `"HIDLamp"`
+|  `"HIDLamp"`
 
-| `"FluorescentLamp"`
+|  `"FluorescentLamp"`
 
-| `"LEDArray"`
+|  `"LEDArray"`
 
-| `"MultiColorLEDArray"`
+|  `"MultiColorLEDArray"`
 
-| `"Lowvoltagehalogen"`
+|  `"Lowvoltagehalogen"`
 
-| `"OrganiclightemittingdiodeOLED"`
+|  `"OrganiclightemittingdiodeOLED"`
 
-| { Reserved: `number` }
+|  {
+  Reserved: `number`
+}

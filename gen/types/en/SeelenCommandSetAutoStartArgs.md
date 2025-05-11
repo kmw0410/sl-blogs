@@ -1,0 +1,3 @@
+# **SeelenCommandSetAutoStartArgs**
+## **Properties**:
+### enabled: `boolean`

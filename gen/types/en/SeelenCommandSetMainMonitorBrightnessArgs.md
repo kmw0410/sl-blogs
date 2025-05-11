@@ -1,0 +1,3 @@
+# **SeelenCommandSetMainMonitorBrightnessArgs**
+## **Properties**:
+### brightness: `number`

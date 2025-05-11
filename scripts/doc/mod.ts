@@ -166,9 +166,11 @@ function processRootNode(folderName: string, nodes: DocNode[]) {
   const [resTypes, resLib] = await Promise.all([
     fetch(
       "https://raw.githubusercontent.com/Seelen-Inc/slu-lib/refs/heads/master/gen/doc-types.json",
+      { cache: "no-cache" },
     ),
     fetch(
       "https://raw.githubusercontent.com/Seelen-Inc/slu-lib/refs/heads/master/gen/doc-lib.json",
+      { cache: "no-cache" },
     ),
   ]);
 

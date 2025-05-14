@@ -1,5 +1,7 @@
 # **NetworkAdapter**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### name: `string`

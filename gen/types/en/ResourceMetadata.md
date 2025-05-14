@@ -1,5 +1,7 @@
 # **ResourceMetadata**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### displayName: [`ResourceText`](./ResourceText)

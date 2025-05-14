@@ -1,5 +1,7 @@
 # **PhysicalMonitor**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

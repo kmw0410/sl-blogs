@@ -1,5 +1,7 @@
 # **MediaPlayer**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### umid: `string`

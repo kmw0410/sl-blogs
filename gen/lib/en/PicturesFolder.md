@@ -1,0 +1,3 @@
+# **PicturesFolder**
+
+## **Kind: Class**

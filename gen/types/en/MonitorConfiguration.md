@@ -1,5 +1,7 @@
 # **MonitorConfiguration**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### byWidget: [`MonitorSettingsByWidget`](./MonitorSettingsByWidget)

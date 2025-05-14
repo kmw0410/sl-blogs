@@ -1,5 +1,7 @@
 # **SeelenCommandWegToggleWindowStateArgs**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### hwnd: `number`

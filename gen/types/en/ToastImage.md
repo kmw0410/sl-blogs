@@ -1,5 +1,7 @@
 # **ToastImage**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### @id: `number` | `null`

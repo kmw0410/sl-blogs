@@ -1,1 +1,3 @@
 # **SupportedLanguagesCode**
+
+## **Kind: TypeAlias**

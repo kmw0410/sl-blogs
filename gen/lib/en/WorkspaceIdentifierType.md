@@ -1,3 +1,3 @@
 # **WorkspaceIdentifierType**
 
-`"Name"` | `"Index"`
+## **Kind: Variable**

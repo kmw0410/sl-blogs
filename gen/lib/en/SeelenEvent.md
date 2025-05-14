@@ -1,0 +1,3 @@
+# **SeelenEvent**
+
+## **Kind: Enum**

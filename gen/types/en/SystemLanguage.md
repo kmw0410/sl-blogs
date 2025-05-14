@@ -1,5 +1,7 @@
 # **SystemLanguage**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

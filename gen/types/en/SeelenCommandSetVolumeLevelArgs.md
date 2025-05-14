@@ -1,5 +1,7 @@
 # **SeelenCommandSetVolumeLevelArgs**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### deviceId: `string`

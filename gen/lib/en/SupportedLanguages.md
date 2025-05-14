@@ -1,0 +1,3 @@
+# **SupportedLanguages**
+
+## **Kind: Variable**

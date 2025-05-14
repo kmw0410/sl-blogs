@@ -1,5 +1,7 @@
 # **SeelenWallSettingsByMonitor**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### enabled: `boolean`

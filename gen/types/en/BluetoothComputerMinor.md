@@ -1,5 +1,9 @@
 # **BluetoothComputerMinor**
 
+## **Kind: TypeAlias**
+
+## **Description**
+
 6 bits
 
 `"Uncategorized"`

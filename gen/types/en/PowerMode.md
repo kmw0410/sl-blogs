@@ -1,5 +1,7 @@
 # **PowerMode**
 
+## **Kind: TypeAlias**
+
 `"BatterySaver"`
 
 | `"BetterBattery"`

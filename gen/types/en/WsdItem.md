@@ -1,5 +1,7 @@
 # **WsdItem**
 
+## **Kind: TypeAlias**
+
 { type: `"switch"` } & [`WsdItemSwitch`](./WsdItemSwitch) | { type: `"select"` }
 & [`WsdItemSelect`](./WsdItemSelect) | { type: `"input-text"` } &
 [`WsdItemInputText`](./WsdItemInputText) | { type: `"input-number"` } &

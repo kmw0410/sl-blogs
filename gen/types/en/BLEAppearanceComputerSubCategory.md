@@ -1,5 +1,7 @@
 # **BLEAppearanceComputerSubCategory**
 
+## **Kind: TypeAlias**
+
 `"DesktopWorkstation"`
 
 | `"ServerclassComputer"`

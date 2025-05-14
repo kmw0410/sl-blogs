@@ -1,0 +1,3 @@
+# **LauncherHistory**
+
+## **Kind: Class**

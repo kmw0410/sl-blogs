@@ -1,5 +1,7 @@
 # **SeelenLauncherRunner**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

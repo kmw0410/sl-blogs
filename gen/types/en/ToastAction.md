@@ -1,5 +1,7 @@
 # **ToastAction**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### @content: `string`

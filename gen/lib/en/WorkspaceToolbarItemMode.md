@@ -1,3 +1,3 @@
 # **WorkspaceToolbarItemMode**
 
-`"dotted"` | `"named"` | `"numbered"`
+## **Kind: Variable**

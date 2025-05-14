@@ -1,5 +1,7 @@
 # **SeelenWegSettingsByMonitor**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### enabled: `boolean`

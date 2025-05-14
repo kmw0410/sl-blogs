@@ -1,5 +1,7 @@
 # **MediaToolbarItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

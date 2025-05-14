@@ -1,5 +1,7 @@
 # **WsdItemInputText**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### key: `string`

@@ -1,5 +1,7 @@
 # **BLEAppearanceAccessControlSubCategory**
 
+## **Kind: TypeAlias**
+
 `"AccessDoor"`
 
 | `"GarageDoor"`

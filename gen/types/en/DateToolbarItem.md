@@ -1,5 +1,7 @@
 # **DateToolbarItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

@@ -1,5 +1,7 @@
 # **BluetoothDevice**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

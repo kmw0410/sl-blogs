@@ -1,5 +1,7 @@
 # **FolderChangedArgs**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### ofFolder: [`FolderType`](./FolderType)

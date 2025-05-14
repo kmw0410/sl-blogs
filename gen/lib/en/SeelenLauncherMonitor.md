@@ -1,3 +1,3 @@
 # **SeelenLauncherMonitor**
 
-`"Primary"` | `"MouseOver"`
+## **Kind: Variable**

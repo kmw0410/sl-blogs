@@ -1,5 +1,7 @@
 # **SeelenWallSettings**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### enabled: `boolean`

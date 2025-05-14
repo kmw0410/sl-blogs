@@ -1,5 +1,7 @@
 # **TrayIcon**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### label: `string`

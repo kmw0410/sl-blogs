@@ -1,5 +1,7 @@
 # **MediaDeviceSession**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

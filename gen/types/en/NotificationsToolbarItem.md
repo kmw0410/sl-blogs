@@ -1,5 +1,7 @@
 # **NotificationsToolbarItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

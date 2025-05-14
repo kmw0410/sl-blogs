@@ -1,5 +1,7 @@
 # **Placeholder**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### isReorderDisabled: `boolean`

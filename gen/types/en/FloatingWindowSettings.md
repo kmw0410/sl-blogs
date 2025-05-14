@@ -1,5 +1,7 @@
 # **FloatingWindowSettings**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### width: `number`

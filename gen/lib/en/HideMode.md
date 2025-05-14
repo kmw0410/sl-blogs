@@ -1,3 +1,3 @@
 # **HideMode**
 
-`"Never"` | `"Always"` | `"OnOverlap"`
+## **Kind: Variable**

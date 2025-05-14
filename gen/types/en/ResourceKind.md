@@ -1,5 +1,7 @@
 # **ResourceKind**
 
+## **Kind: TypeAlias**
+
 `"Theme"`
 
 | `"IconPack"`

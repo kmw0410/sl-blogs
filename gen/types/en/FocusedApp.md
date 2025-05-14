@@ -1,5 +1,7 @@
 # **FocusedApp**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### hwnd: `number`

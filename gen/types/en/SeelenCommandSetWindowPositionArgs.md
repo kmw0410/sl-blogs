@@ -1,5 +1,7 @@
 # **SeelenCommandSetWindowPositionArgs**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### hwnd: `number`

@@ -1,0 +1,3 @@
+# **NodeType**
+
+## **Kind: Variable**

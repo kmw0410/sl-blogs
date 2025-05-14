@@ -1,5 +1,9 @@
 # **BluetoothNetworkMinor**
 
+## **Kind: TypeAlias**
+
+## **Description**
+
 3 bits
 
 `"FullyAvailable"`

@@ -1,5 +1,7 @@
 # **Widget**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: [`WidgetId`](./WidgetId)

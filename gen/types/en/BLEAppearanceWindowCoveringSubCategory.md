@@ -1,5 +1,7 @@
 # **BLEAppearanceWindowCoveringSubCategory**
 
+## **Kind: TypeAlias**
+
 `"WindowShades"`
 
 | `"WindowBlinds"`

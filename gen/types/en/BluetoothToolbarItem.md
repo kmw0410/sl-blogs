@@ -1,5 +1,7 @@
 # **BluetoothToolbarItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

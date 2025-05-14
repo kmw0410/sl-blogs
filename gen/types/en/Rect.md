@@ -1,5 +1,7 @@
 # **Rect**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### left: `number`

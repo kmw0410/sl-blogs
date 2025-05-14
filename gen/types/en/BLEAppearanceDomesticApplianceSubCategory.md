@@ -1,5 +1,7 @@
 # **BLEAppearanceDomesticApplianceSubCategory**
 
+## **Kind: TypeAlias**
+
 `"Refrigerator"`
 
 | `"Freezer"`

@@ -1,5 +1,7 @@
 # **AppNotification**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `number`

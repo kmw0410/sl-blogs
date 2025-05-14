@@ -1,5 +1,7 @@
 # **DesktopWorkspace**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: [`WorkspaceId`](./WorkspaceId)

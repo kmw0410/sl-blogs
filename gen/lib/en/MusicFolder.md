@@ -1,0 +1,3 @@
+# **MusicFolder**
+
+## **Kind: Class**

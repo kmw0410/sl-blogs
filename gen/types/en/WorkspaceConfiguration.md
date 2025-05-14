@@ -1,5 +1,7 @@
 # **WorkspaceConfiguration**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### identifier: [`WorkspaceIdentifier`](./WorkspaceIdentifier)

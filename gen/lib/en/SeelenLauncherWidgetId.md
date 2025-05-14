@@ -1,0 +1,3 @@
+# **SeelenLauncherWidgetId**
+
+## **Kind: Variable**

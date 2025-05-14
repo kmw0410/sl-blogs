@@ -1,5 +1,7 @@
 # **SettingsToolbarItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

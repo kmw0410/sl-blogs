@@ -1,3 +1,3 @@
 # **FancyToolbarSide**
 
-`"Top"` | `"Bottom"`
+## **Kind: Variable**

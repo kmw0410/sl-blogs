@@ -1,5 +1,7 @@
 # **BluetoothMajorServiceClass**
 
+## **Kind: TypeAlias**
+
 `"LimitedDiscoverableMode"`
 
 | `"LowEnergyAudio"`

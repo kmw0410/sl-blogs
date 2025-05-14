@@ -1,0 +1,3 @@
+# **SeelenWegWidgetId**
+
+## **Kind: Variable**

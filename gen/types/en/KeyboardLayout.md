@@ -1,5 +1,7 @@
 # **KeyboardLayout**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

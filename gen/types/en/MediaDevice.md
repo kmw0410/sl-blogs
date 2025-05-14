@@ -1,5 +1,7 @@
 # **MediaDevice**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

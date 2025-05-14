@@ -1,5 +1,7 @@
 # **BLEAppearanceHumanInterfaceDeviceSubCategory**
 
+## **Kind: TypeAlias**
+
 `"Keyboard"`
 
 | `"Mouse"`

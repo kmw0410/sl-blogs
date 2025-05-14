@@ -1,5 +1,7 @@
 # **SeelenCommandGetIconArgs**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### path?: `string` | `null`

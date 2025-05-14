@@ -1,5 +1,7 @@
 # **WmLeafNode**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### subtype: [`NodeSubtype`](./NodeSubtype)

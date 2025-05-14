@@ -1,5 +1,7 @@
 # **WindowManagerSettings**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### enabled: `boolean`

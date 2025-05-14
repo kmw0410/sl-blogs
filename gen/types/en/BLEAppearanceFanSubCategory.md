@@ -1,5 +1,7 @@
 # **BLEAppearanceFanSubCategory**
 
+## **Kind: TypeAlias**
+
 `"CeilingFan"`
 
 | `"AxialFan"`

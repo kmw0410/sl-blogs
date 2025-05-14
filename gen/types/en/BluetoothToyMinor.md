@@ -1,5 +1,9 @@
 # **BluetoothToyMinor**
 
+## **Kind: TypeAlias**
+
+## **Description**
+
 6 bits
 
 `"Robot"`

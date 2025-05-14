@@ -1,5 +1,7 @@
 # **Brightness**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### min: `number`

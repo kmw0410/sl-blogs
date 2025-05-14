@@ -1,5 +1,7 @@
 # **BLEAppearanceSensorSubCategory**
 
+## **Kind: TypeAlias**
+
 `"MotionSensor"`
 
 | `"AirqualitySensor"`

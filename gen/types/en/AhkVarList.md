@@ -1,5 +1,7 @@
 # **AhkVarList**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### toggleLauncher: [`AhkVar`](./AhkVar)

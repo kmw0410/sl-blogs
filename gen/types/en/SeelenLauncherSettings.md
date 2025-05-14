@@ -1,5 +1,7 @@
 # **SeelenLauncherSettings**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### enabled: `boolean`

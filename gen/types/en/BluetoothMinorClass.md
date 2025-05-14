@@ -1,5 +1,7 @@
 # **BluetoothMinorClass**
 
+## **Kind: TypeAlias**
+
 { Miscellaneous: { unused: `number`} }
 
 | { Computer: [`BluetoothComputerMinor`](./BluetoothComputerMinor) }

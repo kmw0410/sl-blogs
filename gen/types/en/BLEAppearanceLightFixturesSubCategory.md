@@ -1,5 +1,7 @@
 # **BLEAppearanceLightFixturesSubCategory**
 
+## **Kind: TypeAlias**
+
 `"WallLight"`
 
 | `"CeilingLight"`

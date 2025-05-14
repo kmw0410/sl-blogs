@@ -1,5 +1,7 @@
 # **SeelenCommandRunAsAdminArgs**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### program: `string`

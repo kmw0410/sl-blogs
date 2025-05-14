@@ -1,5 +1,7 @@
 # **RegistryNotifyIcon**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### key: `string`

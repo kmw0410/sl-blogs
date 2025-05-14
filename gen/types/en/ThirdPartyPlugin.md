@@ -1,5 +1,7 @@
 # **ThirdPartyPlugin**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### target: [`ResourceId`](./ResourceId)

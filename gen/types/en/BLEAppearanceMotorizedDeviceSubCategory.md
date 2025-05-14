@@ -1,5 +1,7 @@
 # **BLEAppearanceMotorizedDeviceSubCategory**
 
+## **Kind: TypeAlias**
+
 `"MotorizedGate"`
 
 | `"Awning"`

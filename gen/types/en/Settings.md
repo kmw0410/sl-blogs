@@ -1,5 +1,7 @@
 # **Settings**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### monitorsV2: { [key: `string`]?: [`MonitorConfiguration`](./MonitorConfiguration) }
@@ -46,3 +48,18 @@ Updater Settings
 ### byWidget: [`SettingsByWidget`](./SettingsByWidget)
 
 Custom settings for widgets
+
+### byTheme: { [key: [`ThemeId`](./ThemeId)]?: { [key: `string`]?: `string` } }
+
+Custom variables for themes by theme id
+
+### example
+
+```json
+{
+  "@username/themeName": {
+    "--css-variable-name": "123px",
+    "--css-variable-name2": "#aabbccaa"
+  }
+}
+```

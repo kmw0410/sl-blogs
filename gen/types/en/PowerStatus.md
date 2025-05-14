@@ -1,5 +1,7 @@
 # **PowerStatus**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### acLineStatus: `number`

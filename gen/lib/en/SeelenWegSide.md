@@ -1,3 +1,3 @@
 # **SeelenWegSide**
 
-`"Left"` | `"Right"` | `"Top"` | `"Bottom"`
+## **Kind: Variable**

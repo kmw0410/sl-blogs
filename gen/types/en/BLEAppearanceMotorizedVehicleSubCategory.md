@@ -1,5 +1,7 @@
 # **BLEAppearanceMotorizedVehicleSubCategory**
 
+## **Kind: TypeAlias**
+
 `"Car"`
 
 | `"LargeGoodsVehicle"`

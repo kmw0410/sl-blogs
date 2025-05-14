@@ -1,5 +1,7 @@
 # **WindowManagerSettingsByMonitor**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### enabled: `boolean`

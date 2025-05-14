@@ -1,5 +1,7 @@
 # **ToastTemplateType**
 
+## **Kind: TypeAlias**
+
 `"ToastImageAndText01"`
 
 | `"ToastImageAndText02"`

@@ -1,5 +1,7 @@
 # **BLEAppearanceHeatingSubCategory**
 
+## **Kind: TypeAlias**
+
 `"Radiator"`
 
 | `"Boiler"`

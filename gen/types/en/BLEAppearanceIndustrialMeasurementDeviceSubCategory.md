@@ -1,5 +1,7 @@
 # **BLEAppearanceIndustrialMeasurementDeviceSubCategory**
 
+## **Kind: TypeAlias**
+
 `"TorqueTestingDevice"`
 
 | `"Caliper"`

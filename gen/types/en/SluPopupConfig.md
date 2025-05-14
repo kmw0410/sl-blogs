@@ -1,5 +1,7 @@
 # **SluPopupConfig**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### title: `Array`<[`SluPopupContent`](./SluPopupContent)>

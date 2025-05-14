@@ -1,5 +1,7 @@
 # **BLEAppearanceAudioSinkSubCategory**
 
+## **Kind: TypeAlias**
+
 `"StandaloneSpeaker"`
 
 | `"Soundbar"`

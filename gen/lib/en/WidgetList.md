@@ -1,0 +1,3 @@
+# **WidgetList**
+
+## **Kind: Class**

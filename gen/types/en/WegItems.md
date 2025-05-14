@@ -1,5 +1,7 @@
 # **WegItems**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### isReorderDisabled: `boolean`

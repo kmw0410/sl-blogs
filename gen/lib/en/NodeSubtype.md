@@ -1,3 +1,3 @@
 # **NodeSubtype**
 
-`"Temporal"` | `"Permanent"`
+## **Kind: Variable**

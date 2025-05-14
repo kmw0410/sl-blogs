@@ -1,3 +1,3 @@
 # **VirtualDesktopStrategy**
 
-`"Native"` | `"Seelen"`
+## **Kind: Variable**

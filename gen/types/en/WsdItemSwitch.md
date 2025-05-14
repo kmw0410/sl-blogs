@@ -1,5 +1,7 @@
 # **WsdItemSwitch**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### key: `string`

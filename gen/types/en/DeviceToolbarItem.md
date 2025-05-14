@@ -1,5 +1,7 @@
 # **DeviceToolbarItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

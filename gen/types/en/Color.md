@@ -1,5 +1,9 @@
 # **Color**
 
+## **Kind: TypeAlias**
+
+## **Description**
+
 since v2.2.0 this should be used to handle every used color in the app
 
 ## **Properties**:

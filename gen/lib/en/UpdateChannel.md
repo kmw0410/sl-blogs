@@ -1,3 +1,3 @@
 # **UpdateChannel**
 
-`"Release"` | `"Beta"` | `"Nightly"`
+## **Kind: Variable**

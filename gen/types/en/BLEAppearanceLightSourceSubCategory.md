@@ -1,5 +1,7 @@
 # **BLEAppearanceLightSourceSubCategory**
 
+## **Kind: TypeAlias**
+
 `"IncandescentLightBulb"`
 
 | `"LEDLamp"`

@@ -1,0 +1,3 @@
+# **AppConfigurationList**
+
+## **Kind: Class**

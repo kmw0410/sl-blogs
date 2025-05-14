@@ -1,5 +1,7 @@
 # **AhkVar**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### fancy: `string`

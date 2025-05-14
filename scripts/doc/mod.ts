@@ -1,56 +1,60 @@
 import type {
   DocNode,
+  FunctionDef,
   InterfacePropertyDef,
   TsTypeDef,
 } from "jsr:@deno/doc@0.172.0";
 
 function processTypeDefinition(
   def: TsTypeDef,
-  opt?: { isUnionMember?: boolean },
+  opt?: { isRoot?: boolean },
 ): string[] {
-  const { isUnionMember } = opt || {};
+  const { isRoot } = opt || {};
 
   if (def.kind === "union") {
     const types = def.union.map((type) => {
-      return processTypeDefinition(type, { isUnionMember: true }).join("\n");
+      return processTypeDefinition(type).join("\n");
     });
     return [types.length > 5 ? types.join("\n\n|  ") : types.join(" | ")];
   }
 
   if (def.kind === "intersection") {
     const types = def.intersection.map((type) => {
-      return processTypeDefinition(type, { isUnionMember: true }).join("\n");
+      return processTypeDefinition(type).join("\n");
     });
     return [types.length > 5 ? types.join("\n\n&  ") : types.join(" & ")];
   }
 
   if (def.kind === "typeLiteral") {
-    if (isUnionMember) {
-      const entries = def.typeLiteral.properties.map((prop) => {
+    if (isRoot) {
+      const md = [];
+      md.push("## **Properties**:");
+      def.typeLiteral.properties.forEach((_prop) => {
+        const prop = _prop as InterfacePropertyDef;
+        const readonly = prop.readonly ? "readonly " : "";
+        const optional = prop.optional ? "?" : "";
         const value = prop.tsType
-          ? processTypeDefinition(prop.tsType, { isUnionMember: true }).join("")
+          ? processTypeDefinition(prop.tsType).join("")
           : "unknown";
-        return `${prop.name}: ${value}`;
+        md.push(`### ${readonly}${prop.name}${optional}: ${value}`);
+
+        if (prop.jsDoc) {
+          md.push(prop.jsDoc.doc);
+        }
       });
-      return ["{", ...entries.map((entry) => `  ${entry}`), "}"];
+      return md;
     }
 
-    const md = [];
-    md.push("## **Properties**:");
-    def.typeLiteral.properties.forEach((_prop) => {
-      const prop = _prop as InterfacePropertyDef;
-      const readonly = prop.readonly ? "readonly " : "";
-      const optional = prop.optional ? "?" : "";
+    const entries = def.typeLiteral.properties.map((prop) => {
       const value = prop.tsType
         ? processTypeDefinition(prop.tsType).join("")
         : "unknown";
-      md.push(`### ${readonly}${prop.name}${optional}: ${value}`);
+      const readonly = prop.readonly ? "readonly " : "";
+      const optional = prop.optional ? "?" : "";
 
-      if (prop.jsDoc) {
-        md.push(prop.jsDoc.doc);
-      }
+      return `${readonly}${prop.name}${optional}: ${value}`;
     });
-    return md;
+    return ["{", ...entries.map((entry) => `  ${entry}`), "}"];
   }
 
   if (def.kind === "literal") {
@@ -82,13 +86,13 @@ function processTypeDefinition(
       return ["`any`"];
     }
 
-    if (ref.typeName === "Array") {
+    if (ref.typeParams) {
       const params = ref.typeParams
-        ?.map((param) => {
+        .map((param) => {
           return processTypeDefinition(param).join("");
         })
-        .join(", ") || "unknown";
-      return [`\`Array\`<${params}>`];
+        .join(", ") || "`unknown`";
+      return [`\`${ref.typeName}\`<${params}>`];
     }
 
     return [`[\`${ref.typeName}\`](./${ref.typeName})`];
@@ -114,7 +118,7 @@ function processTypeDefinition(
       : "any";
 
     const value = def.mappedType.tsType
-      ? processTypeDefinition(def.mappedType.tsType, { isUnionMember: true })
+      ? processTypeDefinition(def.mappedType.tsType)
         .join("")
       : "unknown";
 
@@ -129,31 +133,63 @@ function processTypeDefinition(
   return [];
 }
 
+function processFunctionDefinition(
+  def: FunctionDef,
+): string[] {
+  const md: string[] = [];
+
+  if (def.isAsync) {
+    md.push("## **Async**");
+    md.push("This function is async.");
+  }
+
+  md.push("## **Returns**:");
+  if (def.returnType) {
+    const type = processTypeDefinition(def.returnType);
+    md.push(...type);
+  } else {
+    md.push("`void`");
+  }
+
+  return md;
+}
+
 function processRootNode(folderName: string, nodes: DocNode[]) {
   for (const node of nodes) {
     const md: string[] = [];
     md.push(`# **${node.name}**`);
-    // md.push(`**kind**: \`${node.kind}\``);
+    md.push(`## **Kind: ${capitalize(node.kind)}**`);
 
     const nodeDoc = node.jsDoc?.doc;
     if (nodeDoc) {
+      md.push("## **Description**");
       md.push(nodeDoc);
       md.push("");
     }
 
-    if (node.kind !== "typeAlias") {
-      continue;
+    switch (node.kind) {
+      case "typeAlias": {
+        const typeDef = node.typeAliasDef.tsType;
+        const processed = processTypeDefinition(typeDef, { isRoot: true });
+        md.push(...processed);
+        break;
+      }
+      case "function": {
+        const processed = processFunctionDefinition(node.functionDef);
+        md.push(...processed);
+        break;
+      }
     }
-
-    const typeDef = node.typeAliasDef.tsType;
-    const processed = processTypeDefinition(typeDef);
-    md.push(...processed);
 
     Deno.writeTextFileSync(
       `./gen/${folderName}/en/${node.name}.md`,
       md.join("\n"),
     );
   }
+}
+
+function capitalize(str: string) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
 {

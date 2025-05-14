@@ -1,5 +1,7 @@
 # **WsdItemSelect**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### key: `string`

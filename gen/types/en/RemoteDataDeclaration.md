@@ -1,5 +1,7 @@
 # **RemoteDataDeclaration**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### url: `string`

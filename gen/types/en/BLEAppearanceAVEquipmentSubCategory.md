@@ -1,5 +1,7 @@
 # **BLEAppearanceAVEquipmentSubCategory**
 
+## **Kind: TypeAlias**
+
 `"Amplifier"`
 
 | `"Receiver"`

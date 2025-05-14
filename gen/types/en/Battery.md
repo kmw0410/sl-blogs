@@ -1,5 +1,7 @@
 # **Battery**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### vendor: `string` | `null`

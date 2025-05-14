@@ -1,0 +1,3 @@
+# **SupportedLanguage**
+
+## **Kind: Interface**

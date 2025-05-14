@@ -1,5 +1,7 @@
 # **SluResourceFile**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### version: `number`

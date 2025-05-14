@@ -1,5 +1,7 @@
 # **WlanProfile**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### profileName: `string`

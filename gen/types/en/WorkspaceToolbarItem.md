@@ -1,5 +1,7 @@
 # **WorkspaceToolbarItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

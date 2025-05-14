@@ -1,5 +1,7 @@
 # **BLEAppearance**
 
+## **Kind: TypeAlias**
+
 { category: `"Unknown"` subcategory:
 [`BLEAppearanceUnknownSubCategory`](./BLEAppearanceUnknownSubCategory) }
 

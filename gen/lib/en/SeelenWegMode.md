@@ -1,3 +1,3 @@
 # **SeelenWegMode**
 
-`"FullWidth"` | `"MinContent"`
+## **Kind: Variable**

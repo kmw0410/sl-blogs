@@ -1,5 +1,7 @@
 # **IconPack**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: [`IconPackId`](./IconPackId)

@@ -1,5 +1,7 @@
 # **BLEAppearanceIndustrialToolsSubCategory**
 
+## **Kind: TypeAlias**
+
 `"MachineToolHolder"`
 
 | `"GenericClampingDevice"`

@@ -1,0 +1,3 @@
+# **SeelenWindowManagerWidgetId**
+
+## **Kind: Variable**

@@ -1,5 +1,7 @@
 # **WsdGroup**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### header: [`WsdItem`](./WsdItem) | `null`

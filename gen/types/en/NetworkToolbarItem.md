@@ -1,5 +1,7 @@
 # **NetworkToolbarItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

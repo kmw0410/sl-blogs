@@ -1,5 +1,7 @@
 # **BLEAppearanceAudioSourceSubCategory**
 
+## **Kind: TypeAlias**
+
 `"Microphone"`
 
 | `"Alarm"`

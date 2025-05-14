@@ -1,5 +1,7 @@
 # **UserToolbarItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

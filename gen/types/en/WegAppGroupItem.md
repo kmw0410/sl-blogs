@@ -1,7 +1,13 @@
 # **WegAppGroupItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
+
+### handle: `number`
 
 ### title: `string`
 
-### handle: `number`
+### is_iconic: `boolean`
+
+### is_zoomed: `boolean`

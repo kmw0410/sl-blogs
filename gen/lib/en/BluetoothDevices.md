@@ -1,0 +1,3 @@
+# **BluetoothDevices**
+
+## **Kind: Class**

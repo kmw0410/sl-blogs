@@ -1,5 +1,7 @@
 # **Toast**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### @launch: `string` | `null`

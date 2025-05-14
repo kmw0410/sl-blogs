@@ -1,5 +1,7 @@
 # **SeelenCommandMediaToggleMuteArgs**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### deviceId: `string`

@@ -1,5 +1,7 @@
 # **Binding**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### @template: [`ToastTemplateType`](./ToastTemplateType)

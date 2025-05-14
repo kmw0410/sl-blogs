@@ -1,3 +1,5 @@
 # **WorkspaceId**
 
+## **Kind: TypeAlias**
+
 `string`

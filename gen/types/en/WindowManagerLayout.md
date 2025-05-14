@@ -1,5 +1,7 @@
 # **WindowManagerLayout**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### structure: [`WmNode`](./WmNode)

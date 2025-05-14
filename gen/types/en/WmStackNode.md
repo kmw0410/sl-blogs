@@ -1,5 +1,7 @@
 # **WmStackNode**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### subtype: [`NodeSubtype`](./NodeSubtype)

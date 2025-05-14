@@ -1,3 +1,3 @@
 # **AppIdentifierType**
 
-`"Exe"` | `"Class"` | `"Title"` | `"Path"`
+## **Kind: Variable**

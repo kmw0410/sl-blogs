@@ -1,5 +1,7 @@
 # **Border**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### enabled: `boolean`

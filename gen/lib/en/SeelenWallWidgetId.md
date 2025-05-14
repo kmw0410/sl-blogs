@@ -1,0 +1,3 @@
+# **SeelenWallWidgetId**
+
+## **Kind: Variable**

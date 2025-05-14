@@ -1,5 +1,7 @@
 # **TrayToolbarItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

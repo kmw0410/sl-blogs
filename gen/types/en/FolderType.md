@@ -1,5 +1,7 @@
 # **FolderType**
 
+## **Kind: TypeAlias**
+
 `"Unknown"`
 
 | `"Recent"`

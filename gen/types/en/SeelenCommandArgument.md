@@ -1,5 +1,9 @@
 # **SeelenCommandArgument**
 
+## **Kind: TypeAlias**
+
+## **Description**
+
 Internal used as mapping of commands to their arguments
 
 { run: [`SeelenCommandRunArgs`](./SeelenCommandRunArgs) }

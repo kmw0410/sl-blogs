@@ -1,5 +1,7 @@
 # **Resource**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

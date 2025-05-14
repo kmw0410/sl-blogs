@@ -1,5 +1,9 @@
 # **BluetoothWearableMinor**
 
+## **Kind: TypeAlias**
+
+## **Description**
+
 6 bits
 
 `"Wristwatch"`

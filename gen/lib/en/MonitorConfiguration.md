@@ -1,0 +1,3 @@
+# **MonitorConfiguration**
+
+## **Kind: Class**

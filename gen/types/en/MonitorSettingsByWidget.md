@@ -1,5 +1,7 @@
 # **MonitorSettingsByWidget**
 
+## **Kind: TypeAlias**
+
 { @seelen/weg: [`SeelenWegSettingsByMonitor`](./SeelenWegSettingsByMonitor)
 @seelen/fancy-toolbar:
 [`FancyToolbarSettingsByMonitor`](./FancyToolbarSettingsByMonitor)

@@ -1,5 +1,7 @@
 # **ToastInputSelection**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### @id: `string`

@@ -1,5 +1,7 @@
 # **ToolbarItem**
 
+## **Kind: TypeAlias**
+
 { type: `"text"` } & [`TextToolbarItem`](./TextToolbarItem)
 
 | { type: `"generic"` } & [`GenericToolbarItem`](./GenericToolbarItem)

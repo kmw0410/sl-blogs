@@ -1,5 +1,7 @@
 # **SeelenWegSettings**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### enabled: `boolean`

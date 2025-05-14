@@ -1,5 +1,9 @@
 # **UIColors**
 
+## **Kind: TypeAlias**
+
+## **Description**
+
 https://learn.microsoft.com/is-is/uwp/api/windows.ui.viewmanagement.uicolortype?view=winrt-19041
 
 ## **Properties**:

@@ -1,0 +1,3 @@
+# **WegItemType**
+
+## **Kind: Variable**

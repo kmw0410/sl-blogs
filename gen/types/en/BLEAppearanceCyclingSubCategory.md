@@ -1,5 +1,7 @@
 # **BLEAppearanceCyclingSubCategory**
 
+## **Kind: TypeAlias**
+
 `"CyclingComputer"`
 
 | `"SpeedSensor"`

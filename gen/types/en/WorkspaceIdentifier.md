@@ -1,5 +1,7 @@
 # **WorkspaceIdentifier**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

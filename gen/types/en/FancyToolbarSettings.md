@@ -1,5 +1,7 @@
 # **FancyToolbarSettings**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### enabled: `boolean`

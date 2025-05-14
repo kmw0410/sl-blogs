@@ -1,5 +1,7 @@
 # **AppConfig**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### name: `string`

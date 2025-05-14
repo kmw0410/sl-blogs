@@ -1,5 +1,7 @@
 # **PinnedWegItemData**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### id: `string`

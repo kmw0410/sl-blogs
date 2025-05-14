@@ -1,5 +1,7 @@
 # **WlanBssEntry**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### ssid: `string` | `null`

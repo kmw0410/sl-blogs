@@ -1,5 +1,7 @@
 # **User**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### name: `string`

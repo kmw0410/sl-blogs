@@ -1,5 +1,7 @@
 # **BLEAppearanceHVACSubCategory**
 
+## **Kind: TypeAlias**
+
 `"Thermostat"`
 
 | `"Humidifier"`

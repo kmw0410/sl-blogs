@@ -1,5 +1,7 @@
 # **SeelenCommandConfirmBluetoothDevicePairArgs**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### accept: `boolean`

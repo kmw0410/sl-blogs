@@ -1,5 +1,7 @@
 # **SeelenCommandWlanConnectArgs**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### ssid: `string`

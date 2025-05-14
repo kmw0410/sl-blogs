@@ -1,5 +1,7 @@
 # **BLEAppearanceControlDeviceSubCategory**
 
+## **Kind: TypeAlias**
+
 `"Switch"`
 
 | `"Multiswitch"`

@@ -1,5 +1,7 @@
 # **ToastProgress**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### @title: `string` | `null`

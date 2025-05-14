@@ -1,5 +1,9 @@
 # **BluetoothMajorClass**
 
+## **Kind: TypeAlias**
+
+## **Description**
+
 5 bits
 
 `"Miscellaneous"`

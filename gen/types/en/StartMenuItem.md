@@ -1,5 +1,7 @@
 # **StartMenuItem**
 
+## **Kind: TypeAlias**
+
 ## **Properties**:
 
 ### path: `string`

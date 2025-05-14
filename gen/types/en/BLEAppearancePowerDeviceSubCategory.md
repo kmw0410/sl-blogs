@@ -1,5 +1,7 @@
 # **BLEAppearancePowerDeviceSubCategory**
 
+## **Kind: TypeAlias**
+
 `"PowerOutlet"`
 
 | `"PowerStrip"`

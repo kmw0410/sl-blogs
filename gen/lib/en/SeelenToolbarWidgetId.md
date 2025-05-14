@@ -1,0 +1,3 @@
+# **SeelenToolbarWidgetId**
+
+## **Kind: Variable**

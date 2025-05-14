@@ -1,5 +1,7 @@
 # **SeelenEventPayload**
 
+## **Kind: TypeAlias**
+
 { workspaces-changed: `Array`<[`DesktopWorkspace`](./DesktopWorkspace)> }
 
 | { active-workspace-changed: [`WorkspaceId`](./WorkspaceId) }

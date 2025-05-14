@@ -1,5 +1,9 @@
 # **SeelenCommandReturn**
 
+## **Kind: TypeAlias**
+
+## **Description**
+
 Internal used as mapping of commands to their return types
 
 { run: `null` }
@@ -174,7 +178,7 @@ Internal used as mapping of commands to their return types
 
 | { wlan_stop_scanning: `null` }
 
-| { wlan_connect: `null` }
+| { wlan_connect: `boolean` }
 
 | { wlan_disconnect: `null` }
 
